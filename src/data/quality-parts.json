@@ -1,0 +1,1922 @@
+{
+  "title": "Quality Parts",
+  "description": "Browse Federated Auto Parts product groups and preferred vendor partners — name-brand appearance, brake, chemical, electrical, engine, and more.",
+  "generatedFrom": "src/content/pages/quality-parts.md",
+  "groups": [
+    {
+      "name": "Appearance Products",
+      "id": "appearance-products",
+      "vendors": [
+        {
+          "name": "Berryman Products",
+          "url": "https://www.berrymanproducts.com/",
+          "logo": "/media/uploads/2023/12/BerrymanProducts.gif",
+          "products": "Engine Degreaser",
+          "address": "3800 E. Randol Mill Road, Arlington, TX 76011"
+        },
+        {
+          "name": "Carrand",
+          "url": "http://www.carrand.com/",
+          "logo": "/media/uploads/2023/12/carrand.gif",
+          "products": "Cleaning Accessories",
+          "address": "1225 E. Artesia Blvd. Carson, CA 90746"
+        },
+        {
+          "name": "Duragloss",
+          "url": "http://www.duragloss.com/",
+          "logo": "/media/uploads/2023/12/duragloss.gif",
+          "products": "Polishes, Waxes, Cleaners",
+          "address": "P.O. Box 317 Burlington, NC 27216-0317"
+        },
+        {
+          "name": "Mothers",
+          "url": "http://www.mothers.com/",
+          "logo": "/media/uploads/2023/12/Mothers.gif",
+          "products": "Polishes, Waxes, Cleaners",
+          "address": "5456 Industrial Drive Huntington Beach, CA 92649"
+        },
+        {
+          "name": "Radiator Specialty",
+          "url": "http://www.gunk.com/",
+          "logo": "/media/uploads/2023/12/radiatorspecialty.gif",
+          "products": "Engine Cleaner, Car & Truck Wash, Carpet/Upholstery Cleaner, Wheel Cleaner, Bug & Tar Remover",
+          "address": "318 Kings Highway Rosslyn Farms, PA 15106-1015"
+        },
+        {
+          "name": "Technical Chemical Company",
+          "url": "http://www.technicalchemical.com/",
+          "logo": "/media/uploads/2023/12/TechnicalChemicalCompany.gif",
+          "products": "Blue Magic, Pure Citrus",
+          "address": "3327 Pipeline Road Cleburne, TX 76031"
+        },
+        {
+          "name": "Teknor Apex",
+          "url": "http://www.teknorapex.com/division/hose",
+          "logo": "/media/uploads/2023/12/Apex.gif",
+          "products": "Home & Commercial Water Hoses",
+          "address": "505 Central Avenue Pawtucket, RI 02861"
+        }
+      ]
+    },
+    {
+      "name": "Brake & Chassis",
+      "id": "brake-and-chassis",
+      "vendors": [
+        {
+          "name": "AGS",
+          "url": "http://www.agscompany.com/",
+          "logo": "/media/uploads/2023/12/ags.gif",
+          "products": "Steel Brake Lines",
+          "address": "P.O. Box 729 Muskegon, MI 49443"
+        },
+        {
+          "name": "AISIN World Corp. of America",
+          "url": "http://www.aisin.com/product/automotive/",
+          "logo": "/media/uploads/2023/12/AISINWorldCorp.ofAmerica.gif",
+          "products": "ABS Speed Sensors",
+          "address": "24330 Garnier St. Torrance, CA 90505"
+        },
+        {
+          "name": "Akebono Brake Corporation",
+          "url": "http://www.akebonobrakes.com/",
+          "logo": "/media/uploads/2023/12/AkebonoBrakeCorporation.gif",
+          "products": "Brake Friction",
+          "address": "34385 W. Twelve Mile Road Farmington Hills, MI 48331"
+        },
+        {
+          "name": "BBB Industries",
+          "url": "http://www.bbbind.com/",
+          "logo": "/media/uploads/2023/12/BBBIndustries.gif",
+          "products": "Calipers, Steering",
+          "address": "29627 Renaissance Blvd. Daphne, AL 36619"
+        },
+        {
+          "name": "Bendix Brakes",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/BendixBrakes.gif",
+          "products": "Brake Pads, Rotors",
+          "address": "6700 WIldlife Way Long Grove, IL 60047"
+        },
+        {
+          "name": "Cardone",
+          "url": "http://www.cardone.com/",
+          "logo": "/media/uploads/2025/05/Cardone-FullColor_no-tag.png",
+          "products": "Brake Calipers, Master Cylinders, Power Brake Boosters, Rack & Pinion",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "Carlson",
+          "url": "https://www.carlsonqualitybrakeparts.com/",
+          "logo": "/media/uploads/2025/05/CARLSON-Logo.png",
+          "products": "Brake Hardware",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "Centric Parts",
+          "url": "https://centricparts.com/",
+          "logo": "/media/uploads/2025/05/Centric-Parts-Logo.png",
+          "products": "Pads & Shoes, Brake & Clutch Hydraulics, Calipers, Drums & Rotors, Wheel Hubs, Bearings, Seals",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "Delphi Technologies",
+          "url": "https://www.delphi.com/new-delphi-technologies#",
+          "logo": "/media/uploads/2023/12/delphi.gif",
+          "products": "Steering & Suspension",
+          "address": "1441 West Long Lake Road Troy, MI 48098-5090"
+        },
+        {
+          "name": "DMA Goodpoint",
+          "url": "http://www.dmagoodpoint.com/",
+          "logo": "/media/uploads/2023/12/DMAGoodpoint.gif",
+          "products": "Brake Wear Sensors",
+          "address": "233 N. Highway 701 Bypass Tabor City, NC 28463"
+        },
+        {
+          "name": "Dorman",
+          "url": "http://www.dormanproducts.com/",
+          "logo": "/media/uploads/2023/12/dor.gif",
+          "products": "Wheel Hardware, Hydraulics, Brake Lines, Control Arms",
+          "address": "3400 E. Walnut Street Colmar, PA 18915-1800"
+        },
+        {
+          "name": "FCS Automotive International, Inc.",
+          "url": "http://www.fcsautoparts.com/",
+          "logo": "/media/uploads/2023/12/FCSAutomotiveInternationalInc.gif",
+          "products": "Complete Strut Assemblies",
+          "address": "1821 Northwood Drive Troy, MI 48048"
+        },
+        {
+          "name": "Federal Mogul Motorparts",
+          "url": "http://www.fmmotorpartsl.com/",
+          "logo": "/media/uploads/2023/12/fmogul.gif",
+          "products": "Bearing & Seals",
+          "address": "27300 W. 11 Mile Road, Building 300 Southfield, MI 48034"
+        },
+        {
+          "name": "Hella, Inc.",
+          "url": "http://www.hellausa.com/",
+          "logo": "/media/uploads/2023/12/HellaInc.gif",
+          "products": "Brake Pads & Shoes, Rotors, Hardware Kits",
+          "address": "210 Kelly Drive Peachtree City, GA 30269"
+        },
+        {
+          "name": "KYB",
+          "url": "http://www.kyb.com/",
+          "logo": "/media/uploads/2023/12/kyb-e1702933001119.gif",
+          "products": "Shocks & Struts",
+          "address": "850 N Graham Road Greenwood, IL 46143"
+        },
+        {
+          "name": "MAS Industries",
+          "url": "http://mas-industries.com/#home",
+          "logo": "/media/uploads/2023/12/MASIndustries.gif",
+          "products": "Chassis and Control Arms",
+          "address": "3625 Av. des Grandes Tourelles Boisbriand, QC J7H 1M9, Canada"
+        },
+        {
+          "name": "Mevotech LP",
+          "url": "http://www.mevotech.com/",
+          "logo": "/media/uploads/2023/12/MevotechLP.gif",
+          "products": "Steering, Suspension, Control Arms",
+          "address": "240 Bridgeland Avenue Toronto, ON M6A 1Z4, Canada"
+        },
+        {
+          "name": "Monroe",
+          "url": "http://www.monroe.com/",
+          "logo": "/media/uploads/2023/12/mon.gif",
+          "products": "Shock Absorbers & Struts",
+          "address": "1 International Dr Monroe Charter Twp, MI 48161"
+        },
+        {
+          "name": "MOOG",
+          "url": "http://www.fmmotorparts.com/",
+          "logo": "/media/uploads/2023/12/pre.gif",
+          "products": "U-Joints, Hub Bearings, Premium Chassis Parts",
+          "address": "27300 W Eleven Mile Rd building 300 Southfield, MI 48034"
+        },
+        {
+          "name": "Pentosin Technical Fluids",
+          "url": "https://crpautomotive.com/brands/pentosin/",
+          "logo": "/media/uploads/2023/12/PentosinTechnicalFluids.gif",
+          "products": "Brake Fluid",
+          "address": "35 Commerce Drive Cranbury, NJ 08512"
+        },
+        {
+          "name": "PowerStop LLC",
+          "url": "https://www.powerstop.com/pro-hub/",
+          "logo": "/media/uploads/2023/12/powerstop.png",
+          "products": "Brake Shoes, Pads, Rotors, Calipers & Sensors",
+          "address": "6112 W. 73rd Street Unit C Bedford Park, IL 60638"
+        },
+        {
+          "name": "PTC",
+          "url": "http://www.ptcauto.com/",
+          "logo": "/media/uploads/2023/12/ptc.gif",
+          "products": "Bearings & Seals",
+          "address": "509 East Edgerton St. Bryan, OH 43506"
+        },
+        {
+          "name": "Raybestos",
+          "url": "http://www.raybestos.com/",
+          "logo": "/media/uploads/2025/05/Raybestos_Logo.png",
+          "products": "Brake Hardware, Drums, Rotors, Loaded Calipers, Brake Shoes & Pads",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "SKF USA Inc.",
+          "url": "http://www.skf.com/us/index.html",
+          "logo": "/media/uploads/2023/12/SKFUSAInc.gif",
+          "products": "U-Joints",
+          "address": "890 N. State Street Elgin, IL 60123"
+        },
+        {
+          "name": "Spicer by Dana",
+          "url": "http://spicerparts.com/",
+          "logo": "/media/uploads/2023/12/SpicerbyDana.gif",
+          "products": "Driveline, Gearing & Steering Components",
+          "address": "3939 Technology Drive Maumee, OH 43537"
+        },
+        {
+          "name": "The Timken Company",
+          "url": "http://www.timken.com/en-us/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/TheTimkenCompany.gif",
+          "products": "Hubs",
+          "address": "4500 Mount Pleasant Street North Canton, OH 44720"
+        },
+        {
+          "name": "TRW Automotive",
+          "url": "https://www.trwaftermarket.com/us/",
+          "logo": "/media/uploads/2023/12/TRWAutomotive.gif",
+          "products": "Chassis & Friction",
+          "address": "49081 Wixom Tech Drive Wixom, MI 48393"
+        },
+        {
+          "name": "Undercar Express",
+          "url": "http://www.ucx.com/",
+          "logo": "/media/uploads/2023/12/UndercarExpress.gif",
+          "products": "New & Remanufactured Calipers",
+          "address": "18451 Euclid Avenue Cleveland, OH 44112"
+        },
+        {
+          "name": "Wagner",
+          "url": "http://www.fmmotorparts.com/",
+          "logo": "/media/uploads/2023/12/WagnerBrake.gif",
+          "products": "Brake Pads, Shoes, Drums, Rotors and Hardware",
+          "address": "27300 W. 11 Mile Rd., Building 300 Southfield, MI 48034"
+        },
+        {
+          "name": "ZF Services, LLC",
+          "url": "https://www.zf.com/usa_canada/en_us/corporate/homepage_corporate/homepage_corporate.html",
+          "logo": "/media/uploads/2023/12/ZFServicesLLC.gif",
+          "products": "Ride Control, Chassis & Lift Supports",
+          "address": "777 Hickory Hill Drive Vernon Hills, IL 60061"
+        }
+      ]
+    },
+    {
+      "name": "Chemicals & Oils",
+      "id": "chemicals-and-oils",
+      "vendors": [
+        {
+          "name": "AGS",
+          "url": "http://www.agscompany.com/",
+          "logo": "/media/uploads/2023/12/ags.gif",
+          "products": "Lubricants",
+          "address": "P.O. Box 729 Muskegon, MI 49443"
+        },
+        {
+          "name": "AISIN World Corp. of America",
+          "url": "http://www.aisin.com/product/automotive/",
+          "logo": "/media/uploads/2023/12/AISINWorldCorp.ofAmerica.gif",
+          "products": "OE Antifreeze/Coolant",
+          "address": "24330 Garnier St. Torrance, CA 90505"
+        },
+        {
+          "name": "Amalie",
+          "url": "http://www.amalie.com/",
+          "logo": "/media/uploads/2023/12/Amalie.gif",
+          "products": "Oils & Greases",
+          "address": "3 Hadley Drive Fairport, NY 14450"
+        },
+        {
+          "name": "ATP, Inc.",
+          "url": "http://www.atp-inc.com/",
+          "logo": "/media/uploads/2023/12/ATPInc.gif",
+          "products": "Additives",
+          "address": "1300 Pratt Blvd. Elk Grove Village, IL 60007"
+        },
+        {
+          "name": "Bendix Brakes",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/BendixBrakes.gif",
+          "products": "OE Fluids",
+          "address": "6700 WIldlife Way Long Grove, IL 60047"
+        },
+        {
+          "name": "Berryman Products",
+          "url": "https://www.berrymanproducts.com/",
+          "logo": "/media/uploads/2023/12/BerrymanProducts.gif",
+          "products": "Brake Cleaner, Carb Cleaner, Additives, Penetrating Oil",
+          "address": "3800 E. Randol Mill Road, Arlington, TX 76011"
+        },
+        {
+          "name": "Castrol",
+          "url": "http://www.castrol.com/",
+          "logo": "/media/uploads/2023/12/castrol.gif",
+          "products": "Synthetic Oils",
+          "address": "P.O. Box 485 Lewiston, NY 14092"
+        },
+        {
+          "name": "CRC",
+          "url": "http://www.crcindustries.com/",
+          "logo": "/media/uploads/2023/12/crc.gif",
+          "products": "Cleaners, Maintenance, Additives and Appearance",
+          "address": "885 Louis Drive Warminster, PA 18974"
+        },
+        {
+          "name": "Duragloss",
+          "url": "http://www.duragloss.com/",
+          "logo": "/media/uploads/2023/12/duragloss.gif",
+          "products": "Polishes, Waxes, Cleaners",
+          "address": "P.O. Box 317 Burlington, NC 27216-0317"
+        },
+        {
+          "name": "GoJo",
+          "url": "http://www.gojo.com/",
+          "logo": "/media/uploads/2023/12/gojo.gif",
+          "products": "Hand Cleaners",
+          "address": "P.O. Box 991 Akron, OH 44309-0991"
+        },
+        {
+          "name": "J-B Weld",
+          "url": "http://www.jbweld.net/",
+          "logo": "/media/uploads/2023/12/J-BWeld.gif",
+          "products": "Adhesives",
+          "address": "P.O. Box 483 Sulphur Springs, TX 75483"
+        },
+        {
+          "name": "Loctite",
+          "url": "http://na.henkel-adhesives.com/industriak/vehicle-maintenance-and-repair-21668.htm",
+          "logo": "/media/uploads/2023/12/Loctite.gif",
+          "products": "Threadlock, Sealants, Adhesives, Casketing, Lubricants",
+          "address": "One Henkel Way Rocky Hill, CT 06067"
+        },
+        {
+          "name": "Lubegard",
+          "url": "https://www.lubegard.com/",
+          "logo": "/media/uploads/2023/12/Lubegard.gif",
+          "products": "Engine, Transmission & Coolant System Protectants",
+          "address": "7930 Occidental South Seattle, WA 98108"
+        },
+        {
+          "name": "Lubrimatic",
+          "url": "http://www.plews-edelmann.com/index.cfm?location_id=2635",
+          "logo": "/media/uploads/2023/12/lubrimatic.gif",
+          "products": "Oils & Greases",
+          "address": "1550 Franklin Grove Road Dixon, IL 61021"
+        },
+        {
+          "name": "Lucas Oil Products",
+          "url": "http://www.lucasoil.com/",
+          "logo": "/media/uploads/2023/12/lucasoil.gif",
+          "products": "Engine & Fuel System Treatments, Lubricants",
+          "address": "302 North Sheridan Street Corona, CA 92880"
+        },
+        {
+          "name": "Mothers",
+          "url": "http://www.mothers.com/",
+          "logo": "/media/uploads/2023/12/Mothers-1.gif",
+          "products": "Polishes, Waxes, Cleaners",
+          "address": "5456 Industrial Drive Huntington Beach, CA 92649"
+        },
+        {
+          "name": "Penray",
+          "url": "https://www.lubegard.com/",
+          "logo": "/media/uploads/2023/12/Penray.gif",
+          "products": "Cold Weather Chemicals, Performance Chemicals, Installer Kits",
+          "address": "440 Denniston Court Wheeling, IL 60090"
+        },
+        {
+          "name": "Pentosin Technical Fluids",
+          "url": "https://crpautomotive.com/brands/pentosin/",
+          "logo": "/media/uploads/2023/12/PentosinTechnicalFluids.gif",
+          "products": "Antifreeze, Brake Fluid, Motor Oil, Hydraulic Fluid, Transmission Fluid",
+          "address": "35 Commerce Drive Cranbury, NJ 08512"
+        },
+        {
+          "name": "Permatex",
+          "url": "http://www.lucasoil.com/",
+          "logo": "/media/uploads/2023/12/Permatex.gif",
+          "products": "Gasket makers, sealants, threadlocks, adhesives, cleaners, etc.",
+          "address": "10 Columbus Blvd. Hartford, CT 06106"
+        },
+        {
+          "name": "Radiator Specialty",
+          "url": "http://www.gunk.com/",
+          "logo": "/media/uploads/2023/12/radiatorspecialty.gif",
+          "products": "Penetrants, Lubricants, Silicone Spray, Grease, Maintenance Chemicals, Additives, Sealants",
+          "address": "318 Kings Highway Rosslyn Farms, PA 15106-1015"
+        },
+        {
+          "name": "Standard Motor Products, Inc.",
+          "url": "http://www.smpcorp.com/",
+          "logo": "/media/uploads/2023/12/bwd.gif",
+          "products": "Carburetor & Engine Cleaners",
+          "address": "37-18 Northern Boulevard Long Island City, NY 11101"
+        },
+        {
+          "name": "Technical Chemical Company",
+          "url": "http://www.technicalchemical.com/",
+          "logo": "/media/uploads/2023/12/TechnicalChemicalCompany-1.gif",
+          "products": "Johnsens, QuickSteel",
+          "address": "3327 Pipeline Road Cleburne, TX 76031"
+        },
+        {
+          "name": "Tracer Products",
+          "url": "https://www.federatedautoparts.com/www.leakfinderproducts.com",
+          "logo": "/media/uploads/2023/12/TracerProducts.gif",
+          "products": "Leak Detection Products",
+          "address": "956 Brush Hollow Road Westbury, NY 11590"
+        },
+        {
+          "name": "Valvoline",
+          "url": "http://www.gunk.com/",
+          "logo": "/media/uploads/2023/12/val.gif",
+          "products": "Conventional & Synthetic Motor Oil, Gear Oil, Transmission Fluid, Greases",
+          "address": "P.O. Box 14000 Lexington, KY 40512"
+        },
+        {
+          "name": "VersaChem",
+          "url": "https://versachem.com/",
+          "logo": "/media/uploads/2023/12/VersaChem.gif",
+          "products": "Adhesives, Epoxies, Sealants, Gasketing Compounds, Lubricants, Exhaust Repair, etc.",
+          "address": "2107 West Blue Heron Blvd. Riviera Beach, FL 33404"
+        },
+        {
+          "name": "Warren Distribution, Inc.",
+          "logo": "/media/uploads/2023/12/WarrenDistributionInc.gif",
+          "products": "Motor oils, lubricants, brake fluid and other assorted chemicals",
+          "address": "727 South 13th Street Omaha, NE 68102"
+        }
+      ]
+    },
+    {
+      "name": "Electrical",
+      "id": "electrical",
+      "vendors": [
+        {
+          "name": "Bendix Brakes",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/BendixBrakes.gif",
+          "products": "Wires, Condensors, Points, Plugs, Sensors, Caps, Rotors, Coils, Starters, Alternators",
+          "address": "6700 WIldlife Way Long Grove, IL 60047"
+        },
+        {
+          "name": "Cardone",
+          "url": "http://www.cardone.com/",
+          "logo": "/media/uploads/2025/05/Cardone-FullColor_no-tag.png",
+          "products": "Computers & Other Electronics",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "Clore Automotive",
+          "url": "http://www.cloreautomotive.com/evolution/",
+          "logo": "/media/uploads/2023/12/solar.gif",
+          "products": "Battery Chargers, Jump Starters, Battery Testers",
+          "address": "8735 Rosehill Road, Suite 220 Lenexa, KS 66215"
+        },
+        {
+          "name": "Delphi Technologies",
+          "url": "https://www.delphi.com/new-delphi-technologies#",
+          "logo": "/media/uploads/2023/12/delphi.gif",
+          "products": "Sensors",
+          "address": "1441 West Long Lake Road Troy, MI 48098-5090"
+        },
+        {
+          "name": "Denso Corporation",
+          "url": "http://www.globaldenso.com/en/",
+          "logo": "/media/uploads/2023/12/densocorporationba.gif",
+          "products": "Starter & Alternator, Spark Plugs",
+          "address": "3900 Via Oro Avenue Long Beach, CA 90810"
+        },
+        {
+          "name": "Equus",
+          "url": "http://www.autometer.com/",
+          "logo": "/media/uploads/2023/12/equus.gif",
+          "products": "Gauges",
+          "address": "111 Somonauk Street Sycamore, IL 60178"
+        },
+        {
+          "name": "Exide Technologies",
+          "url": "http://www.exide.com/",
+          "logo": "/media/uploads/2023/12/ExideTechnologies.gif",
+          "products": "Automotive Batteries",
+          "address": "13000 Deerfield Parkway Milton, GA 30004"
+        },
+        {
+          "name": "Federated Batteries",
+          "url": "https://www.delphi.com/new-delphi-technologies#",
+          "logo": "/media/uploads/2023/12/deka.gif",
+          "products": "Automotive, Fleet, Agricultural, Small Engine & Heavy Duty Batteries",
+          "address": "508 Greenville Ave. Staunton, VA 24401"
+        },
+        {
+          "name": "Hella, Inc.",
+          "url": "http://www.hellausa.com/",
+          "logo": "/media/uploads/2023/12/HellaInc.gif",
+          "products": "Switches, Sensors, Relays, etc.",
+          "address": "210 Kelly Drive Peachtree City, GA 30269"
+        },
+        {
+          "name": "Littelfuse",
+          "url": "http://www.cardone.com/",
+          "logo": "/media/uploads/2023/12/littelfuse.gif",
+          "products": "Fuses",
+          "address": "8755 West Higgins Road, Suite 500 Chicago, IL 60631"
+        },
+        {
+          "name": "Mitsubishi Electric Automotive America",
+          "url": "http://www.cloreautomotive.com/evolution/",
+          "logo": "/media/uploads/2023/12/MitsubishiElectricAutomotiveAmerica.gif",
+          "products": "Remanufactured Starters and Alternators",
+          "address": "5800 Skylab Road Huntington Beach, CA 92647"
+        },
+        {
+          "name": "Radiator Specialty",
+          "url": "http://www.gunk.com/",
+          "logo": "/media/uploads/2023/12/radiatorspecialty.gif",
+          "products": "Wire Dryer",
+          "address": "318 Kings Highway Rosslyn Farms, PA 15106-1015"
+        },
+        {
+          "name": "Remy, Inc.",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/RemyInc.gif",
+          "products": "Alternators, Generators & Starters",
+          "address": "300 W. Brooke Road Winchester, VA 22603"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC.gif",
+          "products": "Starters, Alternators, Batteries",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Schumacher Electric Corporation",
+          "url": "http://www.schumacherproducts.com/",
+          "logo": "/media/uploads/2023/12/SchumacherElectricCorporation.gif",
+          "products": "Battery Chargers, Power Inverters, Battery Testing Equipment",
+          "address": "801 Business Center Drive Mount Prospect, IL 60056-2179"
+        },
+        {
+          "name": "Standard Motor Products, Inc.",
+          "url": "http://www.smpcorp.com/",
+          "logo": "/media/uploads/2023/12/bwd.gif",
+          "products": "Computers, Switches, Wire & Cable",
+          "address": "37-18 Northern Boulevard Long Island City, NY 11101"
+        },
+        {
+          "name": "TYC Genera Corporation",
+          "url": "http://www.genera.com/",
+          "logo": "/media/uploads/2023/12/TYCGeneraCorporation.gif",
+          "products": "New Alternators & Starters, Window Regulators",
+          "address": "2800 Saturn Street Brea, CA 92821"
+        },
+        {
+          "name": "Wilson HD Electric",
+          "url": "http://www.wilsonautoelectric.com/",
+          "logo": "/media/uploads/2023/12/WilsonHDElectric.gif",
+          "products": "Remanufactured Starters & Alternators",
+          "address": "29627 Renaissance Blvd. Daphne, AL 36619"
+        },
+        {
+          "name": "World Power Systems",
+          "url": "http://www.waiglobal.com/",
+          "logo": "/media/uploads/2023/12/WAI.gif",
+          "products": "Heavy Duty Alternators, Generators & Starters",
+          "address": "20 River Road Logan, WV 25601"
+        }
+      ]
+    },
+    {
+      "name": "Engine & Drive Train",
+      "id": "engine-and-drive-train",
+      "vendors": [
+        {
+          "name": "AISIN World Corp. of America",
+          "url": "http://www.aisin.com/product/automotive/",
+          "logo": "/media/uploads/2023/12/AISINWorldCorp.ofAmerica-1.gif",
+          "products": "Clutch Kits & Hydraulics, Wheel Hubs, Hub Bearings, Variable Valve Timing Gears, etc.",
+          "address": "24330 Garnier St. Torrance, CA 90505"
+        },
+        {
+          "name": "Anchor Industries",
+          "url": "http://www.anchor-online.com/",
+          "logo": "/media/uploads/2023/12/ach.gif",
+          "products": "Motor Mounts",
+          "address": "30775 Solon Industrial Parkway Solon, OH 44139"
+        },
+        {
+          "name": "ATK North America",
+          "url": "http://www.atkvege.com/content/",
+          "logo": "/media/uploads/2023/12/ATKNorthAmerica.gif",
+          "products": "Engines, Transmissions, Cylinder Heads, Rear Axles",
+          "address": "1102 W. N Carrier Parkway Grand Prairie, TX 75050"
+        },
+        {
+          "name": "ATP, Inc.",
+          "url": "http://www.smpcorp.com/",
+          "logo": "/media/uploads/2023/12/ATPInc-1.gif",
+          "products": "Automatic Transmission Parts, Control Cables, Cabin Air Filters, Exhaust Manifold Kits, etc.",
+          "address": "1300 Pratt Blvd. Elk Grove Village, IL 60007"
+        },
+        {
+          "name": "Bando USA",
+          "url": "http://www.bandousa.com/",
+          "logo": "/media/uploads/2023/12/BandoUSA.gif",
+          "products": "Belts",
+          "address": "1149 West Bryn Mawr Itsaca, IL 60143"
+        },
+        {
+          "name": "BCA Bearings",
+          "url": "http://www.bcabearings.com/",
+          "logo": "/media/uploads/2023/12/BCABearings.gif",
+          "products": "Hub Bearing Assemblies, Bearings, Seals",
+          "address": "1600 E. Bishop Court Mt. Prospect, IL 60056"
+        },
+        {
+          "name": "Bendix Brakes",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/BendixBrakes.gif",
+          "products": "Clutches, Flywheel, Ring Gear, Clutch Cables, Engine Parts, Filters, Gaskets",
+          "address": "6700 WIldlife Way Long Grove, IL 60047"
+        },
+        {
+          "name": "Cardone",
+          "url": "http://www.cardone.com/",
+          "logo": "/media/uploads/2025/05/Cardone-FullColor_no-tag.png",
+          "products": "Distributors, Engine Controls, Steering Pumps, Rack and Pinion",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "Carlson",
+          "url": "https://www.carlsonqualitybrakeparts.com/",
+          "logo": "/media/uploads/2025/05/CARLSON-Logo.png",
+          "products": "Brake Hardware",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "Cloyes Gear & Products, Inc.",
+          "url": "http://www.cloyes.com/",
+          "logo": "/media/uploads/2023/12/CloyesGearProductsInc.gif",
+          "products": "Timing Drive Systems",
+          "address": "6101 Phoenix Ave. #2 Fort Smith, AR 72903"
+        },
+        {
+          "name": "CRP Industries",
+          "url": "http://www.crpautomotive.com/",
+          "logo": "/media/uploads/2023/12/CRPIndustries.gif",
+          "products": "Timing Belts & Kits, Serpentine Belts",
+          "address": "35 Commerce Drive Cranbury, NJ 08512"
+        },
+        {
+          "name": "Dayco",
+          "url": "http://www.daycoproducts.com/",
+          "logo": "/media/uploads/2023/12/day.gif",
+          "products": "Belts & Hoses",
+          "address": "6120 S. Yale Ave. Tulsa, OK 74136"
+        },
+        {
+          "name": "Denso Corporation",
+          "url": "http://www.globaldenso.com/en/",
+          "logo": "/media/uploads/2023/12/densocorporationba.gif",
+          "products": "Oil, Air & Cabin Filters",
+          "address": "3900 Via Oro Avenue Long Beach, CA 90810"
+        },
+        {
+          "name": "Dorman",
+          "url": "http://www.dormanproducts.com/",
+          "logo": "/media/uploads/2023/12/dor.gif",
+          "products": "Manifolds & Harmonic Balancers",
+          "address": "3400 E. Walnut Street Colmar, PA 18915-1800"
+        },
+        {
+          "name": "EXEDY Globalparts",
+          "url": "http://www.exedyusa.com/",
+          "logo": "/media/uploads/2023/12/EXEDYGlobalparts.gif",
+          "products": "OE Clutch Kits",
+          "address": "8601 Haggerty Road, S. Belleville, MI 48111"
+        },
+        {
+          "name": "Federal Mogul Motorparts",
+          "url": "http://www.fmmotorpartsl.com/",
+          "logo": "/media/uploads/2023/12/fmogul-1.gif",
+          "products": "Bearings, Seals, Oil Pumps, Engine Parts & Engine Kits",
+          "address": "27300 W. 11 Mile Road, Building 300 Southfield, MI 48034"
+        },
+        {
+          "name": "Fel-Pro",
+          "url": "http://www.fmmotorparts.com./",
+          "logo": "/media/uploads/2023/12/fel.gif",
+          "products": "Gaskets & Gasket Sets",
+          "address": "27300 W. 11 Mile Rd., Building 300 Southfield, MI 48033"
+        },
+        {
+          "name": "Five Star Manufacturing",
+          "url": "http://www.fivestarmanufacturing.com/",
+          "logo": "/media/uploads/2023/12/FiveStarManufacturing.gif",
+          "products": "Kats Engine Heaters",
+          "address": "722 Central Avenue Springfield, TN 37172"
+        },
+        {
+          "name": "Gates",
+          "url": "http://www.gates.com/",
+          "logo": "/media/uploads/2023/12/gat.gif",
+          "products": "Belts & Hoses",
+          "address": "1551 Wewatta Street Denver, CO 80202"
+        },
+        {
+          "name": "GMB North America",
+          "url": "http://www.gmb.net/",
+          "logo": "/media/uploads/2023/12/gmb.gif",
+          "products": "New Water Pumps",
+          "address": "100 Herrod Blvd Dayton, NJ 08810"
+        },
+        {
+          "name": "Hastings Filters",
+          "url": "http://www.hastingsfilter.com/",
+          "logo": "/media/uploads/2023/12/has.gif",
+          "products": "Transmission Filters, Oil Filters, Air Filters & Gas Filters",
+          "address": "4400 East Highway 30 Kearney, NE 68848"
+        },
+        {
+          "name": "Hayden",
+          "url": "http://www.haydenauto.com/",
+          "logo": "/media/uploads/2023/12/hay.gif",
+          "products": "Transmission Coolers & Fan Clutches",
+          "address": "1241 Old Temescal Rd Corona, CA 92881"
+        },
+        {
+          "name": "LUK Clutches",
+          "url": "https://www.schaeffler.us/content.schaeffler.us/us/index.jsp",
+          "logo": "/media/uploads/2023/12/LUKClutches.gif",
+          "products": "Clutches",
+          "address": "5370 Wegman Drive Valley City, OH 44280"
+        },
+        {
+          "name": "MAHLE Aftermarket, Inc.",
+          "url": "http://www.mahle-aftermarket.com/eu/en/#popupMap",
+          "logo": "/media/uploads/2023/12/MAHLEAftermarketInc.gif",
+          "products": "Filters, Turbochargers, Gaskets",
+          "address": "23030 MAHLE Drive Farmington Hills, MI 48335"
+        },
+        {
+          "name": "Mann+Hummel Filters",
+          "url": "https://www.mann-hummel.com/en/",
+          "logo": "/media/uploads/2023/12/MannHummelFilters.gif",
+          "products": "Oil, Air, Cabin Air & Fuel Filters",
+          "address": "801 Corporate Center Drive, Suite 128 Raleigh, NC 27607"
+        },
+        {
+          "name": "MOOG",
+          "url": "http://www.fmmotorparts.com/",
+          "logo": "/media/uploads/2023/12/pre-1.gif",
+          "products": "U-Joints, Hub Bearings, Premium Chassis Parts",
+          "address": "27300 W. 11 Mile Rd., Building 300 Southfield, MI 48033"
+        },
+        {
+          "name": "Moveras",
+          "url": "http://www.moveras.com/Home.aspx",
+          "logo": "/media/uploads/2023/12/Moveras.gif",
+          "products": "Remanufactured Automatic Transmissions",
+          "address": "22 Northwestern Drive Salem, NH 03079"
+        },
+        {
+          "name": "Perfection",
+          "url": "http://www.perfectionclutch.com/",
+          "logo": "/media/uploads/2023/12/perfectionhytest.gif",
+          "products": "Clutches & Flywheels",
+          "address": "100 Perfection Way Timmonsville, SC 29161"
+        },
+        {
+          "name": "Perma-Coil Thread Kits Co.",
+          "url": "http://www.threadkits.com/perma/permacoil.html",
+          "logo": "/media/uploads/2023/12/Perma-CoilThreadKitsCo.gif",
+          "products": "Thread Repair Kits, Inserts, Taps",
+          "address": "24310 Garnier Street Torrance, CA 90505"
+        },
+        {
+          "name": "Pro-King Automotive Products",
+          "url": "http://www.pro-kingproducts.com/",
+          "logo": "/media/uploads/2023/12/Pro-KingAutomotiveProducts.gif",
+          "products": "Torque Converters, Rear Axle Kits, Transmission Filter Kits, Automatic Transmission Electronics",
+          "address": "3543 Lamar Avenue Memphis, TN 38118"
+        },
+        {
+          "name": "PTC",
+          "url": "http://www.ptcauto.com/",
+          "logo": "/media/uploads/2023/12/ptc-1.gif",
+          "products": "Universal Joints",
+          "address": "509 East Edgerton St. Bryan, OH 43506"
+        },
+        {
+          "name": "Radiator Specialty",
+          "url": "http://www.gunk.com/",
+          "logo": "/media/uploads/2023/12/radiatorspecialty.gif",
+          "products": "Motor Flush & Additives, Bearing Seal",
+          "address": "318 Kings Highway Rosslyn Farms, PA 15106-1015"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC-1.gif",
+          "products": "Cabin Air, Oil & Air Filters",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Sealed Power",
+          "url": "http://www.dormanproducts.com/",
+          "logo": "/media/uploads/2023/12/sea.gif",
+          "products": "Engine Kits & Engine Parts",
+          "address": "27300 W. 11 Mile Road, Building 300 Southfield, MI 48033"
+        },
+        {
+          "name": "SKF USA Inc.",
+          "url": "http://www.exedyusa.com/",
+          "logo": "/media/uploads/2023/12/SKFUSAInc-1.gif",
+          "products": "Seals, Scotseals, Differential Kits, Bearings, Hub Assemblies",
+          "address": "890 N. State Street Elgin, IL 60123"
+        },
+        {
+          "name": "Specialty Products Co.",
+          "url": "http://www.spcperformance.com/",
+          "logo": "/media/uploads/2023/12/SpecialtyProductsCo.gif",
+          "products": "Wheel Alignment Adjusters",
+          "address": "4045 Specialty Place Longmont, CA 80504"
+        },
+        {
+          "name": "Spectra Premium",
+          "url": "http://www.spectrapremium.com/",
+          "logo": "/media/uploads/2023/12/spectrapremium.gif",
+          "products": "Condensers, Oil Pans, MAF Sensors",
+          "address": "8774 RT 109S Knightstown, IN 46148"
+        },
+        {
+          "name": "The Timken Company",
+          "url": "http://www.timken.com/en-us/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/TheTimkenCompany-1.gif",
+          "products": "Bearings, Wheel Bearings, Seals",
+          "address": "4500 Mount Pleasant Street North Canton, OH 44720"
+        },
+        {
+          "name": "TYC Genera Corporation",
+          "url": "http://www.genera.com/",
+          "logo": "/media/uploads/2023/12/TYCGeneraCorporation-1.gif",
+          "products": "Cabin Air Filters, Transmission Oil Coolers, Charge Air Coolers",
+          "address": "2800 Saturn Street Brea, CA 92821"
+        },
+        {
+          "name": "Undercar Express",
+          "url": "http://www.ucx.com/",
+          "logo": "/media/uploads/2023/12/UndercarExpress-1.gif",
+          "products": "New & Remanufactured Calipers",
+          "address": "18451 Euclid Avenue Cleveland, OH 44112"
+        },
+        {
+          "name": "Wix Filtration Products",
+          "url": "http://wixfilters.com/",
+          "logo": "/media/uploads/2023/12/WixFiltrationProducts.gif",
+          "products": "Filters for Oil, Air, Cabin, Fuel, Coolant, Transmission & Hydraulics",
+          "address": "1 Wix Way Gastonia, NC 28054"
+        },
+        {
+          "name": "ZF Services, LLC",
+          "url": "https://www.zf.com/usa_canada/en_us/corporate/homepage_corporate/homepage_corporate.html",
+          "logo": "/media/uploads/2023/12/ZFServicesLLC-1.gif",
+          "products": "Clutches",
+          "address": "777 Hickory Hill Drive Vernon Hills, IL 60061"
+        }
+      ]
+    },
+    {
+      "name": "Exhaust",
+      "id": "exhaust",
+      "vendors": [
+        {
+          "name": "AP Exhaust Products",
+          "url": "http://www.apexhaust.com/",
+          "logo": "/media/uploads/2023/12/merit-e1703106041410.gif",
+          "products": "Exhaust Pipes, Mufflers & Accessories",
+          "address": "300 Dixie Trail Goldsboro, NC 27530-7198"
+        },
+        {
+          "name": "Delphi Technologies",
+          "url": "https://www.delphi.com/new-delphi-technologies#",
+          "logo": "/media/uploads/2023/12/delphi-1.gif",
+          "products": "Sensors",
+          "address": "1441 West Long Lake Road Troy, MI 48098-5090"
+        },
+        {
+          "name": "Dorman",
+          "url": "http://www.dormanproducts.com/",
+          "logo": "/media/uploads/2023/12/dor-1.gif",
+          "products": "Manifolds",
+          "address": "3400 E. Walnut Street Colmar, PA 18915-1800"
+        },
+        {
+          "name": "Fel-Pro",
+          "url": "http://www.fmmotorparts.com./",
+          "logo": "/media/uploads/2023/12/fel-1.gif",
+          "products": "Gaskets",
+          "address": "27300 W. 11 Mile Rd., Building 300 Southfield, MI 48033"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC-2.gif",
+          "products": "Oxygen Sensors",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Walker",
+          "url": "http://www.walkerexhaust.com/",
+          "logo": "/media/uploads/2023/12/wal.gif",
+          "products": "Exhaust Pipes, Converters, Mufflers & Accessories",
+          "address": "Monroe, MI 48161"
+        }
+      ]
+    },
+    {
+      "name": "Fuel System",
+      "id": "fuel-system",
+      "vendors": [
+        {
+          "name": "Airtex Products",
+          "url": "http://www.airtexproducts.com/",
+          "logo": "/media/uploads/2023/12/AirtexProducts.gif",
+          "products": "Fuel Pumps",
+          "address": "407 West Main Street Fairfield, IL 62837"
+        },
+        {
+          "name": "Bendix Brakes",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/BendixBrakes.gif",
+          "products": "Injectors, Fuel Pumps",
+          "address": "6700 WIldlife Way Long Grove, IL 60047"
+        },
+        {
+          "name": "Carter",
+          "url": "https://carterengineered.com/",
+          "logo": "/media/uploads/2025/05/Carter-Logo.png",
+          "products": "Manifolds",
+          "address": "3255 West Hamlin Road Rochester Hills, MI 48309"
+        },
+        {
+          "name": "Delphi Technologies",
+          "url": "https://www.delphi.com/new-delphi-technologies#",
+          "logo": "/media/uploads/2023/12/delphi.gif",
+          "products": "Fuel Pumps, Senders, Sensors, Pressure Regualators",
+          "address": "1441 West Long Lake Road Troy, MI 48098-5090"
+        },
+        {
+          "name": "Denso Corporation",
+          "url": "http://www.globaldenso.com/en/",
+          "logo": "/media/uploads/2023/12/densocorporationba.gif",
+          "products": "Injectors, Pumps, Filters",
+          "address": "3900 Via Oro Avenue Long Beach, CA 90810"
+        },
+        {
+          "name": "GB Remanufacturing, Inc.",
+          "url": "http://www.gbreman.com/",
+          "logo": "/media/uploads/2023/12/GBManufacturingInc.gif",
+          "products": "Fuel Injectors",
+          "address": "2305 E. Cherry Industrial Circle Long Beach, CA 90805-4416"
+        },
+        {
+          "name": "Hastings Filters",
+          "url": "http://www.hastingsfilter.com/",
+          "logo": "/media/uploads/2023/12/has.gif",
+          "products": "Fuel Filters",
+          "address": "4400 East Highway 30 Kearney, NE 68848"
+        },
+        {
+          "name": "Mann+Hummel Filters",
+          "url": "https://www.mann-hummel.com/en/",
+          "logo": "/media/uploads/2023/12/MannHummelFilters.gif",
+          "products": "Fuel Filters",
+          "address": "801 Corporate Center Drive, Suite 128 Raleigh, NC 27607"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC-2.gif",
+          "products": "Oxygen Sensors",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Spectra Premium",
+          "url": "http://www.spectrapremium.com/",
+          "logo": "/media/uploads/2023/12/spectrapremium.gif",
+          "products": "Condensers, Oil Pans, MAF Sensors",
+          "address": "8774 RT 109S Knightstown, IN 46148"
+        },
+        {
+          "name": "Standard Motor Products, Inc.",
+          "url": "http://www.smpcorp.com/",
+          "logo": "/media/uploads/2023/12/bwd.gif",
+          "products": "Computers, Switches, Wire & Cable",
+          "address": "37-18 Northern Boulevard Long Island City, NY 11101"
+        },
+        {
+          "name": "Stant Corporation",
+          "url": "http://www.stant.com/",
+          "logo": "/media/uploads/2023/12/StantCorporation.gif",
+          "products": "Fuel Caps",
+          "address": "1620 Columbia Avenue Connersville, IN 47331"
+        },
+        {
+          "name": "TYC Genera Corporation",
+          "url": "http://www.genera.com/",
+          "logo": "/media/uploads/2023/12/TYCGeneraCorporation-2.gif",
+          "products": "Fuel Pumps",
+          "address": "2800 Saturn Street Brea, CA 92821"
+        }
+      ]
+    },
+    {
+      "name": "Heating & Cooling",
+      "id": "heating-and-cooling",
+      "vendors": [
+        {
+          "name": "AISIN World Corp. of America",
+          "url": "http://www.aisin.com/product/automotive/",
+          "logo": "/media/uploads/2023/12/AISINWorldCorp.ofAmerica.gif",
+          "products": "Water Pumps, Fan Clutches and Pulleys, Fan Blades, Asian Thermostats, etc.",
+          "address": "24330 Garnier St. Torrance, CA 90505"
+        },
+        {
+          "name": "Bando USA",
+          "url": "http://www.bandousa.com/",
+          "logo": "/media/uploads/2023/12/BandoUSA-1.gif",
+          "products": "Belts",
+          "address": "1149 West Bryn Mawr Itsaca, IL 60143"
+        },
+        {
+          "name": "Bendix Brakes",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/BendixBrakes.gif",
+          "products": "Belts, Hoses",
+          "address": "6700 WIldlife Way Long Grove, IL 60047"
+        },
+        {
+          "name": "Cardone",
+          "url": "http://www.cardone.com/",
+          "logo": "/media/uploads/2025/05/Cardone-FullColor_no-tag.png",
+          "products": "Water Pumps",
+          "address": "4400 Prime Parkway McHenry, IL 60050"
+        },
+        {
+          "name": "Contitech USA",
+          "url": "http://www.contitech.us/",
+          "logo": "/media/uploads/2023/12/ContitechUSA.gif",
+          "products": "Belts, Tensioners, Hose, Timing",
+          "address": "703 S. Cleveland-Massilon Rd. Fairlawn, OH 44333"
+        },
+        {
+          "name": "Dayco",
+          "url": "http://www.daycoproducts.com/",
+          "logo": "/media/uploads/2023/12/day.gif",
+          "products": "Belts & Hoses",
+          "address": "6120 S. Yale Ave. Tulsa, OK 74136"
+        },
+        {
+          "name": "Delphi Technologies",
+          "url": "https://www.delphi.com/new-delphi-technologies#",
+          "logo": "/media/uploads/2023/12/delphi-1.gif",
+          "products": "Compressors",
+          "address": "1441 West Long Lake Road Troy, MI 48098-5090"
+        },
+        {
+          "name": "Denso Corporation",
+          "url": "http://www.globaldenso.com/en/",
+          "logo": "/media/uploads/2023/12/densocorporationba.gif",
+          "products": "Compressors, Condensers, Receiver Driers",
+          "address": "3900 Via Oro Avenue Long Beach, CA 90810"
+        },
+        {
+          "name": "Five Star Manufacturing",
+          "url": "http://www.fivestarmanufacturing.com/",
+          "logo": "/media/uploads/2023/12/FiveStarManufacturing.gif",
+          "products": "Kats Engine Heaters",
+          "address": "722 Central Avenue Springfield, TN 37172"
+        },
+        {
+          "name": "Four Seasons",
+          "url": "http://www.daycoproducts.com/",
+          "logo": "/media/uploads/2023/12/fou.gif",
+          "products": "Air Conditioning & Heating Parts",
+          "address": "180 Waters Ridge Dr Lewisville, TX 75057"
+        },
+        {
+          "name": "Gates",
+          "url": "http://www.gates.com/",
+          "logo": "/media/uploads/2023/12/gat.gif",
+          "products": "Belts & Hoses",
+          "address": "1551 Wewatta Street Denver, CO 80202"
+        },
+        {
+          "name": "GMB North America",
+          "url": "http://www.gmb.net/",
+          "logo": "/media/uploads/2023/12/gmb.gif",
+          "products": "New Water Pumps",
+          "address": "100 Herrod Blvd Dayton, NJ 08810"
+        },
+        {
+          "name": "Hella, Inc.",
+          "url": "http://www.hellausa.com/",
+          "logo": "/media/uploads/2023/12/HellaInc.gif",
+          "products": "Radiators, Air Coolers, Oil Coolers, Water Pumps",
+          "address": "210 Kelly Drive Peachtree City, GA 30269"
+        },
+        {
+          "name": "MAHLE Aftermarket, Inc.",
+          "url": "http://www.mahle-aftermarket.com/eu/en/#popupMap",
+          "logo": "/media/uploads/2023/12/MAHLEAftermarketInc.gif",
+          "products": "Thermostats",
+          "address": "23030 MAHLE Drive Farmington Hills, MI 48335"
+        },
+        {
+          "name": "Pentosin Technical Fluids",
+          "url": "https://crpautomotive.com/brands/pentosin/",
+          "logo": "/media/uploads/2023/12/PentosinTechnicalFluids.gif",
+          "products": "Antifreeze",
+          "address": "35 Commerce Drive Cranbury, NJ 08512"
+        },
+        {
+          "name": "Reach International",
+          "url": "http://www.reachcooling.com/",
+          "logo": "/media/uploads/2023/12/ReachInternational.gif",
+          "products": "Radiators, Condensers, Charge Air Coolers",
+          "address": "625 E. 10th Avenue Hialeah, FL 33010"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC-2.gif",
+          "products": "Water Pumps",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Spectra Premium",
+          "url": "http://www.spectrapremium.com/",
+          "logo": "/media/uploads/2023/12/spectrapremium.gif",
+          "products": "Radiators, Temperature Gauges",
+          "address": "8774 RT 109S Knightstown, IN 46148"
+        },
+        {
+          "name": "Stant Corporation",
+          "url": "http://www.stant.com/",
+          "logo": "/media/uploads/2023/12/StantCorporation.gif",
+          "products": "Thermostats, Radiator Caps",
+          "address": "1620 Columbia Avenue Connersville, IN 47331"
+        },
+        {
+          "name": "Technical Chemical Company",
+          "url": "http://www.technicalchemical.com/",
+          "logo": "/media/uploads/2023/12/TechnicalChemicalCompany-1.gif",
+          "products": "Johnsens Refrigerants and Lubricants, Attachments & Gauges",
+          "address": "3327 Pipeline Road Cleburne, TX 76031"
+        },
+        {
+          "name": "Tracer Products",
+          "url": "https://www.federatedautoparts.com/www.leakfinderproducts.com",
+          "logo": "/media/uploads/2023/12/TracerProducts.gif",
+          "products": "Leak Detection Products",
+          "address": "956 Brush Hollow Road Westbury, NY 11590"
+        },
+        {
+          "name": "TYC Genera Corporation",
+          "url": "http://www.genera.com/",
+          "logo": "/media/uploads/2023/12/TYCGeneraCorporation-1.gif",
+          "products": "Radiators, Cooling Fans, Blower Motors, Evaporators",
+          "address": "2800 Saturn Street Brea, CA 92821"
+        },
+        {
+          "name": "Universal Air Conditioner, Inc.",
+          "url": "https://uacparts.com/",
+          "logo": "/media/uploads/2023/12/UniversalAirConditionerInc.gif",
+          "products": "Temp Control & Heat Transfer Parts",
+          "address": "1441 Heritage Parkway Mansfield, TX 76063"
+        }
+      ]
+    },
+    {
+      "name": "Ignition & Emission",
+      "id": "ignition-and-emission",
+      "vendors": [
+        {
+          "name": "AP Exhaust Products",
+          "url": "http://www.apexhaust.com/",
+          "logo": "/media/uploads/2023/12/merit-e1703106041410.gif",
+          "products": "Exhaust",
+          "address": "300 Dixie Trail Goldsboro, NC 27530-7198"
+        },
+        {
+          "name": "Autolite",
+          "url": "https://www.autolite.com/",
+          "logo": "/media/uploads/2025/07/Group_3.png",
+          "products": "Spark Plugs",
+          "address": "3255 West Hamlin Road Rochester Hills, MI 48309"
+        },
+        {
+          "name": "Bendix Brakes",
+          "url": "http://www.bendix-brakes.com/",
+          "logo": "/media/uploads/2023/12/BendixBrakes.gif",
+          "products": "Switches",
+          "address": "6700 WIldlife Way Long Grove, IL 60047"
+        },
+        {
+          "name": "Champion Spark Plugs",
+          "url": "http://www.fmmotorparts.com/",
+          "logo": "/media/uploads/2023/12/cha.gif",
+          "products": "Spark Plugs",
+          "address": "27300 W. 11 Mile Road, Building 300 Southfield, MI 48033"
+        },
+        {
+          "name": "Delphi Technologies",
+          "url": "https://www.delphi.com/new-delphi-technologies#",
+          "logo": "/media/uploads/2023/12/delphi-1.gif",
+          "products": "Ignition Systems, Sensors",
+          "address": "1441 West Long Lake Road Troy, MI 48098-5090"
+        },
+        {
+          "name": "Denso Corporation",
+          "url": "http://www.globaldenso.com/en/",
+          "logo": "/media/uploads/2023/12/densocorporationba.gif",
+          "products": "O2 Sensors",
+          "address": "3900 Via Oro Avenue Long Beach, CA 90810"
+        },
+        {
+          "name": "Dorman",
+          "url": "http://www.dormanproducts.com/",
+          "logo": "/media/uploads/2023/12/dor.gif",
+          "products": "Manifolds",
+          "address": "3400 E. Walnut Street Colmar, PA 18915-1800"
+        },
+        {
+          "name": "Edelmann",
+          "url": "http://www.plews-edelmann.com/",
+          "logo": "/media/uploads/2023/12/plewsedelmann.gif",
+          "products": "Brass Fittings",
+          "address": "1550 Franklin Groave Road Dixon, IL 61021"
+        },
+        {
+          "name": "GB Remanufacturing, Inc.",
+          "url": "http://www.gbreman.com/",
+          "logo": "/media/uploads/2023/12/GBManufacturingInc.gif",
+          "products": "Fuel Injectors",
+          "address": "2305 E. Cherry Industrial Circle Long Beach, CA 90805-4416"
+        },
+        {
+          "name": "Mitsubishi Electric Automotive America",
+          "url": "http://www.meaa-mea.com/",
+          "logo": "/media/uploads/2023/12/MitsubishiElectricAutomotiveAmerica-1.gif",
+          "products": "Remanufactured Starters and Alternators",
+          "address": "5800 Skylab Road Huntington Beach, CA 92647"
+        },
+        {
+          "name": "NGK",
+          "url": "http://www.ngksparkplugs.com/",
+          "logo": "/media/uploads/2023/12/ngk.gif",
+          "products": "Spark Plugs",
+          "address": "46929 Magellan Drive Wixom, MI 48393"
+        },
+        {
+          "name": "Radiator Specialty",
+          "url": "http://www.gunk.com/",
+          "logo": "/media/uploads/2023/12/radiatorspecialty.gif",
+          "products": "Starting Fluid",
+          "address": "318 Kings Highway Rosslyn Farms, PA 15106-1015"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC-2.gif",
+          "products": "Oxygen Sensors",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Spectra Premium",
+          "url": "http://www.spectrapremium.com/",
+          "logo": "/media/uploads/2023/12/spectrapremium.gif",
+          "products": "Coils, Distributors, MAF Sensors",
+          "address": "8774 RT 109S Knightstown, IN 46148"
+        },
+        {
+          "name": "Standard Motor Products, Inc.",
+          "url": "http://www.smpcorp.com/",
+          "logo": "/media/uploads/2023/12/bwd.gif",
+          "products": "Ignition, Emission, Wire & Cable",
+          "address": "37-18 Northern Boulevard Long Island City, NY 11101"
+        },
+        {
+          "name": "Walker",
+          "url": "http://www.walkerexhaust.com/",
+          "logo": "/media/uploads/2023/12/wal.gif",
+          "products": "Exhaust, Converters, Mufflers & Accessories",
+          "address": "Monroe, MI 48161"
+        }
+      ]
+    },
+    {
+      "name": "Lighting & Safety",
+      "id": "lighting-and-safety",
+      "vendors": [
+        {
+          "name": "AGS",
+          "url": "http://www.agscompany.com/",
+          "logo": "/media/uploads/2023/12/ags.gif",
+          "products": "Bulbs and Capsules",
+          "address": "P.O. Box 729 Muskegon, MI 49443"
+        },
+        {
+          "name": "ANCO",
+          "url": "https://ancowipers.com/",
+          "logo": "/media/uploads/2025/05/ANCO_logo_blue.png",
+          "products": "Wiper Blades/Arms & Washer Pumps",
+          "address": "3255 West Hamlin Road Rochester Hills, MI 48309"
+        },
+        {
+          "name": "AVM",
+          "url": "http://www.avmind.com/",
+          "logo": "/media/uploads/2023/12/avm.gif",
+          "products": "Strong Arm Lift Supports",
+          "address": "Highway 76 East Marion, SC 29571"
+        },
+        {
+          "name": "Denso Corporation",
+          "url": "http://www.globaldenso.com/en/",
+          "logo": "/media/uploads/2023/12/densocorporationba.gif",
+          "products": "Wiper Blades",
+          "address": "3900 Via Oro Avenue Long Beach, CA 90810"
+        },
+        {
+          "name": "Eiko",
+          "url": "http://www.eiko.com/",
+          "logo": "/media/uploads/2023/12/Eiko.gif",
+          "products": "Automotive miniature, capsules and maintenance lighting",
+          "address": "23220 W. 84th Street Shawnee, KS 66227"
+        },
+        {
+          "name": "Fiamm Technologies",
+          "url": "http://www.fiammamerica.com/",
+          "logo": "/media/uploads/2023/12/signaltone.gif",
+          "products": "Horns",
+          "address": "1550 Leeson Avenue Cadillac, MI 49601"
+        },
+        {
+          "name": "Grote",
+          "url": "http://www.grote.com/",
+          "logo": "/media/uploads/2023/12/grote.gif",
+          "products": "Lighting Products",
+          "address": "2600 Lanier Drive Madison, IN 47250"
+        },
+        {
+          "name": "Hella, Inc.",
+          "url": "http://www.hellausa.com/",
+          "logo": "/media/uploads/2023/12/HellaInc.gif",
+          "products": "Miniature, Signal, Flashers, Horns, Relays",
+          "address": "210 Kelly Drive Peachtree City, GA 30269"
+        },
+        {
+          "name": "Kidde Fire Systems",
+          "url": "http://www.kiddefiresystems.com/",
+          "logo": "/media/uploads/2023/12/KiddeFireSystems.gif",
+          "products": "Fire Extinguishers",
+          "address": "400 Main Street Ashland, MA 01721"
+        },
+        {
+          "name": "Littelfuse",
+          "url": "http://www.cardone.com/",
+          "logo": "/media/uploads/2023/12/littelfuse.gif",
+          "products": "Fuses",
+          "address": "8755 West Higgins Road, Suite 500 Chicago, IL 60631"
+        },
+        {
+          "name": "Magid Glove and Safety Manufacturing Company",
+          "url": "http://www.magidglove.com/",
+          "logo": "/media/uploads/2023/12/MagidGloveandSafetyManufacturingCompany.gif",
+          "products": "Gloves, Respirators",
+          "address": "2060 North Kolmar Ave. Chicago, IL 60639"
+        },
+        {
+          "name": "Microflex Gloves",
+          "url": "http://www.microflex.com/",
+          "logo": "/media/uploads/2023/12/MicroflexGloves.gif",
+          "products": "Latex & Nitrile Gloves",
+          "address": "2301 Robb Drive Reno, NV 89523"
+        },
+        {
+          "name": "Novita Technologies",
+          "url": "http://www.novitatech.com/?q=aftermarket/products",
+          "logo": "/media/uploads/2023/12/trf.gif",
+          "products": "Flashers",
+          "address": "175 Old Shackle Island Rd. Hendersonville, TN 37075"
+        },
+        {
+          "name": "Philips Automotive Lighting",
+          "url": "https://www.usa.philips.com/c-m-au/car-lights",
+          "logo": "/media/uploads/2023/12/PhilipsAutomotiveLighting.gif",
+          "products": "Standard bulbs, sealed beams, miniature bulbs, HIDs, LEDs, capsules",
+          "address": "3255 West Hamlin Road Rochester Hills, MI 48309"
+        },
+        {
+          "name": "Rayovac",
+          "url": "http://www.rayovac.com/",
+          "logo": "/media/uploads/2023/12/rayovac.gif",
+          "products": "Flashlights, Batteries, Keyless Entry Batteries",
+          "address": "601 Rayovac Drive Madison, WI 53711-2497"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC-2.gif",
+          "products": "Wiper Blades",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Trico Products",
+          "url": "http://www.tricoproducts.com/",
+          "logo": "/media/uploads/2023/12/TricoProducts.gif",
+          "products": "Wipers, Refills, Washer Pumps",
+          "address": "3255 West Hamlin Road Rochester Hills, MI 48309"
+        },
+        {
+          "name": "TYC Genera Corporation",
+          "url": "http://www.genera.com/",
+          "logo": "/media/uploads/2023/12/TYCGeneraCorporation-1.gif",
+          "products": "Automotive Lighting Products, Mirrors",
+          "address": "2800 Saturn Street Brea, CA 92821"
+        },
+        {
+          "name": "Wagner",
+          "url": "http://www.fmmotorparts.com/",
+          "logo": "/media/uploads/2023/12/WagnerBrake.gif",
+          "products": "Replacement Capsules & Lamps",
+          "address": "27300 W. 11 Mile Road, Building 300 Southfield, MI 48033"
+        }
+      ]
+    },
+    {
+      "name": "Paint & Body",
+      "id": "paint-and-body",
+      "vendors": [
+        {
+          "name": "3M",
+          "url": "http://www.3m.com/",
+          "logo": "/media/uploads/2023/12/3m.gif",
+          "products": "Paint & Body Materials",
+          "address": "3M Center St. Paul, MN 55144-1000"
+        },
+        {
+          "name": "AISIN World Corp. of America",
+          "url": "http://www.aisin.com/product/automotive/",
+          "logo": "/media/uploads/2023/12/AISINWorldCorp.ofAmerica-1.gif",
+          "products": "Door Lock Actuators, Power Back Door Actuators",
+          "address": "24330 Garnier St. Torrance, CA 90505"
+        },
+        {
+          "name": "Dupli-Color",
+          "url": "http://www.duplicolor.com/",
+          "logo": "/media/uploads/2023/12/Dupli-Color.gif",
+          "products": "Spray Paints, Touch-up Paints, Undercoating, Truck Bed Liner",
+          "address": "101 Prospect Ave. Cleveland, OH 44115"
+        },
+        {
+          "name": "Duragloss",
+          "url": "http://www.duragloss.com/",
+          "logo": "/media/uploads/2023/12/duragloss.gif",
+          "products": "Polishes, Waxes, Cleaners",
+          "address": "P.O. Box 317 Burlington, NC 27216-0317"
+        },
+        {
+          "name": "Novita Technologies",
+          "url": "https://www.federatedautoparts.com/www.thermadyne.com",
+          "logo": "/media/uploads/2023/12/FirepowerWelding.gif",
+          "products": "Welding Equipment and Accessories",
+          "address": "16052 Swingley Ridge Road Chesterfield, MO 63017-9523"
+        },
+        {
+          "name": "Krylon",
+          "url": "http://www.usa.lighting.philips.com/products/automotive",
+          "logo": "/media/uploads/2023/12/Krylon.gif",
+          "products": "Spray Paints, Bed Liner, Undercoating, Touch-Up Paints",
+          "address": "101 W. Prospect Ave. Cleveland, OH 44115"
+        },
+        {
+          "name": "Mothers",
+          "url": "http://www.mothers.com/",
+          "logo": "/media/uploads/2023/12/Mothers-1.gif",
+          "products": "Polishes, Waxes, Cleaners",
+          "address": "5456 Industrial Drive Huntington Beach, CA 92649"
+        },
+        {
+          "name": "New Pig Corporation",
+          "url": "http://www.newpig.com/pig/US/",
+          "logo": "/media/uploads/2023/12/NewPigCorporation.gif",
+          "products": "Pig Mat Oil Absorbents",
+          "address": "1 Pork Avenue Tipton, PA 16684"
+        },
+        {
+          "name": "Porto-Power Blackhawk Automotive",
+          "url": "http://www.shinnfuamerica.com/ProductCategory/Porto-Power/7",
+          "logo": "/media/uploads/2023/12/Porto-PowerBlackhawkAutomotive.gif",
+          "products": "Collision Repair Equipment",
+          "address": "10939 North Pomona Kansas City, MO 64153"
+        },
+        {
+          "name": "SEM Repair and Refinishing Products",
+          "url": "http://www.usa.lighting.philips.com/products/automotive",
+          "logo": "/media/uploads/2023/12/SEMRepairandRefinishingProducts.gif",
+          "products": "Repair and Refinishing Products",
+          "address": "1685 Overview Drive Rock Hill, SC 29730"
+        },
+        {
+          "name": "TYC Genera Corporation",
+          "url": "http://www.genera.com/",
+          "logo": "/media/uploads/2023/12/TYCGeneraCorporation-1.gif",
+          "products": "CAPA & NSF Certified Lamps, Window Regulators",
+          "address": "2800 Saturn Street Brea, CA 92821"
+        }
+      ]
+    },
+    {
+      "name": "Tire Care & Repair",
+      "id": "tire-care-and-repair",
+      "vendors": [
+        {
+          "name": "Berryman Products",
+          "url": "https://www.berrymanproducts.com/",
+          "logo": "/media/uploads/2023/12/BerrymanProducts.gif",
+          "products": "Engine Degreaser",
+          "address": "3800 E. Randol Mill Road, Arlington, TX 76011"
+        },
+        {
+          "name": "Camel",
+          "url": "http://www.plews-edelmann.com/index.cfm?location_id=3826",
+          "logo": "/media/uploads/2023/12/camel.jpg",
+          "products": "Tire Repair & Hardware",
+          "address": "1550 Franklin Groave Road Dixon, IL 61021"
+        },
+        {
+          "name": "Continental VDO",
+          "url": "http://www.usa.vdo.com/generator/www/us/en/vdo/main/products_solutions/automotive/replacement_parts/",
+          "logo": "/media/uploads/2023/12/ContinentalVDO.gif",
+          "products": "Multi-application TPMS Sensors",
+          "address": "6755 Snowdrift Road Allentown, PA 18106"
+        },
+        {
+          "name": "Dorman",
+          "url": "http://www.dormanproducts.com/",
+          "logo": "/media/uploads/2023/12/dor.gif",
+          "products": "Lug Nuts",
+          "address": "3400 E. Walnut Street Colmar, PA 18915-1800"
+        },
+        {
+          "name": "Perfect Equipment Corporation",
+          "url": "http://www.perfectequipment.com/",
+          "logo": "/media/uploads/2023/12/perfectec.gif",
+          "products": "Wheel Weights",
+          "address": "P.O. Box 600 LaVergne, TN 37086"
+        },
+        {
+          "name": "Standard Motor Products, Inc.",
+          "url": "http://www.smpcorp.com/",
+          "logo": "/media/uploads/2023/12/bwd.gif",
+          "products": "TPMS Sensors",
+          "address": "37-18 Northern Boulevard Long Island City, NY 11101"
+        },
+        {
+          "name": "Tru-Flate",
+          "url": "https://www.truflate.com/",
+          "logo": "/media/uploads/2023/12/Tru-Flate-Logo-Blue_edited.webp",
+          "products": "Chucks, Couplers, Plugs, Tire Gauges, Air Line Accessories",
+          "address": "4500 Malone Road Memphis, TN 38118"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Equipment",
+      "id": "tools-and-equipment",
+      "vendors": [
+        {
+          "name": "All Power America",
+          "url": "http://www.allpoweramerica.com/",
+          "logo": "/media/uploads/2023/12/AllPowerAmerica.gif",
+          "products": "Compressors, Generators, Pressure Washers, Water Pumps",
+          "address": "13980 Mountain Ave. Chino, CA 91710"
+        },
+        {
+          "name": "Bayco",
+          "url": "http://www.baycoproducts.com/",
+          "logo": "/media/uploads/2023/12/bayco.gif",
+          "products": "Lighting Equipment, Extension Cords, Reels",
+          "address": "640 S. Sanden Blvd. Wylie, TX 75098"
+        },
+        {
+          "name": "Blackhawk by Proto",
+          "url": "http://www.protoindustrial.com/en/Pages/Blackhawk.aspx",
+          "logo": "/media/uploads/2023/12/blackhawk.gif",
+          "products": "Stanley-Proto, Blackhawk by Proto Hand Tools",
+          "address": "2195 East View Parkway Suite 103 Conyers, GA 30013"
+        },
+        {
+          "name": "Camel",
+          "url": "http://www.plews-edelmann.com/index.cfm?location_id=3826",
+          "logo": "/media/uploads/2023/12/camel.jpg",
+          "products": "Tire Repair Tools",
+          "address": "1550 Franklin Groave Road Dixon, IL 61021"
+        },
+        {
+          "name": "Carrand",
+          "url": "http://www.carrand.com/",
+          "logo": "/media/uploads/2023/12/carrand-1.gif",
+          "products": "Cleaning Accessories",
+          "address": "1225 E. Artesia Blvd. Carson, CA 90746"
+        },
+        {
+          "name": "Century Drill",
+          "url": "http://www.centurydrill.com/",
+          "logo": "/media/uploads/2023/12/century.gif",
+          "products": "Drill Accessories",
+          "address": "P.O. Box 12767 Green Bay, WI 54307-2767"
+        },
+        {
+          "name": "Clore Automotive",
+          "url": "http://www.cloreautomotive.com/evolution/",
+          "logo": "/media/uploads/2023/12/solar-1.gif",
+          "products": "Battery Chargers, Jump Starters, Battery Testers",
+          "address": "8735 Rosehill Road, Suite 220 Lenexa, KS 66215"
+        },
+        {
+          "name": "Equus",
+          "url": "http://www.autometer.com/",
+          "logo": "/media/uploads/2023/12/equus-1.gif",
+          "products": "Testing Equipment",
+          "address": "111 Somonauk Street Sycamore, IL 60178"
+        },
+        {
+          "name": "Federated Batteries",
+          "url": "http://www.federatedautoparts.com/",
+          "logo": "/media/uploads/2023/12/deka.gif",
+          "products": "Automotive, Fleet, Agricultural, Small Engine & Heavy Duty Batteries",
+          "address": "508 Greenville Ave. Staunton, VA 24401"
+        },
+        {
+          "name": "Firepower Welding",
+          "url": "https://www.federatedautoparts.com/www.thermadyne.com",
+          "logo": "/media/uploads/2023/12/FirepowerWelding.gif",
+          "products": "Welding Equipment and Accessories",
+          "address": "16052 Swingley Ridge Road Chesterfield, MO 63017-9523"
+        },
+        {
+          "name": "Hein-Warner Lifting Equipment",
+          "url": "http://www.shinnfuamerica.com/ProductCategory/Hein-Werner/6",
+          "logo": "/media/uploads/2023/12/Hein-WarnerLiftingEquipment.gif",
+          "products": "Service Jacks, Jacks Stands, Truck Jacks, Transmission Jacks, Engine Cranes, End Lifts",
+          "address": "10939 North Pomona Kansas City, MO 64153"
+        },
+        {
+          "name": "Highland",
+          "url": "http://www.cequentgroup.com/Brand/HIGH/Highland/",
+          "logo": "/media/uploads/2023/12/Highland.gif",
+          "products": "Cargo & Towing Accessories",
+          "address": "282 Main Street Hanpton, CT 06247"
+        },
+        {
+          "name": "Lisle",
+          "url": "http://www.lislecorp.com/",
+          "logo": "/media/uploads/2023/12/lisle.gif",
+          "products": "Specialty Tools",
+          "address": "P.O. Box 89 Clarinda, IA 51632"
+        },
+        {
+          "name": "Magid Glove and Safety Manufacturing Company",
+          "url": "http://www.magidglove.com/",
+          "logo": "/media/uploads/2023/12/MagidGloveandSafetyManufacturingCompany.gif",
+          "products": "Gloves, Respirators",
+          "address": "2060 North Kolmar Ave. Chicago, IL 60639"
+        },
+        {
+          "name": "Midwest Can Company",
+          "url": "http://www.midwestcan.com/",
+          "logo": "/media/uploads/2023/12/MidwestCanCompany.gif",
+          "products": "Fuel containers, water containers, funnels, drain pans",
+          "address": "1950 N. Mannheim Rd. Melrose Park, IL 60160"
+        },
+        {
+          "name": "New Pig Corporation",
+          "url": "http://www.newpig.com/pig/US/",
+          "logo": "/media/uploads/2023/12/NewPigCorporation.gif",
+          "products": "Pig Mat Oil Absorbants",
+          "address": "1 Pork Avenue Tipton, PA 16684"
+        },
+        {
+          "name": "Omega Lift",
+          "url": "http://www.shinnfuamerica.com/ProductCategory/Omega/1",
+          "logo": "/media/uploads/2023/12/OmegaLift.gif",
+          "products": "Jacks, Jack Stands, Hoists, Engine Stands, Shop Equipment, etc.",
+          "address": "10939 North Pomona Kansas City, MO 64153"
+        },
+        {
+          "name": "Perma-Coil Thread Kits Co.",
+          "url": "http://www.threadkits.com/perma/permacoil.html",
+          "logo": "/media/uploads/2023/12/Perma-CoilThreadKitsCo.gif",
+          "products": "Thread Repair Kits, Inserts, Taps",
+          "address": "24310 Garnier Street Torrance, CA 90505"
+        },
+        {
+          "name": "Pit-Pro",
+          "url": "http://www.usa.vdo.com/generator/www/us/en/vdo/main/products_solutions/automotive/replacement_parts/",
+          "logo": "/media/uploads/2023/12/pitpro.gif",
+          "products": "Battery Chargers/Testers, etc."
+        },
+        {
+          "name": "Porto-Power Blackhawk Automotive",
+          "url": "http://www.shinnfuamerica.com/ProductCategory/Porto-Power/7",
+          "logo": "/media/uploads/2023/12/Porto-PowerBlackhawkAutomotive-1.gif",
+          "products": "Porto-Power Kits, Foot and Hand Pumps, Hydraulic Rams, Frame Straightening Equipment",
+          "address": "10939 North Pomona Kansas City, MO 64153"
+        },
+        {
+          "name": "Robert Bosch, LLC",
+          "url": "http://www.boschautoparts.com/Home/Pages/Home.aspx",
+          "logo": "/media/uploads/2023/12/RobertBoschLLC-2.gif",
+          "products": "Brake Lathes, Diagnostic Equipment",
+          "address": "2800 S. 25th Avenue Broadview, IL 60155-4594"
+        },
+        {
+          "name": "Schumacher Electric Corporation",
+          "url": "http://www.schumacherproducts.com/",
+          "logo": "/media/uploads/2023/12/SchumacherElectricCorporation-1.gif",
+          "products": "Battery Chargers, Power Inverters, Battery Testing Equipment",
+          "address": "801 Business Center Drive Mount Prospect, IL 60056-2179"
+        },
+        {
+          "name": "Sunex",
+          "url": "http://www.usa.vdo.com/generator/www/us/en/vdo/main/products_solutions/automotive/replacement_parts/",
+          "logo": "/media/uploads/2023/12/sunex.gif",
+          "products": "Air Tools, Shop Tools & Equipment",
+          "address": "P.O. Box 4215 Greenville, SC 29608"
+        },
+        {
+          "name": "Teknor Apex",
+          "url": "http://www.teknorapex.com/division/hose",
+          "logo": "/media/uploads/2023/12/Apex-1.gif",
+          "products": "Home & Commercial Water Hoses",
+          "address": "505 Central Avenue Pawtucket, RI 02861"
+        },
+        {
+          "name": "Tracer Products",
+          "url": "https://www.federatedautoparts.com/www.leakfinderproducts.com",
+          "logo": "/media/uploads/2023/12/TracerProducts-1.gif",
+          "products": "Tracer® AC Fittings & Adapters",
+          "address": "956 Brush Hollow Road Westbury, NY 11590"
+        },
+        {
+          "name": "Wilmar",
+          "url": "https://www.federatedautoparts.com/www.wilmarcorp.com",
+          "logo": "/media/uploads/2023/12/wilmar.gif",
+          "products": "Hand Tools and Equipment",
+          "address": "P.O. Box 88259 Tukwila, WA 98138"
+        }
+      ]
+    },
+    {
+      "name": "Towing",
+      "id": "towing",
+      "vendors": [
+        {
+          "name": "Highland",
+          "url": "http://www.cequentgroup.com/Brand/HIGH/Highland/",
+          "logo": "/media/uploads/2023/12/Highland.gif",
+          "products": "Cargo & Towing Accessories",
+          "address": "282 Main Street Hanpton, CT 06247"
+        },
+        {
+          "name": "Hopkins Manufacturing Corp.",
+          "url": "https://hopkinsmfg.com/",
+          "logo": "/media/uploads/2025/05/Hopkins-Logo-01.png",
+          "products": "Trailer Wiring & Accessories",
+          "address": "428 Peyton Street Emporia, KS 66801"
+        },
+        {
+          "name": "Redneck Trailer Supplies",
+          "url": "http://www.redneck-trailer.com/index.htm",
+          "logo": "/media/uploads/2023/12/RedneckTrailerSupplies.gif",
+          "products": "Brake controllers, bearings, brake shoes, hardware, breakaway kits",
+          "address": "2100 N. West Bypass Sprinfield, MO 65803"
+        },
+        {
+          "name": "Reese Towing",
+          "url": "https://www.reeseprod.com/",
+          "logo": "/media/uploads/2025/05/REESE-Logo.png",
+          "products": "Trailer Hitches, Ball Mounts, Trailer Balls, Hitch Accessories",
+          "address": "3255 West Hamlin Road Rochester Hills, MI 48309"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "id": "other",
+      "vendors": [
+        {
+          "name": "Camel",
+          "url": "http://www.plews-edelmann.com/index.cfm?location_id=3826",
+          "logo": "/media/uploads/2023/12/camel.jpg",
+          "products": "Tire Repair & Hardware",
+          "address": "1550 Franklin Groave Road Dixon, IL 61021"
+        },
+        {
+          "name": "Dorman",
+          "url": "http://www.dormanproducts.com/",
+          "logo": "/media/uploads/2023/12/dor.gif",
+          "products": "Nuts, Bolts & Fasteners",
+          "address": "3400 E. Walnut Street Colmar, PA 18915-1800"
+        },
+        {
+          "name": "Fiamm Technologies",
+          "url": "http://www.fiammamerica.com/",
+          "logo": "/media/uploads/2023/12/signaltone.gif",
+          "products": "Horns",
+          "address": "1550 Leeson Avenue Cadillac, MI 49601"
+        },
+        {
+          "name": "GoJo",
+          "url": "http://www.gojo.com/",
+          "logo": "/media/uploads/2023/12/gojo.gif",
+          "products": "Hand Cleaners",
+          "address": "P.O. Box 991 Akron, OH 44309-0991"
+        },
+        {
+          "name": "Hopkins Manufacturing Corp.",
+          "url": "https://hopkinsmfg.com/",
+          "logo": "/media/uploads/2025/05/Hopkins-Logo-01.png",
+          "products": "Winter Accessories",
+          "address": "428 Peyton Emporia, KS 66801"
+        },
+        {
+          "name": "Kidde Fire Systems",
+          "url": "http://www.kiddefiresystems.com/",
+          "logo": "/media/uploads/2023/12/KiddeFireSystems.gif",
+          "products": "Fire Extinguishers",
+          "address": "400 Main Street Ashland, MA 01721"
+        },
+        {
+          "name": "Midwest Can Company",
+          "url": "http://www.midwestcan.com/",
+          "logo": "/media/uploads/2023/12/MidwestCanCompany.gif",
+          "products": "Fuel containers, water containers",
+          "address": "1950 N. Mannheim Rd. Melrose Park, IL 60160"
+        },
+        {
+          "name": "Mothers",
+          "url": "http://www.mothers.com/",
+          "logo": "/media/uploads/2023/12/Mothers-1.gif",
+          "products": "Performance Products",
+          "address": "5456 Industrial Drive Huntington Beach, CA 92649"
+        },
+        {
+          "name": "Perfect Equipment Corporation",
+          "url": "http://www.perfectequipment.com/",
+          "logo": "/media/uploads/2023/12/perfectec.gif",
+          "products": "Wheel Weights",
+          "address": "P.O. Box 600 LaVergne, TN 37086"
+        },
+        {
+          "name": "Rayovac",
+          "url": "http://www.rayovac.com/",
+          "logo": "/media/uploads/2023/12/rayovac.gif",
+          "products": "Flashlights, Batteries, Keyless Entry Batteries",
+          "address": "601 Rayovac Drive Madison, WI 53711-2497"
+        },
+        {
+          "name": "Redneck Trailer Supplies",
+          "url": "http://www.redneck-trailer.com/index.htm",
+          "logo": "/media/uploads/2023/12/RedneckTrailerSupplies.gif",
+          "products": "Brake controllers, bearings, brake shoes, hardware, breakaway kits",
+          "address": "2100 N. West Bypass Sprinfield, MO 65803"
+        },
+        {
+          "name": "Tru-Flate",
+          "url": "https://www.truflate.com/",
+          "logo": "/media/uploads/2023/12/Tru-Flate-Logo-Blue_edited.webp",
+          "products": "Tire Repair, Air Line Accessories",
+          "address": "4500 Malone Road Memphis, TN 38118"
+        }
+      ]
+    }
+  ]
+}

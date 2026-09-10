@@ -1,0 +1,320 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/withBase';
+import data from '../data/quality-parts.json';
+
+const groups = data.groups;
+const vendorCount = groups.reduce((n, g) => n + g.vendors.length, 0);
+const pageDescription =
+  data.description ||
+  'Browse Federated Auto Parts product groups and preferred name-brand vendor partners.';
+---
+
+<BaseLayout title="Quality Parts" description={pageDescription}>
+  <section class="page-hero">
+    <div class="container">
+      <p class="hero-eyebrow qp-eyebrow">Vendor directory</p>
+      <h1>Quality Parts</h1>
+      <p>
+        Federated partners with leading manufacturers across {groups.length} product
+        groups — {vendorCount} preferred vendors supplying name-brand parts your
+        customers trust.
+      </p>
+    </div>
+  </section>
+
+  <nav class="qp-jump" aria-label="Product groups">
+    <div class="container qp-jump-inner">
+      <span class="qp-jump-label">Jump to</span>
+      <ul class="qp-jump-list">
+        {
+          groups.map((g) => (
+            <li>
+              <a href={`#${g.id}`}>{g.name}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </nav>
+
+  {
+    groups.map((group, index) => (
+      <section
+        class:list={['section', 'qp-group', { 'section-alt': index % 2 === 1 }]}
+        id={group.id}
+      >
+        <div class="container">
+          <div class="section-header qp-group-header">
+            <h2>{group.name}</h2>
+            <p>
+              {group.vendors.length} vendor{group.vendors.length === 1 ? '' : 's'}
+            </p>
+          </div>
+
+          <div class="qp-grid">
+            {group.vendors.map((vendor) => (
+              <article class="qp-card">
+                <div class="qp-logo">
+                  {vendor.logo ? (
+                    vendor.url ? (
+                      <a
+                        href={vendor.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label={`${vendor.name} website`}
+                      >
+                        <img
+                          src={withBase(vendor.logo)}
+                          alt=""
+                          width="160"
+                          height="80"
+                          loading="lazy"
+                        />
+                      </a>
+                    ) : (
+                      <img
+                        src={withBase(vendor.logo)}
+                        alt=""
+                        width="160"
+                        height="80"
+                        loading="lazy"
+                      />
+                    )
+                  ) : (
+                    <span class="qp-logo-fallback" aria-hidden="true">
+                      {vendor.name.slice(0, 1)}
+                    </span>
+                  )}
+                </div>
+                <div class="qp-card-body">
+                  <h3 class="qp-brand">
+                    {vendor.url ? (
+                      <a href={vendor.url} target="_blank" rel="noopener noreferrer">
+                        {vendor.name}
+                      </a>
+                    ) : (
+                      vendor.name
+                    )}
+                  </h3>
+                  {vendor.products && <p class="qp-products">{vendor.products}</p>}
+                  {vendor.address && <p class="qp-address">{vendor.address}</p>}
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+    ))
+  }
+</BaseLayout>
+
+<style>
+  .qp-eyebrow {
+    margin-bottom: 0.75rem;
+  }
+
+  .qp-jump {
+    position: sticky;
+    top: var(--header-h);
+    z-index: 40;
+    background: var(--color-white);
+    border-bottom: 1px solid var(--color-gray-200);
+    box-shadow: 0 4px 14px rgba(0, 97, 170, 0.06);
+  }
+
+  .qp-jump-inner {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    padding: 0.7rem 0;
+  }
+
+  .qp-jump-label {
+    flex-shrink: 0;
+    margin-top: 0.35rem;
+    font-family: var(--font-heading);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-orange);
+  }
+
+  .qp-jump-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .qp-jump-list a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid var(--color-gray-200);
+    background: var(--color-off-white);
+    color: var(--color-gray-700);
+    text-decoration: none;
+    font-family: var(--font-heading);
+    font-size: 0.78rem;
+    font-weight: 600;
+    white-space: nowrap;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+  }
+
+  .qp-jump-list a:hover {
+    background: var(--color-blue);
+    border-color: var(--color-blue);
+    color: var(--color-white);
+  }
+
+  .qp-group {
+    scroll-margin-top: calc(var(--header-h) + 4.5rem);
+  }
+
+  .qp-group-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem 1.25rem;
+  }
+
+  .qp-group-header h2 {
+    margin: 0;
+  }
+
+  .qp-group-header p {
+    margin: 0;
+    color: var(--color-gray-500);
+    font-size: 0.95rem;
+  }
+
+  .qp-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .qp-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-white);
+    border: 1px solid var(--color-gray-200);
+    border-radius: calc(var(--radius) + 2px);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    height: 100%;
+    transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
+  }
+
+  .qp-card:hover {
+    border-color: var(--color-orange);
+    box-shadow: 0 14px 32px rgba(0, 97, 170, 0.14);
+    transform: translateY(-2px);
+  }
+
+  .section-alt .qp-card {
+    background: var(--color-white);
+  }
+
+  .qp-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 110px;
+    padding: 1rem 1.15rem;
+    background: var(--color-off-white);
+    border-bottom: 1px solid var(--color-gray-200);
+  }
+
+  .qp-logo a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+
+  .qp-logo img {
+    max-width: 160px;
+    max-height: 72px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    margin-inline: auto;
+  }
+
+  .qp-logo-fallback {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: var(--color-blue);
+    color: var(--color-white);
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1.35rem;
+  }
+
+  .qp-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+    padding: 1.05rem 1.15rem 1.25rem;
+    flex: 1;
+  }
+
+  .qp-brand {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .qp-brand a {
+    color: var(--color-blue);
+    text-decoration: none;
+  }
+
+  .qp-brand a:hover {
+    color: var(--color-orange);
+  }
+
+  .qp-products {
+    margin: 0;
+    color: var(--color-gray-700);
+    font-size: 0.92rem;
+    line-height: 1.45;
+  }
+
+  .qp-address {
+    margin: 0.35rem 0 0;
+    color: var(--color-gray-500);
+    font-size: 0.84rem;
+    line-height: 1.4;
+  }
+
+  @media (max-width: 640px) {
+    .qp-jump-inner {
+      flex-direction: column;
+      gap: 0.45rem;
+    }
+
+    .qp-jump-label {
+      margin-top: 0;
+    }
+
+    .qp-group {
+      scroll-margin-top: calc(var(--header-h) + 6.5rem);
+    }
+
+    .qp-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,6 +1,6 @@
 ---
 title: Quality Parts
-description: Product Groups Appearance Products Berryman Products Engine Degreaser 3800 E. Randol Mill Road, Arlington, TX 76011 Carrand Cleaning Accessories 1225 E. Artesia Blvd. Carson, CA 90746 Duragloss Polishes, Waxes, Cleaners P.O. Box 317 Burlington, NC 27216-0317 Mothers Polishes, Waxes, Cleaners 5456 Industrial Drive Huntington Beach, CA 92649 Radiator Specialty Engine Cleaner, Car & Truck Wash,
+description: Browse Federated Auto Parts product groups and preferred name-brand vendor partners.
 slug: quality-parts
 sourceUrl: http://35.92.119.176.nip.io/quality-parts/
 wpId: 15
@@ -11,6 +11,8 @@ featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ![](/media/uploads/2023/08/Promotional-Products.jpg)
 
 # Quality Parts
+
+> **Reference dump only.** The live `/quality-parts/` route is rendered by `src/pages/quality-parts.astro` from `src/data/quality-parts.json` (regenerate with `npm run parse-quality-parts`). This Markdown is excluded from `[slug].astro` collection routes.
 
 #### Product Groups
 

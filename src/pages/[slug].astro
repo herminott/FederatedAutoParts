@@ -8,6 +8,17 @@ export async function getStaticPaths() {
     const { id, data } = entry;
     if (data.draft) return false;
     if (data.template === 'home') return false;
+    // Dedicated routes (not generic collection pages)
+    if (
+      id === 'quality-parts' ||
+      data.slug === 'quality-parts' ||
+      id === 'contact' ||
+      data.slug === 'contact' ||
+      id === 'find-a-store' ||
+      data.slug === 'find-a-store'
+    ) {
+      return false;
+    }
     const filePath = 'filePath' in entry ? String(entry.filePath ?? '') : '';
     if (
       id === 'index' ||
