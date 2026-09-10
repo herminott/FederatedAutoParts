@@ -70,11 +70,22 @@ This project is configured for GitHub project Pages:
 - `site`: `https://herminott.github.io`
 - `base`: `/FederatedAutoParts/`
 
-On every push to `main`, [.github/workflows/deploy.yml](.github/workflows/deploy.yml) runs `npm ci` + `npm run build`, uploads `dist/`, and deploys with `actions/deploy-pages`. You can also trigger the workflow manually from the Actions tab (`workflow_dispatch`).
-
-Repo Settings → Pages should use **Source: GitHub Actions**.
-
 Internal nav/header/footer links use `import.meta.env.BASE_URL` so assets and routes resolve under `/FederatedAutoParts/`.
+
+### Current publish path
+
+The preview is published from the `gh-pages` branch (built `dist/` contents). Pages source: **Deploy from a branch → `gh-pages` / root**.
+
+### GitHub Actions workflow (recommended next step)
+
+A workflow is prepared at `.github/workflows/deploy.yml` (checkout → Node 22 → `npm ci` → `npm run build` → `upload-pages-artifact` → `deploy-pages`). Pushing it requires a GitHub token with the `workflow` scope (the current `gh` OAuth token only has `repo`).
+
+To switch to Actions deploys:
+
+1. `gh auth refresh -h github.com -s workflow,repo,read:org,gist`
+2. Commit and push `.github/workflows/deploy.yml` to `main`
+3. Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**
+   (or `gh api repos/herminott/FederatedAutoParts/pages -X PUT -f build_type=workflow`)
 
 ## Deploy notes
 
