@@ -1,0 +1,12 @@
+# Legacy WordPress-style dated news URLs → Astro news routes (Netlify)
+# Example: /2024/03/15/spring-catalog-highlights/ → /news/spring-catalog-highlights/
+/2024/03/15/spring-catalog-highlights/  /news/spring-catalog-highlights/  301
+/2025/07/08/parts-availability-update/  /news/parts-availability-update/  301
+/2025/09/22/new-marketing-toolkit/      /news/new-marketing-toolkit/      301
+/2025/11/05/member-spotlight-midwest/   /news/member-spotlight-midwest/   301
+/2026/02/18/spring-catalog-highlights/  /news/spring-catalog-highlights/  301
+/2026/03/12/federated-expands-training-programs/ /news/federated-expands-training-programs/ 301
+
+# Generic pattern examples (uncomment / extend as needed for your WP history)
+# /:year/:month/:day/:slug/  /news/:slug/  301
+# /YYYY/MM/DD/:slug/         /news/:slug/  301

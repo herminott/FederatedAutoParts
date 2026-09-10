@@ -1,0 +1,92 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsCard from '../components/NewsCard.astro';
+
+const posts = (await getCollection('news', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+---
+
+<BaseLayout title="Home" description="Federated Auto Parts connects independent distributors with quality automotive parts, programs, and local support.">
+  <section class="hero">
+    <div class="container">
+      <span class="hero-eyebrow">Independent. Local. Trusted.</span>
+      <h1>Parts and programs that keep shops moving</h1>
+      <p>
+        Federated Auto Parts partners with independent distributors nationwide to
+        deliver quality brands, training, and the local service professional
+        technicians rely on.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/find-a-store/">Find a Store</a>
+        <a class="btn btn-secondary" href="/about-federated/">About Federated</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2>Built for independent distributors</h2>
+        <p>
+          From hard parts to chemicals and accessories, Federated members serve
+          professional installers and DIY customers with inventory depth and
+          neighborhood expertise.
+        </p>
+      </div>
+      <div class="card-grid">
+        <article class="news-card">
+          <span class="badge">Network</span>
+          <h3>Local strength</h3>
+          <p class="excerpt">
+            Independently owned stores with the buying power and brand access of
+            a national program.
+          </p>
+        </article>
+        <article class="news-card">
+          <span class="badge">Support</span>
+          <h3>Programs that work</h3>
+          <p class="excerpt">
+            Marketing, training, and catalog tools designed for counter staff and
+            shop customers.
+          </p>
+        </article>
+        <article class="news-card">
+          <span class="badge">Coverage</span>
+          <h3>Parts for every bay</h3>
+          <p class="excerpt">
+            Broad coverage across undercar, underhood, brakes, filters, and more
+            from trusted manufacturers.
+          </p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <h2>Latest news</h2>
+        <p>Updates from across the Federated network.</p>
+      </div>
+      <div class="card-grid">
+        {posts.map((post) => <NewsCard post={post} />)}
+      </div>
+      <p style="margin-top: 1.75rem;">
+        <a class="btn btn-outline" href="/news/">View all news</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <div class="container">
+      <h2>Need parts nearby?</h2>
+      <p>Locate a Federated Auto Parts store and get the right part the first time.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/find-a-store/">Find a Store</a>
+        <a class="btn btn-secondary" href="/news/">Read the news</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

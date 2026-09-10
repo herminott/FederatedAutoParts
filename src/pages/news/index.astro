@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+
+const posts = (await getCollection('news', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<BaseLayout title="News" description="News and updates from Federated Auto Parts.">
+  <section class="page-hero">
+    <div class="container">
+      <h1>News</h1>
+      <p>Announcements, member stories, and industry updates from Federated Auto Parts.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      {
+        posts.length === 0 ? (
+          <p>No news posts yet.</p>
+        ) : (
+          <div class="card-grid">
+            {posts.map((post) => (
+              <NewsCard post={post} />
+            ))}
+          </div>
+        )
+      }
+    </div>
+  </section>
+</BaseLayout>

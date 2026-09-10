@@ -1,0 +1,184 @@
+---
+const pathname = Astro.url.pathname;
+const nav = [
+  { href: '/', label: 'Home' },
+  { href: '/about-federated/', label: 'About' },
+  { href: '/news/', label: 'News' },
+  { href: '/find-a-store/', label: 'Find a Store' },
+];
+
+function isActive(href: string) {
+  if (href === '/') return pathname === '/';
+  return pathname === href || pathname.startsWith(href);
+}
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="/">Federated Auto Parts</a>
+
+    <button
+      class="nav-toggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="primary-nav"
+      id="nav-toggle"
+    >
+      <span class="sr-only">Menu</span>
+      <span class="nav-toggle-bar" aria-hidden="true"></span>
+      <span class="nav-toggle-bar" aria-hidden="true"></span>
+      <span class="nav-toggle-bar" aria-hidden="true"></span>
+    </button>
+
+    <nav class="primary-nav" id="primary-nav" aria-label="Primary">
+      <ul>
+        {
+          nav.map((item) => (
+            <li>
+              <a href={item.href} class={isActive(item.href) ? 'active' : undefined}>
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--color-navy);
+    color: var(--color-white);
+    min-height: var(--header-h);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: var(--header-h);
+  }
+
+  .logo {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1.05rem;
+    letter-spacing: 0.02em;
+    color: var(--color-white);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .logo:hover {
+    color: #ffd7dc;
+  }
+
+  .primary-nav ul {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .primary-nav a {
+    display: block;
+    padding: 0.55rem 0.85rem;
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 0.92rem;
+    border-radius: 999px;
+  }
+
+  .primary-nav a:hover,
+  .primary-nav a.active {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--color-white);
+  }
+
+  .primary-nav a.active {
+    box-shadow: inset 0 -2px 0 var(--color-red);
+    border-radius: 0;
+  }
+
+  .nav-toggle {
+    display: none;
+    width: 44px;
+    height: 44px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 8px;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .nav-toggle-bar {
+    display: block;
+    width: 18px;
+    height: 2px;
+    background: var(--color-white);
+  }
+
+  @media (max-width: 768px) {
+    .nav-toggle {
+      display: inline-flex;
+    }
+
+    .primary-nav {
+      display: none;
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: var(--header-h);
+      background: var(--color-navy-deep);
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 0.75rem 1rem 1rem;
+    }
+
+    .primary-nav.open {
+      display: block;
+    }
+
+    .primary-nav ul {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.25rem;
+    }
+
+    .primary-nav a {
+      padding: 0.85rem 1rem;
+      border-radius: 8px;
+    }
+
+    .primary-nav a.active {
+      border-radius: 8px;
+      box-shadow: none;
+      background: rgba(200, 16, 46, 0.25);
+    }
+  }
+</style>
+
+<script>
+  const toggle = document.getElementById('nav-toggle');
+  const nav = document.getElementById('primary-nav');
+
+  if (toggle && nav) {
+    toggle.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', String(open));
+    });
+  }
+</script>

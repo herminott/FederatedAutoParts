@@ -1,0 +1,31 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'news'>;
+}
+
+const { post } = Astro.props;
+const href = `/news/${post.data.slug}/`;
+const date = post.data.pubDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<article class="news-card">
+  <a href={href}>
+    {
+      post.data.categories[0] && (
+        <span class="badge">{post.data.categories[0]}</span>
+      )
+    }
+    <h3>{post.data.title}</h3>
+    <p class="meta">
+      <time datetime={post.data.pubDate.toISOString()}>{date}</time>
+    </p>
+    <p class="excerpt">{post.data.description}</p>
+    <span class="read-more">Read more →</span>
+  </a>
+</article>
