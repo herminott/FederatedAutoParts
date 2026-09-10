@@ -3,10 +3,23 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
-  const pages = await getCollection('pages', ({ data }) => {
+  const pages = await getCollection('pages', (entry) => {
+    const { id, data } = entry;
     if (data.draft) return false;
     if (data.template === 'home') return false;
-    if (data.slug === 'home' || data.slug === 'index') return false;
+    // WP home is pages/index.md; glob id follows frontmatter slug (federated-auto-parts)
+    const filePath = 'filePath' in entry ? String(entry.filePath ?? '') : '';
+    if (
+      id === 'index' ||
+      id === 'federated-auto-parts' ||
+      data.slug === 'home' ||
+      data.slug === 'index' ||
+      data.slug === 'federated-auto-parts' ||
+      filePath.endsWith('/index.md') ||
+      filePath.endsWith('pages/index.md')
+    ) {
+      return false;
+    }
     return true;
   });
 
