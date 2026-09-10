@@ -2,22 +2,39 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsCard from '../../components/NewsCard.astro';
+import { withBase } from '../../lib/withBase';
 
 const posts = (await getCollection('news', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+const categories = [...new Set(posts.flatMap((p) => p.data.categories))]
+  .filter(Boolean)
+  .sort();
 ---
 
 <BaseLayout title="News" description="News and updates from Federated Auto Parts.">
   <section class="page-hero">
     <div class="container">
       <h1>News</h1>
-      <p>Announcements, member stories, and industry updates from Federated Auto Parts.</p>
+      <p>Announcements, member stories, awards, and industry updates from Federated Auto Parts.</p>
     </div>
   </section>
 
   <section class="section">
     <div class="container">
+      {
+        categories.length > 0 && (
+          <div class="category-chips" aria-label="News categories">
+            <a class="chip chip-active" href={withBase('/news/')}>All</a>
+            {categories.slice(0, 12).map((cat) => (
+              <a class="chip" href={withBase(`/news/category/${cat}/`)}>
+                {cat.replace(/-/g, ' ')}
+              </a>
+            ))}
+          </div>
+        )
+      }
       {
         posts.length === 0 ? (
           <p>No news posts yet.</p>

@@ -1,0 +1,75 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import NewsCard from '../../../components/NewsCard.astro';
+import { withBase } from '../../../lib/withBase';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('news', ({ data }) => !data.draft);
+  const categories = [...new Set(posts.flatMap((p) => p.data.categories))].filter(Boolean);
+  return categories.map((slug) => ({
+    params: { slug },
+    props: {
+      slug,
+      posts: posts
+        .filter((p) => p.data.categories.includes(slug))
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { slug, posts } = Astro.props;
+const label = slug.replace(/-/g, ' ');
+const allCategories = [
+  ...new Set(
+    (await getCollection('news', ({ data }) => !data.draft)).flatMap((p) => p.data.categories),
+  ),
+]
+  .filter(Boolean)
+  .sort();
+---
+
+<BaseLayout
+  title={`${label} | News`}
+  description={`Federated Auto Parts news in ${label}.`}
+>
+  <section class="page-hero">
+    <div class="container">
+      <p class="hero-eyebrow">News</p>
+      <h1>{label}</h1>
+      <p>{posts.length} article{posts.length === 1 ? '' : 's'} in this category.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="category-chips" aria-label="News categories">
+        <a class="chip" href={withBase('/news/')}>All</a>
+        {
+          allCategories.slice(0, 12).map((cat) => (
+            <a
+              class:list={['chip', { 'chip-active': cat === slug }]}
+              href={withBase(`/news/category/${cat}/`)}
+            >
+              {cat.replace(/-/g, ' ')}
+            </a>
+          ))
+        }
+      </div>
+      {
+        posts.length === 0 ? (
+          <p>No posts in this category.</p>
+        ) : (
+          <div class="card-grid">
+            {posts.map((post) => (
+              <NewsCard post={post} />
+            ))}
+          </div>
+        )
+      }
+      <p style="margin-top: 2rem;">
+        <a href={withBase('/news/')}>← All news</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>

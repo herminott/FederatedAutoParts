@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-const base = import.meta.env.BASE_URL;
+import { withBase } from '../lib/withBase';
 ---
 
 <BaseLayout
@@ -15,17 +15,64 @@ const base = import.meta.env.BASE_URL;
   </section>
 
   <section class="section">
-    <div class="container">
+    <div class="container store-layout">
       <div class="coming-soon">
         <h2>Store locator coming soon</h2>
         <p>
           We are rebuilding the store finder for this new static site. In the
-          meantime, contact your local Federated distributor or check back soon.
+          meantime, visit Local Federated Stores for network information or
+          contact headquarters.
         </p>
-        <p style="margin-top: 1.5rem;">
-          <a class="btn btn-primary" href={`${base}about-federated/`}>Learn about Federated</a>
+        <p class="store-actions">
+          <a class="btn btn-primary" href={withBase('/local-federated-stores/')}>Local Federated Stores</a>
+          <a class="btn btn-outline" href={withBase('/federated-headquarters/')}>Headquarters</a>
         </p>
       </div>
+      <aside class="store-aside">
+        <img
+          src={withBase('/media/brand/localfederatedstores.jpg')}
+          alt="Local Federated stores"
+          width="640"
+          height="400"
+          loading="lazy"
+        />
+      </aside>
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .store-layout {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 1.75rem;
+    align-items: stretch;
+  }
+
+  .store-actions {
+    margin-top: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+  }
+
+  .store-aside {
+    border-radius: calc(var(--radius) + 2px);
+    overflow: hidden;
+    background: var(--color-navy);
+    min-height: 240px;
+  }
+
+  .store-aside img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 800px) {
+    .store-layout {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

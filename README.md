@@ -91,4 +91,4 @@ To switch to Actions deploys:
 
 `public/_redirects` includes example Netlify 301 rules that map legacy WordPress-style date URLs to `/news/:slug/`. Adjust patterns to match your historical URL structure before go-live. Those redirects are not used by GitHub Pages.
 
-**Caveat:** Markdown content under `src/content/` still has many absolute root paths (`/media/...`, `/about-federated/`, etc.). Those will 404 on project Pages until rewritten to include the base path (or served from a custom domain at `/`).
+Markdown content keeps root-absolute `/media/...` and internal `/...` links. At build time a rehype plugin (`rehypePrefixBase` in `src/lib/withBase.ts`) prefixes Astro `base` onto those URLs. Components use the `withBase()` helper for the same purpose.

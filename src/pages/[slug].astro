@@ -1,13 +1,13 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/withBase';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages', (entry) => {
     const { id, data } = entry;
     if (data.draft) return false;
     if (data.template === 'home') return false;
-    // WP home is pages/index.md; glob id follows frontmatter slug (federated-auto-parts)
     const filePath = 'filePath' in entry ? String(entry.filePath ?? '') : '';
     if (
       id === 'index' ||
@@ -35,6 +35,8 @@ const { Content } = await render(page);
 const looksLegal =
   page.data.template === 'legal' ||
   /terms|privacy|legal|cookie|disclaimer/i.test(page.data.slug);
+
+const featured = page.data.featuredImage ? withBase(page.data.featuredImage) : null;
 ---
 
 <BaseLayout
@@ -51,9 +53,32 @@ const looksLegal =
 
   <section class="section">
     <div class="container">
-      <article class="prose">
+      {
+        featured && !looksLegal && (
+          <figure class="page-featured">
+            <img src={featured} alt="" width="1120" height="480" />
+          </figure>
+        )
+      }
+      <article class:list={['prose', { 'prose-wide': !looksLegal, 'prose-legal': looksLegal }]}>
         <Content />
       </article>
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .page-featured {
+    margin: 0 0 2rem;
+    border-radius: calc(var(--radius) + 2px);
+    overflow: hidden;
+    background: var(--color-gray-100);
+    max-width: 920px;
+  }
+
+  .page-featured img {
+    width: 100%;
+    max-height: 360px;
+    object-fit: cover;
+  }
+</style>

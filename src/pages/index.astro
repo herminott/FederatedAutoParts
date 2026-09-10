@@ -2,26 +2,60 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsCard from '../components/NewsCard.astro';
+import { withBase } from '../lib/withBase';
 
 const posts = (await getCollection('news', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
-const base = import.meta.env.BASE_URL;
+  .slice(0, 6);
+
+const heroImage = withBase('/media/brand/about-federated.jpg');
+const props = [
+  {
+    badge: 'Membership',
+    title: 'Partner with Federated',
+    text: 'Independent distributors gain national buying power, brand access, and programs while staying locally owned.',
+    href: '/federated-membership/',
+    image: '/media/uploads/2023/08/Membership.jpg',
+  },
+  {
+    badge: 'Quality Parts',
+    title: 'Parts professionals trust',
+    text: 'Broad coverage across undercar, underhood, brakes, filters, and more from trusted manufacturers.',
+    href: '/quality-parts/',
+    image: '/media/brand/federatedgoldlogo.png',
+  },
+  {
+    badge: 'Distribution',
+    title: 'Dependable delivery',
+    text: 'A network built to get the right part to the counter and the bay when shops need it.',
+    href: '/dependable-distribution/',
+    image: '/media/uploads/2023/08/DependableDistribution.jpg',
+  },
+  {
+    badge: 'Training & News',
+    title: 'Stay sharp, stay informed',
+    text: 'Professional training resources and news from across the Federated family of companies.',
+    href: '/news/',
+    image: '/media/brand/federated40years.jpg',
+  },
+];
 ---
 
 <BaseLayout title="Home" description="Federated Auto Parts connects independent distributors with quality automotive parts, programs, and local support.">
-  <section class="hero">
-    <div class="container">
+  <section class="hero hero-with-image">
+    <div class="hero-bg" style={`background-image: url('${heroImage}')`} aria-hidden="true"></div>
+    <div class="container hero-content">
       <span class="hero-eyebrow">Independent. Local. Trusted.</span>
-      <h1>Parts and programs that keep shops moving</h1>
+      <h1>Quality parts. Strong programs. Local expertise.</h1>
       <p>
         Federated Auto Parts partners with independent distributors nationwide to
-        deliver quality brands, training, and the local service professional
-        technicians rely on.
+        deliver name-brand parts, guarantees, training, and the neighborhood service
+        professional technicians rely on.
       </p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href={`${base}find-a-store/`}>Find a Store</a>
-        <a class="btn btn-secondary" href={`${base}about-federated/`}>About Federated</a>
+        <a class="btn btn-primary" href={withBase('/find-a-store/')}>Find a Store</a>
+        <a class="btn btn-secondary" href={withBase('/about-federated/')}>About Federated</a>
+        <a class="btn btn-secondary" href={withBase('/news/')}>Latest News</a>
       </div>
     </div>
   </section>
@@ -29,54 +63,44 @@ const base = import.meta.env.BASE_URL;
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>Built for independent distributors</h2>
+        <h2>Why Federated</h2>
         <p>
-          From hard parts to chemicals and accessories, Federated members serve
-          professional installers and DIY customers with inventory depth and
-          neighborhood expertise.
+          Membership, quality parts, dependable distribution, and training — the
+          same pillars that define Federated on the live network.
         </p>
       </div>
-      <div class="card-grid">
-        <article class="news-card">
-          <span class="badge">Network</span>
-          <h3>Local strength</h3>
-          <p class="excerpt">
-            Independently owned stores with the buying power and brand access of
-            a national program.
-          </p>
-        </article>
-        <article class="news-card">
-          <span class="badge">Support</span>
-          <h3>Programs that work</h3>
-          <p class="excerpt">
-            Marketing, training, and catalog tools designed for counter staff and
-            shop customers.
-          </p>
-        </article>
-        <article class="news-card">
-          <span class="badge">Coverage</span>
-          <h3>Parts for every bay</h3>
-          <p class="excerpt">
-            Broad coverage across undercar, underhood, brakes, filters, and more
-            from trusted manufacturers.
-          </p>
-        </article>
+      <div class="value-grid">
+        {
+          props.map((item) => (
+            <a class="value-card" href={withBase(item.href)}>
+              <div class="value-card-media">
+                <img src={withBase(item.image)} alt="" loading="lazy" width="480" height="270" />
+              </div>
+              <div class="value-card-body">
+                <span class="badge">{item.badge}</span>
+                <h3>{item.title}</h3>
+                <p>{item.text}</p>
+                <span class="read-more">Learn more →</span>
+              </div>
+            </a>
+          ))
+        }
       </div>
     </div>
   </section>
 
   <section class="section section-alt">
     <div class="container">
-      <div class="section-header">
-        <h2>Latest news</h2>
-        <p>Updates from across the Federated network.</p>
+      <div class="section-header section-header-row">
+        <div>
+          <h2>Latest news</h2>
+          <p>Updates from across the Federated network.</p>
+        </div>
+        <a class="btn btn-outline" href={withBase('/news/')}>View all news</a>
       </div>
       <div class="card-grid">
         {posts.map((post) => <NewsCard post={post} />)}
       </div>
-      <p style="margin-top: 1.75rem;">
-        <a class="btn btn-outline" href={`${base}news/`}>View all news</a>
-      </p>
     </div>
   </section>
 
@@ -85,9 +109,117 @@ const base = import.meta.env.BASE_URL;
       <h2>Need parts nearby?</h2>
       <p>Locate a Federated Auto Parts store and get the right part the first time.</p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href={`${base}find-a-store/`}>Find a Store</a>
-        <a class="btn btn-secondary" href={`${base}news/`}>Read the news</a>
+        <a class="btn btn-primary" href={withBase('/find-a-store/')}>Find a Store</a>
+        <a class="btn btn-secondary" href={withBase('/federated-headquarters/')}>Contact Headquarters</a>
       </div>
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .hero-with-image {
+    position: relative;
+    overflow: hidden;
+    padding: 5rem 0 4.5rem;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    transform: scale(1.02);
+  }
+
+  .hero-bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(110deg, rgba(7, 21, 40, 0.92) 0%, rgba(11, 31, 58, 0.82) 48%, rgba(200, 16, 46, 0.45) 100%);
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 44rem;
+  }
+
+  .value-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+  }
+
+  .value-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-white);
+    border: 1px solid var(--color-gray-200);
+    border-radius: calc(var(--radius) + 2px);
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: var(--shadow);
+    transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
+    height: 100%;
+  }
+
+  .value-card:hover {
+    border-color: var(--color-red);
+    box-shadow: 0 14px 32px rgba(11, 31, 58, 0.14);
+    transform: translateY(-2px);
+  }
+
+  .value-card-media {
+    aspect-ratio: 16 / 9;
+    background: var(--color-navy);
+    overflow: hidden;
+  }
+
+  .value-card-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .value-card-body {
+    padding: 1.25rem 1.35rem 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    flex: 1;
+  }
+
+  .value-card-body h3 {
+    margin: 0;
+  }
+
+  .value-card-body p {
+    margin: 0;
+    color: var(--color-gray-700);
+    flex: 1;
+  }
+
+  .section-header-row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .section-header-row .btn {
+    margin-bottom: 0.35rem;
+  }
+
+  @media (max-width: 768px) {
+    .value-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .hero-with-image {
+      padding: 3.5rem 0 3rem;
+    }
+  }
+</style>

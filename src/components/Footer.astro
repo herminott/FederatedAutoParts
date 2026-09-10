@@ -1,4 +1,6 @@
 ---
+import { withBase } from '../lib/withBase';
+
 const year = new Date().getFullYear();
 const base = import.meta.env.BASE_URL;
 ---
@@ -6,25 +8,47 @@ const base = import.meta.env.BASE_URL;
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
-      <p class="footer-brand">Federated Auto Parts</p>
+      <a class="footer-brand" href={base}>Federated Auto Parts</a>
       <p class="footer-blurb">
         Supporting independent auto parts distributors with quality brands,
-        programs, and local expertise.
+        programs, training, and local expertise nationwide.
       </p>
+      <p class="footer-hq">
+        <strong>Headquarters</strong><br />
+        Federated Auto Parts<br />
+        Staunton, Virginia
+      </p>
+      <p class="footer-hq-link">
+        <a href={withBase('/federated-headquarters/')}>Contact headquarters →</a>
+      </p>
+    </div>
+    <div>
+      <p class="footer-heading">Company</p>
+      <ul>
+        <li><a href={withBase('/about-federated/')}>About Federated</a></li>
+        <li><a href={withBase('/federated-membership/')}>Membership</a></li>
+        <li><a href={withBase('/our-history-of-success/')}>History</a></li>
+        <li><a href={withBase('/quality-parts/')}>Quality Parts</a></li>
+        <li><a href={withBase('/dependable-distribution/')}>Distribution</a></li>
+        <li><a href={withBase('/guarantee-programs/')}>Guarantees</a></li>
+      </ul>
     </div>
     <div>
       <p class="footer-heading">Explore</p>
       <ul>
-        <li><a href={`${base}about-federated/`}>About</a></li>
-        <li><a href={`${base}news/`}>News</a></li>
-        <li><a href={`${base}find-a-store/`}>Find a Store</a></li>
+        <li><a href={withBase('/news/')}>News</a></li>
+        <li><a href={withBase('/find-a-store/')}>Find a Store</a></li>
+        <li><a href={withBase('/federated-headquarters/')}>Headquarters</a></li>
+        <li><a href={withBase('/vendor-hall-of-fame/')}>Vendor Hall of Fame</a></li>
+        <li><a href={withBase('/professional-training/')}>Training</a></li>
+        <li><a href={withBase('/online-resources/')}>Online Resources</a></li>
       </ul>
     </div>
     <div>
       <p class="footer-heading">Legal</p>
       <ul>
-        <li><a href={`${base}privacy-policy/`}>Privacy Policy</a></li>
-        <li><a href={`${base}terms-of-use/`}>Terms of Use</a></li>
+        <li><a href={withBase('/terms-and-conditions/')}>Terms &amp; Conditions</a></li>
+        <li><a href={withBase('/privacy-policy/')}>Privacy Policy</a></li>
       </ul>
     </div>
   </div>
@@ -37,36 +61,59 @@ const base = import.meta.env.BASE_URL;
   .site-footer {
     background: var(--color-navy-deep);
     color: rgba(255, 255, 255, 0.85);
-    padding: 3rem 0 1.5rem;
+    padding: 3.25rem 0 1.5rem;
     margin-top: auto;
   }
 
   .footer-grid {
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-columns: 1.6fr 1fr 1fr 0.9fr;
     gap: 2rem;
     margin-bottom: 2rem;
   }
 
   .footer-brand {
+    display: inline-block;
     font-family: var(--font-heading);
     font-weight: 700;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     color: var(--color-white);
     margin: 0 0 0.75rem;
+    text-decoration: none;
+  }
+
+  .footer-brand:hover {
+    color: #ffd7dc;
   }
 
   .footer-blurb {
-    margin: 0;
+    margin: 0 0 1.25rem;
     max-width: 28rem;
     color: rgba(255, 255, 255, 0.75);
+  }
+
+  .footer-hq {
+    margin: 0;
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1.5;
+  }
+
+  .footer-hq strong {
+    color: var(--color-white);
+  }
+
+  .footer-hq-link {
+    margin: 0.65rem 0 0;
   }
 
   .footer-heading {
     font-family: var(--font-heading);
     font-weight: 700;
     color: var(--color-white);
-    margin: 0 0 0.75rem;
+    margin: 0 0 0.85rem;
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
   }
 
   .site-footer ul {
@@ -76,12 +123,13 @@ const base = import.meta.env.BASE_URL;
   }
 
   .site-footer li + li {
-    margin-top: 0.4rem;
+    margin-top: 0.45rem;
   }
 
   .site-footer a {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
+    font-size: 0.95rem;
   }
 
   .site-footer a:hover {
@@ -99,7 +147,14 @@ const base = import.meta.env.BASE_URL;
     color: rgba(255, 255, 255, 0.55);
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 900px) {
+    .footer-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 1.75rem;
+    }
+  }
+
+  @media (max-width: 560px) {
     .footer-grid {
       grid-template-columns: 1fr;
       gap: 1.5rem;
