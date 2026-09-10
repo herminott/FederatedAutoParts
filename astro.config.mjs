@@ -4,5 +4,6 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
   output: 'static',
-  site: 'https://www.federatedautoparts.com',
+  site: 'https://herminott.github.io',
+  base: '/FederatedAutoParts/',
 });

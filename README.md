@@ -61,6 +61,23 @@ To import:
 
 Do **not** overwrite this Astro scaffold with the WordPress export wholesale — only migrate content files into `src/content/`.
 
+## Preview (GitHub Pages)
+
+Live preview: **https://herminott.github.io/FederatedAutoParts/**
+
+This project is configured for GitHub project Pages:
+
+- `site`: `https://herminott.github.io`
+- `base`: `/FederatedAutoParts/`
+
+On every push to `main`, [.github/workflows/deploy.yml](.github/workflows/deploy.yml) runs `npm ci` + `npm run build`, uploads `dist/`, and deploys with `actions/deploy-pages`. You can also trigger the workflow manually from the Actions tab (`workflow_dispatch`).
+
+Repo Settings → Pages should use **Source: GitHub Actions**.
+
+Internal nav/header/footer links use `import.meta.env.BASE_URL` so assets and routes resolve under `/FederatedAutoParts/`.
+
 ## Deploy notes
 
-`public/_redirects` includes example Netlify 301 rules that map legacy WordPress-style date URLs to `/news/:slug/`. Adjust patterns to match your historical URL structure before go-live.
+`public/_redirects` includes example Netlify 301 rules that map legacy WordPress-style date URLs to `/news/:slug/`. Adjust patterns to match your historical URL structure before go-live. Those redirects are not used by GitHub Pages.
+
+**Caveat:** Markdown content under `src/content/` still has many absolute root paths (`/media/...`, `/about-federated/`, etc.). Those will 404 on project Pages until rewritten to include the base path (or served from a custom domain at `/`).

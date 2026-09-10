@@ -1,5 +1,6 @@
 ---
 const year = new Date().getFullYear();
+const base = import.meta.env.BASE_URL;
 ---
 
 <footer class="site-footer">
@@ -14,16 +15,16 @@ const year = new Date().getFullYear();
     <div>
       <p class="footer-heading">Explore</p>
       <ul>
-        <li><a href="/about-federated/">About</a></li>
-        <li><a href="/news/">News</a></li>
-        <li><a href="/find-a-store/">Find a Store</a></li>
+        <li><a href={`${base}about-federated/`}>About</a></li>
+        <li><a href={`${base}news/`}>News</a></li>
+        <li><a href={`${base}find-a-store/`}>Find a Store</a></li>
       </ul>
     </div>
     <div>
       <p class="footer-heading">Legal</p>
       <ul>
-        <li><a href="/privacy-policy/">Privacy Policy</a></li>
-        <li><a href="/terms-of-use/">Terms of Use</a></li>
+        <li><a href={`${base}privacy-policy/`}>Privacy Policy</a></li>
+        <li><a href={`${base}terms-of-use/`}>Terms of Use</a></li>
       </ul>
     </div>
   </div>

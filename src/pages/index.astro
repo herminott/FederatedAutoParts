@@ -6,6 +6,7 @@ import NewsCard from '../components/NewsCard.astro';
 const posts = (await getCollection('news', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
+const base = import.meta.env.BASE_URL;
 ---
 
 <BaseLayout title="Home" description="Federated Auto Parts connects independent distributors with quality automotive parts, programs, and local support.">
@@ -19,8 +20,8 @@ const posts = (await getCollection('news', ({ data }) => !data.draft))
         technicians rely on.
       </p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href="/find-a-store/">Find a Store</a>
-        <a class="btn btn-secondary" href="/about-federated/">About Federated</a>
+        <a class="btn btn-primary" href={`${base}find-a-store/`}>Find a Store</a>
+        <a class="btn btn-secondary" href={`${base}about-federated/`}>About Federated</a>
       </div>
     </div>
   </section>
@@ -74,7 +75,7 @@ const posts = (await getCollection('news', ({ data }) => !data.draft))
         {posts.map((post) => <NewsCard post={post} />)}
       </div>
       <p style="margin-top: 1.75rem;">
-        <a class="btn btn-outline" href="/news/">View all news</a>
+        <a class="btn btn-outline" href={`${base}news/`}>View all news</a>
       </p>
     </div>
   </section>
@@ -84,8 +85,8 @@ const posts = (await getCollection('news', ({ data }) => !data.draft))
       <h2>Need parts nearby?</h2>
       <p>Locate a Federated Auto Parts store and get the right part the first time.</p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href="/find-a-store/">Find a Store</a>
-        <a class="btn btn-secondary" href="/news/">Read the news</a>
+        <a class="btn btn-primary" href={`${base}find-a-store/`}>Find a Store</a>
+        <a class="btn btn-secondary" href={`${base}news/`}>Read the news</a>
       </div>
     </div>
   </section>
