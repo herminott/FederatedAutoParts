@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsCard from '../../components/NewsCard.astro';
+import NewsSearch from '../../components/NewsSearch.astro';
 import { withBase } from '../../lib/withBase';
 
 const posts = (await getCollection('news', ({ data }) => !data.draft)).sort(
@@ -23,11 +24,7 @@ const categories = [...new Set(posts.flatMap((p) => p.data.categories))]
 
   <section class="section news-section">
     <div class="container">
-      <form class="news-search" action={withBase('/news/')} method="get" role="search">
-        <label class="sr-only" for="news-q">Search news</label>
-        <input id="news-q" type="search" name="q" placeholder="Search Here" />
-        <button type="submit" aria-label="Search">Search</button>
-      </form>
+      <NewsSearch totalCount={posts.length} scopeHint="Filters the full news index (title, excerpt, categories, tags)." />
 
       {
         categories.length > 0 && (

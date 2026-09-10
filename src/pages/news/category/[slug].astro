@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import NewsCard from '../../../components/NewsCard.astro';
+import NewsSearch from '../../../components/NewsSearch.astro';
 import { withBase } from '../../../lib/withBase';
 
 export async function getStaticPaths() {
@@ -42,6 +43,12 @@ const allCategories = [
 
   <section class="section" style="padding-top: 0.5rem;">
     <div class="container">
+      <NewsSearch
+        action={withBase(`/news/category/${slug}/`)}
+        totalCount={posts.length}
+        scopeHint={`Filters within this category (${label}).`}
+      />
+
       <div class="category-chips" aria-label="News categories">
         <a class="chip" href={withBase('/news/')}>All</a>
         {

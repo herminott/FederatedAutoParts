@@ -61,6 +61,18 @@ To import:
 
 Do **not** overwrite this Astro scaffold with the WordPress export wholesale — only migrate content files into `src/content/`.
 
+
+## News search
+
+Client-side search on `/news/` and category pages (`/news/category/:slug/`):
+
+- Filters rendered news cards by title, description/excerpt, categories, and tags
+- Debounced (~175ms), clear button, live result count, empty state
+- URL `?q=` is kept in sync (shareable / bookmarkable)
+- On `/news/` search spans the full index; on category pages it filters within that category only
+
+No Pagefind / server index — suitable for GitHub Pages static hosting.
+
 ## Preview (GitHub Pages)
 
 Live preview: **https://herminott.github.io/FederatedAutoParts/**

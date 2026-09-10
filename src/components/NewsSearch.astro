@@ -1,0 +1,157 @@
+---
+import { withBase } from '../lib/withBase';
+
+interface Props {
+  /** Form action / search scope base path (with trailing slash). */
+  action?: string;
+  /** Optional hint shown under the input (e.g. category scope). */
+  scopeHint?: string;
+  totalCount: number;
+}
+
+const { action = withBase('/news/'), scopeHint, totalCount } = Astro.props;
+---
+
+<div class="news-search-wrap" data-news-search data-total={totalCount}>
+  <form class="news-search" action={action} method="get" role="search">
+    <label class="sr-only" for="news-q">Search news</label>
+    <input
+      id="news-q"
+      type="search"
+      name="q"
+      placeholder="Search news…"
+      autocomplete="off"
+      enterkeyhint="search"
+    />
+    <button
+      type="button"
+      class="news-search-clear"
+      hidden
+      aria-label="Clear search"
+    >
+      Clear
+    </button>
+    <button type="submit" aria-label="Search">Search</button>
+  </form>
+  {
+    scopeHint && (
+      <p class="news-search-hint">{scopeHint}</p>
+    )
+  }
+  <p class="news-search-status" data-news-status aria-live="polite"></p>
+  <p class="news-search-empty" data-news-empty hidden>
+    No articles match your search. Try different keywords or
+    <button type="button" class="news-search-empty-clear" data-news-empty-clear>
+      clear the search
+    </button>
+    .
+  </p>
+</div>
+
+<script>
+  function normalize(text: string): string {
+    return text.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
+  }
+
+  function tokens(query: string): string[] {
+    return normalize(query)
+      .split(/[^a-z0-9]+/i)
+      .filter(Boolean);
+  }
+
+  function matches(haystack: string, queryTokens: string[]): boolean {
+    if (queryTokens.length === 0) return true;
+    const hay = normalize(haystack);
+    return queryTokens.every((t) => hay.includes(t));
+  }
+
+  function initNewsSearch(root: HTMLElement) {
+    const form = root.querySelector<HTMLFormElement>('form.news-search');
+    const input = root.querySelector<HTMLInputElement>('#news-q');
+    const clearBtn = root.querySelector<HTMLButtonElement>('.news-search-clear');
+    const status = root.querySelector<HTMLElement>('[data-news-status]');
+    const empty = root.querySelector<HTMLElement>('[data-news-empty]');
+    const emptyClear = root.querySelector<HTMLButtonElement>('[data-news-empty-clear]');
+    const grid = document.querySelector<HTMLElement>('.card-grid');
+    if (!form || !input || !clearBtn || !status || !empty || !grid) return;
+
+    const cards = Array.from(grid.querySelectorAll<HTMLElement>('.news-card'));
+    const total = cards.length;
+    let timer: ReturnType<typeof setTimeout> | undefined;
+
+    function setQueryInUrl(q: string) {
+      const url = new URL(window.location.href);
+      if (q) url.searchParams.set('q', q);
+      else url.searchParams.delete('q');
+      window.history.replaceState({}, '', url);
+    }
+
+    function apply(query: string) {
+      const q = query.trim();
+      const queryTokens = tokens(q);
+      let visible = 0;
+
+      for (const card of cards) {
+        const hay =
+          card.getAttribute('data-search') ||
+          card.textContent ||
+          '';
+        const show = matches(hay, queryTokens);
+        card.hidden = !show;
+        if (show) visible += 1;
+      }
+
+      clearBtn.hidden = !q;
+      empty.hidden = !(q && visible === 0);
+
+      if (!q) {
+        status.textContent = `${total} article${total === 1 ? '' : 's'}`;
+      } else if (visible === 0) {
+        status.textContent = '0 results';
+      } else {
+        status.textContent = `${visible} result${visible === 1 ? '' : 's'} for “${q}”`;
+      }
+
+      setQueryInUrl(q);
+    }
+
+    function schedule() {
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(() => apply(input.value), 175);
+    }
+
+    function clear() {
+      input.value = '';
+      apply('');
+      input.focus();
+    }
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (timer) clearTimeout(timer);
+      apply(input.value);
+    });
+
+    input.addEventListener('input', schedule);
+    clearBtn.addEventListener('click', clear);
+    emptyClear?.addEventListener('click', clear);
+
+    const initial = new URL(window.location.href).searchParams.get('q') || '';
+    if (initial) {
+      input.value = initial;
+      apply(initial);
+    } else {
+      status.textContent = `${total} article${total === 1 ? '' : 's'}`;
+    }
+  }
+
+  function boot() {
+    document.querySelectorAll<HTMLElement>('[data-news-search]').forEach(initNewsSearch);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', boot);
+  } else {
+    boot();
+  }
+</script>

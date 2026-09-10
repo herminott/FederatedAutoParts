@@ -15,9 +15,17 @@ const date = post.data.pubDate.toLocaleDateString('en-US', {
 });
 const image = post.data.featuredImage ? withBase(post.data.featuredImage) : null;
 const category = post.data.categories[0];
+const searchText = [
+  post.data.title,
+  post.data.description,
+  ...post.data.categories,
+  ...post.data.tags,
+]
+  .filter(Boolean)
+  .join(' ');
 ---
 
-<article class="news-card">
+<article class="news-card" data-search={searchText}>
   <a href={href} class="news-card-link">
     <div class="news-card-media">
       {
