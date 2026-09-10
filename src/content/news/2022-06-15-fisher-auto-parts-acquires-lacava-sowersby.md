@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/06/15/fisher-auto-parts-acquires-lacava-sowersby/
 wpId: 282
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/FisherDefault.jpg
+featuredImage: /media/uploads/2023/02/FisherDefault.jpg
 ---
 
 Fisher Auto Parts will acquire LaCava & Sowersby Auto Parts by the end of June, it was announced today by David Reid, executive vice president and chief operating officer of Fisher Auto Parts, and William Sowersby, Steven LaCava, and Paul LaCava, principals of LaCava & Sowersby.

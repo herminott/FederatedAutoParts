@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/01/20/start-the-year-off-right-with-free-fuel-from-federated/
 wpId: 126
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 The ever-popular Federated Free Fuel Fridays contest is back. Each Friday through March 13, Federated will announce four winners of free gift cards on its [Federated Auto Parts](https://www.facebook.com/FederatedAP/) and [Federated Car Care](https://www.facebook.com/FederatedCarCare/) Facebook pages.

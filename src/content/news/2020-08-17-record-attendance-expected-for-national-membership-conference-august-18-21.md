@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/08/17/record-attendance-expected-for-national-membership-conference-august-18-21/
 wpId: 158
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) will host over 900 guests during its virtual national membership conference and expo on Aug. 18-21.

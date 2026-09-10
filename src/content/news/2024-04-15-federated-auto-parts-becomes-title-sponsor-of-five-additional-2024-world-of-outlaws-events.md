@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/04/15/federated-auto-parts-becomes-title-sponsor-of-five-additional-2024-world-of-outlaws-events/
 wpId: 5893
 updatedDate: '2024-07-03'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/GettysburgClash2024.jpg
+featuredImage: /media/uploads/2024/07/GettysburgClash2024.jpg
 ---
 
 CONCORD, NC – Federated Auto Parts will have a prominent presence throughout the 2024 World of Outlaws NOS Energy Drink Sprint Car season, sponsoring five events across five states.

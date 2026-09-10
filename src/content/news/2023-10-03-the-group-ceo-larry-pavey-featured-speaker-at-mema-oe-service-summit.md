@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/10/03/the-group-ceo-larry-pavey-featured-speaker-at-mema-oe-service-summit/
 wpId: 3495
 updatedDate: '2023-11-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/11/LarryPaveySpeaker.jpg
+featuredImage: /media/uploads/2023/11/LarryPaveySpeaker.jpg
 ---
 
 Larry Pavey, CEO of the Automotive Parts Services Group (The Group), was a featured speaker at the recent MEMA OE Service Summit held at the Michigan State University Management Education Center in Troy, Michigan.

@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/01/14/federated-recognizes-ase-certified-parts-professionals/
 wpId: 124
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated Auto Parts recently recognized Federated counter personnel for earning and renewing their ASE Parts Specialist certification with a special Federated “Patch 4 Cash” promotion.

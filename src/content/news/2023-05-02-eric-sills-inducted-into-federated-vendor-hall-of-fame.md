@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/05/02/eric-sills-inducted-into-federated-vendor-hall-of-fame/
 wpId: 883
 updatedDate: '2025-06-17'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/HoF-Eric-Stills.jpg
+featuredImage: /media/uploads/2023/05/HoF-Eric-Stills.jpg
 ---
 
 Eric Sills, CEO and president of Standard Motor Products (SMP), has been inducted into the Federated Auto Parts Vendor Hall of Fame. Sills was honored with this distinguished recognition last month at the Automotive Parts Services Group (The Group) annual conference and expo in National Harbor, Maryland.

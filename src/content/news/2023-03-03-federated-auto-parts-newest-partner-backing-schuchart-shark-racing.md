@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/03/03/federated-auto-parts-newest-partner-backing-schuchart-shark-racing/
 wpId: 608
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/03/NewPartnership.jpg
+featuredImage: /media/uploads/2023/03/NewPartnership.jpg
 ---
 
 World of Outlaws Sprint Car Series (WoO) standout Logan Schuchart, Shark Racing, and Federated Auto Parts announced today a multi-year sponsorship agreement beginning with Sunday’s finale of the WoO Federated Auto Parts DIRTcar Nationals at Volusia Speedway in Barberville, Florida.

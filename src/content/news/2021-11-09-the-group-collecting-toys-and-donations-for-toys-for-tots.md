@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/11/09/the-group-collecting-toys-and-donations-for-toys-for-tots/
 wpId: 247
 updatedDate: '2023-08-29'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/11/ToysForTots.jpg
+featuredImage: /media/uploads/2022/11/ToysForTots.jpg
 ---
 
 As in years past, participating members of the Automotive Parts Services Group (The Group) are collecting toys and monetary donations on behalf of the 2021 U.S. Marine Corps Reserve Toys for Tots campaign at their respective locations.

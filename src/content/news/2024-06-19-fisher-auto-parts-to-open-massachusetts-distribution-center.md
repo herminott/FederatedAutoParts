@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/06/19/fisher-auto-parts-to-open-massachusetts-distribution-center/
 wpId: 5897
 updatedDate: '2024-07-22'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/FisherDefault.jpg
+featuredImage: /media/uploads/2023/02/FisherDefault.jpg
 ---
 
 David Reid, chief operations officer, Fisher Auto Parts, announced the purchase of a 217,000 sq. ft. distribution center on 12 acres located at 2189 Westover Road in Chicopee, Massachusetts.

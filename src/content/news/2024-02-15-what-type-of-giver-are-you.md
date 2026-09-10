@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/02/15/what-type-of-giver-are-you/
 wpId: 5970
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/GiverareYou.jpg
+featuredImage: /media/uploads/2024/09/GiverareYou.jpg
 ---
 
 Last week I learned that a very close and dear friend of mine had recently been recognized at an event for a contribution that she had made. I was not surprised in the least that my friend had made this contribution, but the fact that she was being recognized for a gift that she had made prior to her death in 2018 for a project that was finally completed gave me pause.

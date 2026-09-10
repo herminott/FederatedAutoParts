@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/09/29/federated-members-make-their-voices-heard-in-d-c/
 wpId: 3501
 updatedDate: '2023-11-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/11/FedatLegSummit.jpg
+featuredImage: /media/uploads/2023/11/FedatLegSummit.jpg
 ---
 
 Federated members and executives traveled to Washington, D.C. last week to voice their support for the REPAIR Act. The Federated team spread out through Capitol Hill to meet with Senate and congressional personnel and explain the importance of this critical piece of legislation.

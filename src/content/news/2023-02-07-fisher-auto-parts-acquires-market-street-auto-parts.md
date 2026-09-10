@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/02/07/fisher-auto-parts-acquires-market-street-auto-parts/
 wpId: 317
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/FisherDefault.jpg
+featuredImage: /media/uploads/2023/02/FisherDefault.jpg
 ---
 
 Fisher Auto Parts has acquired Market Street Auto Parts LLC, it was announced today by Geoffrey Shifflett, area vice president of Fisher Auto Parts, and Mark Keister, president of Market Street Auto Parts. The acquisition involves the Market Street Auto Parts location in Jonestown, Pennsylvania.

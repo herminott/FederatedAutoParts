@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/06/16/the-group-training-academy-adds-electric-vehicle-courseware-training-tool/
 wpId: 145
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) is adding an advanced training tool and complimentary courseware to The Group Training Academy to educate professional service technicians, as well as its Federated Auto Parts and National Pronto Association members, about electric and hybrid electric vehicles.

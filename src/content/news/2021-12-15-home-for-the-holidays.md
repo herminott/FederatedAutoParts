@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/12/15/home-for-the-holidays/
 wpId: 3089
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 I find it hard to believe that it is already December. I love being home for the holidays. Shopping for that perfect gift, decorating, and baking are but a few of the wonderful traditions that I learned from my mother. I always count my blessings, but maybe a little more so during the holiday season. I also remember there are many who are not as fortunate as I am, and I pause and let my thoughts and prayers go out to those who have lost loved ones during the past year.

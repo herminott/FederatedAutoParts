@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/01/18/happy-new-year-welcome-to-2024/
 wpId: 5966
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/NewYear2024.jpg
+featuredImage: /media/uploads/2024/09/NewYear2024.jpg
 ---
 
 It is always exciting to begin a new year, but it can also be very hectic, which makes it the perfect time to pause, reflect and refocus.

@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/03/26/the-federated-office-business-as-usual/
 wpId: 3115
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Every day for weeks now we have all been looking forward to updates on the Coronavirus with the hope of hearing some good news. A sprinkle of hope came to me recently when I first heard that they were ready to begin Phase 1 in a clinical trial to test a vaccine that is designed to protect against the coronavirus disease. Maybe just a tiny spec of light at the end of what might be a very long and dark tunnel.

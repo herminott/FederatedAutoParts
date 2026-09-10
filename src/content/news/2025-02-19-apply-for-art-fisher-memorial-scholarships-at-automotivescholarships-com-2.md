@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/02/19/apply-for-art-fisher-memorial-scholarships-at-automotivescholarships-com-2/
 wpId: 7144
 updatedDate: '2025-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/02/CarCareScholarshipApply2022.jpg
+featuredImage: /media/uploads/2022/02/CarCareScholarshipApply2022.jpg
 ---
 
 Applications for the Art Fisher Memorial Scholarships are now being accepted at [AutomotiveScholarships.com](http://www.automotivescholarships.com/). Thirteen scholarships for the 2025-26 academic year, in memory of the late founder of Federated Auto Parts, will be awarded to students preparing for automotive aftermarket careers.

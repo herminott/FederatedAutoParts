@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/10/17/federated-auto-parts-expands-support-of-uaf/
 wpId: 301
 updatedDate: '2024-11-11'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/10/ExpandsSupportofUAF.jpg
+featuredImage: /media/uploads/2022/10/ExpandsSupportofUAF.jpg
 ---
 
 Federated Auto Parts, a longtime patron of the University of the Aftermarket Foundation (UAF), has attained Diamond Lifetime Trustee status for its ongoing support.

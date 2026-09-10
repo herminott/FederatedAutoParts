@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/07/12/federated-spokesperson-kenny-schrader-to-compete-in-srx-racing-series/
 wpId: 5943
 updatedDate: '2024-11-11'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/07/SRXRacingSeries.jpg
+featuredImage: /media/uploads/2023/07/SRXRacingSeries.jpg
 ---
 
 Federated Auto Parts spokesperson Kenny Schrader will be one of the drivers in this summer’s Superstar Racing Experience (SRX) racing series. Schrader will compete with such racing legends as Kyle Busch, Helio Castroneves, Brad Keselowski and SRX founder Tony Stewart.

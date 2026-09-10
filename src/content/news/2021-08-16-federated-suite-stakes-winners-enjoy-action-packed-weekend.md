@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/08/16/federated-suite-stakes-winners-enjoy-action-packed-weekend/
 wpId: 232
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The first set of winners in the Federated Suite-Stakes contest enjoyed an incredible weekend in St. Louis of baseball, racing, and great food. The winners of the “Suite” grand prizes received an all-expense-paid trip for two to the World of Outlaws Ironman 55, including suite tickets and a bonus “Get Dirty with Kenny” dirt track driving experience.

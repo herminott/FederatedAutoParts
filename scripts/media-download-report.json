@@ -1,0 +1,41 @@
+{
+  "attempted": 333,
+  "downloaded": 332,
+  "skippedExisting": 0,
+  "failedCount": 1,
+  "failed": [
+    {
+      "url": "http://35.92.119.176.nip.io/wp-content/uploads/2023/08/StauntonVA.jpg",
+      "ok": false,
+      "status": 404,
+      "error": "HTTP 404"
+    }
+  ],
+  "brandCopied": [
+    "about-federated.jpg",
+    "carlson-logo.png",
+    "centric-parts-logo.png",
+    "federated-honors-members.jpg",
+    "federated-honors-members2022.jpg",
+    "federated40years.jpg",
+    "federatedgoldlogo.png",
+    "federatedsuitestakes.jpg",
+    "localfederatedstores.jpg",
+    "raybestos_logo.png",
+    "the-group-logo-1024x639.jpg",
+    "thegrouplogo.jpg",
+    "federated-logo.png"
+  ],
+  "filesRewritten": 259,
+  "replacements": 604,
+  "totalBytes": 13078146,
+  "totalMB": 12.47,
+  "pluginAssetsDownloaded": 2,
+  "pluginFilesRewritten": 4,
+  "pluginReplacements": 34,
+  "notes": [
+    "1 upload 404: StauntonVA.jpg",
+    "Also mirrored 2 Elementor/WPForms plugin images under public/media/plugins/",
+    "sourceUrl permalinks still point at nip.io (intentional metadata)"
+  ]
+}

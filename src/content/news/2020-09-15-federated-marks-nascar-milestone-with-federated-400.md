@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/09/15/federated-marks-nascar-milestone-with-federated-400/
 wpId: 172
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2020/09/MilestonewithWin.jpg
+featuredImage: /media/uploads/2020/09/MilestonewithWin.jpg
 ---
 
 Before a nationwide television audience on NBCSN, Brad Keselowski captured the checkered flag at the NASCAR Federated Auto Parts 400 at Richmond Raceway held Saturday, September 12. The race marked Federated’s 25th consecutive year of involvement in NASCAR.

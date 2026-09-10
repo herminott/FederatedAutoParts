@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/09/15/important-reminders/
 wpId: 3053
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/09/ImportantReminders.jpg
+featuredImage: /media/uploads/2023/09/ImportantReminders.jpg
 ---
 
 As I write this article, it is this week that we remember the thousands of people who lost their lives during the terrorist attacks on September 11, 2001. We not only pray for peace for the souls of those who passed, but we pray as well for peace for the survivors, friends, and family members of the victims and all who have carried the grief and emotional scars since that tragic day.

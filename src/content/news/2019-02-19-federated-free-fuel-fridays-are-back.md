@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/02/19/federated-free-fuel-fridays-are-back/
 wpId: 74
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 One of Federated’s most popular Facebook promotions, Free Fuel Fridays, is back. Every Friday through April 5, Federated will announce four winners of free gift cards on each of its [Federated Auto Parts](https://woobox.com/sb99om) and [Federated Car Care](https://woobox.com/6ir7xh) Facebook pages.

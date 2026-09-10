@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/01/25/trial-by-fire/
 wpId: 3109
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 I have officially completed my first year in the role of president of Federated Auto Parts Distributors.

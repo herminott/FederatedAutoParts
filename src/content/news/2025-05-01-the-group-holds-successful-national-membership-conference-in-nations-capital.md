@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/05/01/the-group-holds-successful-national-membership-conference-in-nations-capital/
 wpId: 7832
 updatedDate: '2025-06-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/06/SuccessfulNationalMembership.jpg
+featuredImage: /media/uploads/2025/06/SuccessfulNationalMembership.jpg
 ---
 
 With a theme of “We the People,” the Automotive Parts Services Group (The Group) held a highly successful national membership conference this week at the Gaylord National Harbor in National Harbor, Maryland.

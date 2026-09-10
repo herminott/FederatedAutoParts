@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/11/12/art-fisher-memorial-award-presented-to-paul-agather/
 wpId: 6186
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/Paul-Agather_ArtFisherMemorialAward.jpg
+featuredImage: /media/uploads/2024/11/Paul-Agather_ArtFisherMemorialAward.jpg
 ---
 
 Paul Agather, president and CEO of Federated member Automotive Jobbers Supply, was honored with the Art Fisher Memorial Award, Federated’s most esteemed recognition. He received this award earlier this month during the Automotive Parts Services Group membership conference in Las Vegas, Nevada.

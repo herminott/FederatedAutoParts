@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/09/18/art-fisher-memorial-scholarships-awarded-3/
 wpId: 3505
 updatedDate: '2025-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AutoSchlarship1.jpg
+featuredImage: /media/uploads/2022/08/AutoSchlarship1.jpg
 ---
 
 The Art Fisher Memorial scholarships have been granted to 13 exceptional students for the 2023-24 academic year. Administered by the University of the Aftermarket Foundation, the scholarships are awarded in memory of the late founder of Federated Auto Parts.

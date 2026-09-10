@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/01/17/federated-sponsors-dirtcar-nationals-world-of-outlaws/
 wpId: 311
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/01/DirtcarNationals.jpg
+featuredImage: /media/uploads/2023/01/DirtcarNationals.jpg
 ---
 
 The iconic auto parts brand will commence its new partnerships in 2023 with the 52nd DIRTcar Nationals at Volusia Speedway Park, Feb. 6-18, which will feature the World of Outlaws Sprint Cars, Feb. 9-11.

@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/04/15/the-group-membership-conference-set-for-april-28/
 wpId: 7821
 updatedDate: '2025-06-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/06/Save-the-Date.jpg
+featuredImage: /media/uploads/2025/06/Save-the-Date.jpg
 ---
 
 The Automotive Parts Services Group (The Group) will hold its membership conference April 28 to May 1 at the Gaylord National Harbor in National Harbor, Maryland.

@@ -5,10 +5,10 @@ slug: federated-headquarters
 sourceUrl: http://35.92.119.176.nip.io/federated-headquarters/
 wpId: 819
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/03/HeadQuartersContact.jpg)
+![](/media/uploads/2025/03/HeadQuartersContact.jpg)
 
 # Federated Headquarters
 
@@ -26,9 +26,9 @@ Email *
 
 Question, comment, or message for Federated
 
-Submit![Loading](http://35.92.119.176.nip.io/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg)
+Submit![Loading](/media/plugins/wpforms-lite/assets/images/submit-spin.svg)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2024/04/stauton-va.jpg)
+![](/media/uploads/2024/04/stauton-va.jpg)
 
 #### Staunton, VA
 

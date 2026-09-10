@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/03/30/robust-agenda-planned-for-the-group-national-member-meeting/
 wpId: 196
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Informative panels, one-on-one meetings, and industry initiatives highlight the Automotive Parts Services Group (The Group) national membership conference and expo being held virtually April 12-16.

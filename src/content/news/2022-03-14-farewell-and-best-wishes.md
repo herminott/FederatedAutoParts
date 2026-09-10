@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/03/14/farewell-and-best-wishes/
 wpId: 3083
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 On Friday, March 4, the Federated staff held a retirement celebration for one of its co-workers, Donna Ergenbright.

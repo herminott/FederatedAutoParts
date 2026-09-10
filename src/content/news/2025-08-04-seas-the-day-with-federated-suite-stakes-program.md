@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/08/04/seas-the-day-with-federated-suite-stakes-program/
 wpId: 7999
 updatedDate: '2025-08-05'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/08/SeatheDay.jpg
+featuredImage: /media/uploads/2025/08/SeatheDay.jpg
 ---
 
 The 2025 Federated Suite-Stakes promotion has begun, and lots of unbelievable prizes will be awarded, including ultimate grand prize trips to Cabo San Lucas and the Federated DIRTCar Nationals.

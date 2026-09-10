@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/09/18/federated-member-vaca-valley-auto-parts-celebrating-45th-anniversary/
 wpId: 110
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated member Vaca Valley Auto Parts of Fairfield, California is celebrating its 45th Anniversary. A family business, Vaca Valley is owned and operated by Jack Martin, his wife Evelyn, and their son Trevor.

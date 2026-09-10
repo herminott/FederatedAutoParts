@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/06/10/the-group-training-academy-offers-exclusive-monthly-live-stream-training-sessions/
 wpId: 97
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Group Training Academy is offering access to monthly high-definition (HD) broadcasts covering current and emerging topics and trends in the auto care industry. These pre-recorded productions are aired on specific dates and times to allow the audience to participate in live question-and-answer sessions with the instructor.

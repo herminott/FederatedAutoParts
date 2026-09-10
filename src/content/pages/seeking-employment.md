@@ -6,14 +6,14 @@ slug: seeking-employment
 sourceUrl: http://35.92.119.176.nip.io/seeking-employment/
 wpId: 817
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/Employment-1.jpg)
+![](/media/uploads/2023/08/Employment-1.jpg)
 
 # Seeking Employment
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/Employment2.jpg)
+![](/media/uploads/2023/08/Employment2.jpg)
 
 #### Employment Title
 

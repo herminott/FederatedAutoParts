@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/05/20/the-group-training-academy-enhances-offerings-for-automotive-service-professionals/
 wpId: 89
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Group Training Academy has been expanded with the introduction of new programs that enhance the current educational offerings.

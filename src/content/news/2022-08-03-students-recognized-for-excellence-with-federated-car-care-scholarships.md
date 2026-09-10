@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/08/03/students-recognized-for-excellence-with-federated-car-care-scholarships/
 wpId: 288
 updatedDate: '2025-07-24'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AutoSchlarship1.jpg
+featuredImage: /media/uploads/2022/08/AutoSchlarship1.jpg
 ---
 
 Federated Auto Parts has awarded Car Care scholarships to four outstanding students for the 2022-23 academic year:  Taylor Butler of Swanton, Vermont; Alexander Pearl of Niantic, Connecticut; Jarred Simmons of Cape Coral, Florida; and Elizabeth Snow of Twinsburg, Ohio.

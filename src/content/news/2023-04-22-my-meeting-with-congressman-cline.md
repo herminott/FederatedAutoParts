@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/04/22/my-meeting-with-congressman-cline/
 wpId: 3081
 updatedDate: '2024-10-22'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/04/congressman-cline.jpg
+featuredImage: /media/uploads/2023/04/congressman-cline.jpg
 ---
 
 When you ask someone in the automotive aftermarket to name some of the biggest challenges facing our industry today, you will most certainly get a varied sampling of answers. Supply chain disruption, which directly correlates to parts shortages, is usually first and foremost on the list. However, you might be surprised to learn that very high on the list is access to technical information, followed closely by the ability to keep up with changing technology. Both latter challenges are directly related to the “Right to Repair” legislation that we should all be working desperately to encourage our lawmakers to get passed by Congress.

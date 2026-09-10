@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/05/05/toilet-paper-paper-towels-shipping-containers/
 wpId: 3103
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 On April 26, 2021, the state of Virginia reported that out of the 7,521,285 doses of the COVID-19 vaccines that it had received, 6,344,228 (84 percent) of those doses had been administered. In Virginia, the vaccine is available to anyone 16 years of age and older. As a direct result of the state’s effort to get all Virginians vaccinated (along with the onset of spring weather), things are finally beginning to look brighter.

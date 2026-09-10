@@ -5,10 +5,10 @@ slug: online-resources
 sourceUrl: http://35.92.119.176.nip.io/online-resources/
 wpId: 28
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/Promotional-Products.jpg)
+![](/media/uploads/2023/08/Promotional-Products.jpg)
 
 # Online Resources
 
@@ -20,9 +20,9 @@ Curabitur fringilla est ut lectus pellentesque blandit. Suspendisse mattis hendr
 
 [Federated Btn](/our-history-of-success/)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/StauntonVA.jpg)
+![](/media/uploads/2023/08/StauntonVA.jpg)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/StauntonVA.jpg)
+![](/media/uploads/2023/08/StauntonVA.jpg)
 
 #### Federated Title
 

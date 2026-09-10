@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/06/03/fisher-auto-parts-acquires-bfcp/
 wpId: 93
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/FisherDefault.jpg
+featuredImage: /media/uploads/2023/02/FisherDefault.jpg
 ---
 
 Fisher Auto Parts acquired Burlington Foreign Car Parts (BFCP), it was announced today by Herb Godschalk, co-president of Fisher Auto Parts.

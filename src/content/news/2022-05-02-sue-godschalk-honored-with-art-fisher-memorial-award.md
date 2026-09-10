@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/05/02/sue-godschalk-honored-with-art-fisher-memorial-award/
 wpId: 272
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/05/ArtFisher-Sue-Godschalk.jpg
+featuredImage: /media/uploads/2022/05/ArtFisher-Sue-Godschalk.jpg
 ---
 
 Federated Auto Parts presented its most prestigious honor, the Art Fisher Memorial Award, to Sue Godschalk, president of Federated Auto Parts during last week’s Automotive Parts Services Group annual conference and expo in Grapevine, Texas.

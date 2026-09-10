@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/07/15/fuel-your-summer-fun-with-federated-2024/
 wpId: 5912
 updatedDate: '2024-07-23'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/FuelYourSummerFun2024.jpg
+featuredImage: /media/uploads/2024/07/FuelYourSummerFun2024.jpg
 ---
 
 A summer tradition continues with the Federated “Fuel Your Summer Fun” contest found on the [Federated Auto Parts](https://www.facebook.com/FederatedAP/) and [Federated Car Care](https://www.facebook.com/FederatedCarCare/) Facebook pages.

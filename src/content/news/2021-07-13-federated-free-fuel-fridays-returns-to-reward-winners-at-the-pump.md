@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/07/13/federated-free-fuel-fridays-returns-to-reward-winners-at-the-pump/
 wpId: 228
 updatedDate: '2024-07-23'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/FuelYourSummerFun2024.jpg
+featuredImage: /media/uploads/2024/07/FuelYourSummerFun2024.jpg
 ---
 
 As many families hit the road for their first vacation in a long time, Federated Auto Parts wants to help with those travel plans by providing some free fuel. The ever-popular Federated Free Fuel Fridays returns and Federated will announce four free-fuel winners each Friday through Sept. 3 on its[Federated Auto Parts](https://www.facebook.com/FederatedAP/) and [Federated Car Care](https://www.facebook.com/FederatedCarCare/)Facebook pages.

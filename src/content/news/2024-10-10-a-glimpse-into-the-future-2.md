@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/10/10/a-glimpse-into-the-future-2/
 wpId: 6039
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/10/IntotheFuture.jpg
+featuredImage: /media/uploads/2024/10/IntotheFuture.jpg
 ---
 
 This past weekend I was invited to an Octoberfest celebration at a friend’s house. When I arrived at the event, parked at the front of the driveway was a Cybertruck. Admittedly, this is the first one I had actually seen other than in a magazine or in a YouTube video.

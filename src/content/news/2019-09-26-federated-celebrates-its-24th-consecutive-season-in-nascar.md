@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/09/26/federated-celebrates-its-24th-consecutive-season-in-nascar/
 wpId: 112
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2019/09/24thConsecutiveSeason.jpg
+featuredImage: /media/uploads/2019/09/24thConsecutiveSeason.jpg
 ---
 
 Martin Truex Jr. held off last year’s winner Kyle Busch to capture the NASCAR Federated Auto Parts 400 held on Saturday, Sept. 21 at Richmond Raceway. On a beautiful night for racing, over 2,000 Federated guests had the chance to enjoy a fun-filled day of hospitality, business, and racing.

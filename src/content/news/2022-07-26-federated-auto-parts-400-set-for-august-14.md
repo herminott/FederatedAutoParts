@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/07/26/federated-auto-parts-400-set-for-august-14/
 wpId: 286
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/07/SummerEvent.jpg
+featuredImage: /media/uploads/2022/07/SummerEvent.jpg
 ---
 
 “We are looking forward to sponsoring the first-ever summer NASCAR Cup Series race at America’s premier short track, Richmond Raceway,” said J.R. Bishop, motorsports and event marketing director for Federated Auto Parts. “We know our members, customers, and vendor partners will enjoy a fun-filled weekend of racing and hospitality. Winners of the Federated 400 Suite Deal Weekend will also be in attendance for what we know will be a memorable race weekend experience.”

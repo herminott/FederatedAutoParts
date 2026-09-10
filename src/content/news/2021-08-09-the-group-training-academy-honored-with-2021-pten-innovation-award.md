@@ -16,7 +16,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/08/09/the-group-training-academy-honored-with-2021-pten-innovation-award/
 wpId: 230
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 The Group Training Academy (TGTA) has been awarded a *Professional Tool & Equipment News* (PTEN) 2021 Innovation Award. TGTA was honored for its specialized hybrid training tool, a modified Toyota Prius, which is used for hands-on training courses.

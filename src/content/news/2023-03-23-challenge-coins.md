@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/03/23/challenge-coins/
 wpId: 3064
 updatedDate: '2024-11-01'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/03/ChallengeCoins.jpg
+featuredImage: /media/uploads/2023/03/ChallengeCoins.jpg
 ---
 
 What exactly is a Challenge Coin? They are usually round in shape and unique in that it bears an organization’s insignia or emblem and it represents the unity of an organization. They are exchanged or awarded in recognition of a task performed or a special achievement.

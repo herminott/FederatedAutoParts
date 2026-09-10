@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/02/12/forty-years-of-federated/
 wpId: 7199
 updatedDate: '2025-03-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/03/Federated40Years.jpg
+featuredImage: /media/uploads/2025/03/Federated40Years.jpg
 ---
 
 When I came to work for Federated in 1985, it would have been hard to imagine that I would be writing this article 40 years later. Where does the time go?

@@ -17,7 +17,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/05/12/federated-members-honored-for-excellence-2/
 wpId: 276
 updatedDate: '2024-11-27'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/05/Federated-Honors-Members2022.jpg
+featuredImage: /media/uploads/2022/05/Federated-Honors-Members2022.jpg
 ---
 
 Three Federated Auto Parts members were recently honored with top awards for their exceptional commitment to the success of key Federated programs.

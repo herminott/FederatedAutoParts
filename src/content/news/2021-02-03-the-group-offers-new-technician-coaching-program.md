@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/02/03/the-group-offers-new-technician-coaching-program/
 wpId: 186
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Whether you are a new technician or working to become a master tech, The Group Training Academy’s (TGTA) coaching program helps to improve the diagnostic skills of any professional service technician, no matter the skill level.

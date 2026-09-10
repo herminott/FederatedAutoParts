@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/04/19/charlie-crouse-honored-with-federated-art-fisher-memorial-award/
 wpId: 208
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/04/ArtFisher-Charlie-Crouse.jpg
+featuredImage: /media/uploads/2021/04/ArtFisher-Charlie-Crouse.jpg
 ---
 
 Federated Auto Parts presented its most prestigious member honor, the Art Fisher Memorial Award, to Charlie Crouse, owner of TBA & Oil Warehouse in Indianapolis, Indiana. The award was announced during the Automotive Parts Services Group (The Group) national conference and expo.

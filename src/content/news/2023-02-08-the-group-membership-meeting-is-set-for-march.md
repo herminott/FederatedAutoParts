@@ -14,7 +14,7 @@ tags:
 sourceUrl: http://35.92.119.176.nip.io/2023/02/08/the-group-membership-meeting-is-set-for-march/
 wpId: 319
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/TheGroupMeeting.jpg
+featuredImage: /media/uploads/2023/02/TheGroupMeeting.jpg
 ---
 
 The Automotive Parts Services Group (The Group) will hold its membership conference March 27-30 at the Gaylord National Harbor in National Harbor, Maryland.

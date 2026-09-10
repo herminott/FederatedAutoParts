@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/01/25/new-years-resolutions/
 wpId: 3066
 updatedDate: '2024-11-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/01/NewYear2023.jpg
+featuredImage: /media/uploads/2023/01/NewYear2023.jpg
 ---
 
 Each year people around the world make New Year’s resolutions. I am no exception. I learned many years ago that you do not voice these resolutions out loud, because someone might hold you to them (like a spouse or a good friend).  Instead, I make several mental notes to myself and hope that over the next 364 days, I can accomplish at least a couple of them.

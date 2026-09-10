@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/06/03/watch-and-win-with-the-group-training-academy-your-key-to-success-sweepstakes/
 wpId: 219
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Pronto Network and Federated customers who watch this month’s featured course from The Group Training Academy (TGTA), entitled “The Key to Security System Diagnostics,” will have the opportunity to win some business-enhancing prizes, including a SmartPro key programmer, a Twister II key cutting machine, an RW4 key cloning kit, and a two-year NASTF vehicle security professional account.

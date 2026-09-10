@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/05/09/federated-to-sponsor-world-of-outlaws-memorial-day-spectacular/
 wpId: 885
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/MemorialDaySpectacular.jpg
+featuredImage: /media/uploads/2023/05/MemorialDaySpectacular.jpg
 ---
 
 As part of its World of Outlaws sponsorship, Federated Auto Parts will be the title sponsor of the Federated World of Outlaws Memorial Day Spectacular on May 29 at the Lawrenceburg Speedway in Indiana. In addition, Federated will also serve as the primary sponsor of Logan Schuchart’s Shark Racing No. 1 sprint car for the race.

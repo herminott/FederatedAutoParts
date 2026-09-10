@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/08/31/kevin-judge-was-inducted-into-the-federated-vendor-hall-of-fame/
 wpId: 168
 updatedDate: '2025-06-17'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2020/08/HoF-Kevin-Judge.jpg
+featuredImage: /media/uploads/2020/08/HoF-Kevin-Judge.jpg
 ---
 
 Kevin Judge, vice president of sales and marketing, automotive aftermarket for NTN Bearing Corporation of America, has been inducted into the Federated Auto Parts Vendor Hall of Fame.

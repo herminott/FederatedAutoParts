@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/11/28/the-group-launches-toys-for-tots-campaign/
 wpId: 305
 updatedDate: '2023-11-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/11/ToysForTots.jpg
+featuredImage: /media/uploads/2022/11/ToysForTots.jpg
 ---
 
 For the 11th consecutive year, participating members of the Automotive Parts Services Group (The Group) are collecting toys and monetary donations on behalf of the 2022 U.S. Marine Corps Reserve Toys for Tots campaign at their respective locations.

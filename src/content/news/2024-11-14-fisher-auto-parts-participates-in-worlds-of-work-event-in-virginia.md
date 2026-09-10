@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/11/14/fisher-auto-parts-participates-in-worlds-of-work-event-in-virginia/
 wpId: 6182
 updatedDate: '2024-11-19'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/WorldsodWorksEvent.jpg
+featuredImage: /media/uploads/2024/11/WorldsodWorksEvent.jpg
 ---
 
 Federated member Fisher Auto Parts was one of several local businesses that participated in the 2024 Worlds of Work student event held on Oct. 30 at the Augusta Expo Center in Fishersville, Virginia.

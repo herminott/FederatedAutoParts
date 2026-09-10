@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/11/19/win-a-1963-corvette-stingray-in-federated-holiday-diecast-facebook-contest/
 wpId: 116
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated and Santa want to help make your holiday extra special by giving you the chance to win a limited-edition 1963 Corvette Stingray in the Federated Holiday Diecast Facebook Contest.

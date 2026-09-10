@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/05/03/ags-gmb-earn-co-man-vendors-of-the-year-honors/
 wpId: 212
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 The Automotive Parts Services Group (The Group) recognized two supplier partners for outstanding support of its Co-Man operation. AGS Automotive Solutions was honored as Co-Man Vendor of the Year and GMB North America was voted Co-Man Vendor of the Year – Order Fill.

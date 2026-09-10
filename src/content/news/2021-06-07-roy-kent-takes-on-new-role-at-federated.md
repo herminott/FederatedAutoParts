@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/06/07/roy-kent-takes-on-new-role-at-federated/
 wpId: 221
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 As of July 1, Roy Kent will take on the new role of executive vice president – member support and business development for Federated Auto Parts, it was announced today by Federated President Sue Godschalk.

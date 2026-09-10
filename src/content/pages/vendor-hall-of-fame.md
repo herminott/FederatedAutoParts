@@ -7,11 +7,11 @@ wpId: 7860
 draft: false
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/06/HallofFame.jpg)
+![](/media/uploads/2025/06/HallofFame.jpg)
 
 # Vendor Hall of Fame
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/06/FederatedGoldLogo.png)
+![](/media/uploads/2025/06/FederatedGoldLogo.png)
 
 ## Vendor Hall of Fame
 
@@ -265,7 +265,7 @@ BWD
 
 #### Recent Winners
 
-[![](http://35.92.119.176.nip.io/wp-content/uploads/2025/06/HoF-Gary-Bostic.jpg)](http://35.92.119.176.nip.io/2025/05/13/tony-genna-inducted-into-federated-vendor-hall-of-fame/)
+[![](/media/uploads/2025/06/HoF-Gary-Bostic.jpg)](http://35.92.119.176.nip.io/2025/05/13/tony-genna-inducted-into-federated-vendor-hall-of-fame/)
 
 ### [Tony Genna Inducted into Federated Vendor Hall of Fame](http://35.92.119.176.nip.io/2025/05/13/tony-genna-inducted-into-federated-vendor-hall-of-fame/)
 
@@ -276,7 +276,7 @@ Tony Genna of DRiV Incorporated has been inducted into the Federated Auto Parts 
 Federated Auto Parts
 May 13, 2025
 
-[![](http://35.92.119.176.nip.io/wp-content/uploads/2025/01/VendorHallofFame2024.jpg)](http://35.92.119.176.nip.io/2024/12/03/gary-bostic-of-bbb-industries-inducted-into-federated-vendor-hall-of-fame/)
+[![](/media/uploads/2025/01/VendorHallofFame2024.jpg)](http://35.92.119.176.nip.io/2024/12/03/gary-bostic-of-bbb-industries-inducted-into-federated-vendor-hall-of-fame/)
 
 ### [Gary Bostic of BBB Industries Inducted into Federated Vendor Hall of Fame](http://35.92.119.176.nip.io/2024/12/03/gary-bostic-of-bbb-industries-inducted-into-federated-vendor-hall-of-fame/)
 
@@ -287,7 +287,7 @@ Gary Bostic, director of group sales for BBB Industries, has been inducted into 
 Federated Auto Parts
 December 3, 2024
 
-[![](http://35.92.119.176.nip.io/wp-content/uploads/2023/05/HoF-Eric-Stills.jpg)](http://35.92.119.176.nip.io/2023/05/02/eric-sills-inducted-into-federated-vendor-hall-of-fame/)
+[![](/media/uploads/2023/05/HoF-Eric-Stills.jpg)](http://35.92.119.176.nip.io/2023/05/02/eric-sills-inducted-into-federated-vendor-hall-of-fame/)
 
 ### [Eric Sills Inducted into Federated Vendor Hall of Fame](http://35.92.119.176.nip.io/2023/05/02/eric-sills-inducted-into-federated-vendor-hall-of-fame/)
 
@@ -298,7 +298,7 @@ Eric Sills, CEO and president of Standard Motor Products (SMP), has been inducte
 Federated Auto Parts
 May 2, 2023
 
-[![](http://35.92.119.176.nip.io/wp-content/uploads/2022/05/HoF-Dan-Billie.jpg)](http://35.92.119.176.nip.io/2022/05/23/dan-billie-was-inducted-into-the-federated-vendor-hall-of-fame/)
+[![](/media/uploads/2022/05/HoF-Dan-Billie.jpg)](http://35.92.119.176.nip.io/2022/05/23/dan-billie-was-inducted-into-the-federated-vendor-hall-of-fame/)
 
 ### [Dan Billie was Inducted into the Federated Vendor Hall of Fame](http://35.92.119.176.nip.io/2022/05/23/dan-billie-was-inducted-into-the-federated-vendor-hall-of-fame/)
 

@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/06/17/federated-auto-parts-400-to-salute-first-responders/
 wpId: 223
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/06/SalutetoFirstResponders.jpg
+featuredImage: /media/uploads/2021/06/SalutetoFirstResponders.jpg
 ---
 
 When the date of this year’s fall NASCAR race at Richmond was announced, NASCAR and Federated Auto Parts recognized that this event would be the appropriate time to remember and honor the victims and heroes on the 20th anniversary of 9/11. The Federated Auto Parts 400 Salute to First Responders will pay tribute and say thank you to all of the first responders throughout the country who risk their lives every day to serve and protect others.

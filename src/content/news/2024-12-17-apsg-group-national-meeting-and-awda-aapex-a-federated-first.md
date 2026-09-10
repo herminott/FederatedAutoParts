@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/12/17/apsg-group-national-meeting-and-awda-aapex-a-federated-first/
 wpId: 7201
 updatedDate: '2025-03-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/MeetingRegistration.jpg
+featuredImage: /media/uploads/2024/07/MeetingRegistration.jpg
 ---
 
 This was probably not on anyone’s bucket list, but holding The Group National Meeting in conjunction with AWDA/AAPEX is something that we can check off the list and move over to the “done that” side of the list.

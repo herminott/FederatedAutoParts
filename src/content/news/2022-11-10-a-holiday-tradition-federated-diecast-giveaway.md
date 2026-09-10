@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/11/10/a-holiday-tradition-federated-diecast-giveaway/
 wpId: 303
 updatedDate: '2024-11-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/11/HolidayDiecast22.jpg
+featuredImage: /media/uploads/2022/11/HolidayDiecast22.jpg
 ---
 
 With the holiday season upon us, Federated is conducting its annual Facebook diecast contest. Now through Dec. 14, Federated will be giving away an eclectic group of limited-edition diecasts, including racing and classic cars.

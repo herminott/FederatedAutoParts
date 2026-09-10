@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/07/01/registration-now-open-for-the-group-membership-meeting/
 wpId: 5899
 updatedDate: '2024-09-16'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/MeetingRegistration.jpg
+featuredImage: /media/uploads/2024/07/MeetingRegistration.jpg
 ---
 
 Registration is now available for the Automotive Parts Services Group (The Group) membership conference held Nov. 2-7 at The Venetian Las Vegas.

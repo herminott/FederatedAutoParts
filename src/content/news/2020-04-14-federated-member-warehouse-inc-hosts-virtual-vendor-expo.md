@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/04/14/federated-member-warehouse-inc-hosts-virtual-vendor-expo/
 wpId: 136
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 With the state of Kansas under a stay-at-home order, Federated member Warehouse Inc., based in Hays, Kansas, had to improvise when hosting its annual vendor expo. Since its customers and vendors could not come to them, Warehouse Inc. decided to go digital and host a virtual vendor show.

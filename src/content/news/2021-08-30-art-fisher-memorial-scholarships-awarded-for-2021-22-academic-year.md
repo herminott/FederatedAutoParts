@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/08/30/art-fisher-memorial-scholarships-awarded-for-2021-22-academic-year/
 wpId: 236
 updatedDate: '2025-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AutoSchlarship1.jpg
+featuredImage: /media/uploads/2022/08/AutoSchlarship1.jpg
 ---
 
 Awarded annually to honor the memory of the late founder of Federated Auto Parts, the Art Fisher Memorial Scholarships have been presented to 13 exceptional young men and women who are preparing for a career in the auto care industry.

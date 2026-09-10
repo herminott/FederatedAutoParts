@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/12/03/gary-bostic-of-bbb-industries-inducted-into-federated-vendor-hall-of-fame/
 wpId: 6256
 updatedDate: '2025-06-17'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/01/VendorHallofFame2024.jpg
+featuredImage: /media/uploads/2025/01/VendorHallofFame2024.jpg
 ---
 
 Gary Bostic, director of group sales for BBB Industries, has been inducted into the Federated Auto Parts Vendor Hall of Fame. Bostic was presented with this distinguished recognition earlier this month in Las Vegas.

@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/05/18/federated-expands-car-care-program-with-business-building-enhancements/
 wpId: 140
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 **STAUNTON, Virginia** – The premier support program for professional automotive service providers just got even better. The Federated Car Care program has added several new enhancements to help its Federated Car Care Center customers grow their businesses.

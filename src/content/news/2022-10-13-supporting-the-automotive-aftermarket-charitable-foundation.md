@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/10/13/supporting-the-automotive-aftermarket-charitable-foundation/
 wpId: 3074
 updatedDate: '2024-11-13'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/10/Hurricane.jpg
+featuredImage: /media/uploads/2022/10/Hurricane.jpg
 ---
 
 Your life can change in an instant. A true testament to that statement is the devastating effect that Hurricane Ian had on the people living in southwest Florida. With winds ranging from 112 -140 miles per hour, hurricane Ian dumped 10 or more inches of rain across 3,500 square miles on the day of landfall. Fort Myers experienced 7.21 feet of storm surge, breaking the previous record of 3.36 feet during Hurricane Gabrielle in 2001.

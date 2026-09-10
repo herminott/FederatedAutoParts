@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/06/02/federated-facebook-promotion-fuels-summer-fun/
 wpId: 7849
 updatedDate: '2025-06-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/FuelYourSummerFun2024.jpg
+featuredImage: /media/uploads/2024/07/FuelYourSummerFun2024.jpg
 ---
 
 Looking for a way to help “fuel” your summer activities? Enter the Federated “Fuel Your Summer Fun” contest on the [Federated Auto Parts](https://woobox.com/syd8da?fbclid=IwY2xjawKqtJxleHRuA2FlbQIxMABicmlkETE3WWtFT0I2WGprRjhXZk4xAR5vCc4Z-uDhNSD4E1YxxnlS1pP8jBV8-au0j4Pbm6iJCyZ-UOAAcdrOMxG_zQ_aem_ztuc33hoSguok4345TBuQQ) and [Federated Car Care](https://woobox.com/upjccf?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExN1lrRU9CNlhqa0Y4V2ZOMQEexHUxWlFaLOU4uPT5dMg2e2SPl6FO5shxIEmftHth56kGgyCZo5PaCX9Kqu8_aem_gwB1vqh5FKGqmyluC6p39Q) Facebook pages and you could be a winner.

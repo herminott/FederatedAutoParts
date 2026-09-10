@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/01/26/federated-free-fuel-fridays-returns/
 wpId: 256
 updatedDate: '2023-08-29'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/01/FreeFuelFridays.jpg
+featuredImage: /media/uploads/2023/01/FreeFuelFridays.jpg
 ---
 
 With gas prices on the rise, everyone is looking to save at the pump. Federated Auto Parts would like to help by providing its Facebook fans with some free fuel. The always popular Federated Free Fuel Fridays returns and Federated will announce four free-fuel winners each Friday through March 11 on its [Federated Auto Parts](https://www.facebook.com/FederatedAP/) and [Federated Car Care](https://www.facebook.com/FederatedCarCare/) Facebook pages.

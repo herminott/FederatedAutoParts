@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/05/07/federated-fisher-establish-memorial-fund-to-honor-frank-berrodin/
 wpId: 84
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Federated Auto Parts and Fisher Auto Parts have established a memorial fund to honor the late Francis X. “Frank” Berrodin, former chairman of Berrodin Parts Warehouse who passed away on April 24 at the age of 92.

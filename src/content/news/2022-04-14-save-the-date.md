@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/04/14/save-the-date/
 wpId: 3085
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 I am very excited to announce that behind-the-scenes work has begun for the 2022 Group National Meeting, which will be held “in-person” at the Gaylord Texan Hotel in Grapevine, Texas, April 24-28.

@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/08/27/vendor-partner-registration-now-open-for-the-group-membership-conference/
 wpId: 6012
 updatedDate: '2024-10-02'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/MeetingRegistration.jpg
+featuredImage: /media/uploads/2024/07/MeetingRegistration.jpg
 ---
 
 Vendor partner [registration](https://web.cvent.com/event/fdc3c054-afc8-40e2-8ad1-44b323dcd659/summary) is now open for the Automotive Parts Services Group (The Group) membership meeting scheduled for Nov. 2-7 at The Venetian Las Vegas.

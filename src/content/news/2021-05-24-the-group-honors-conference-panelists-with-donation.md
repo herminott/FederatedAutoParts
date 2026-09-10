@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/05/24/the-group-honors-conference-panelists-with-donation/
 wpId: 216
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 As a thank you to all of the industry professionals who volunteered their time to appear on panels during the recent Automotive Parts Services Group (The Group) national conference, The Group has made a donation in their honor to the Automotive Aftermarket Charitable Foundation (AACF).

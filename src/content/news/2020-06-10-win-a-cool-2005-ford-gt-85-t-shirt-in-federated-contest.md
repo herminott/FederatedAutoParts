@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/06/10/win-a-cool-2005-ford-gt-85-t-shirt-in-federated-contest/
 wpId: 142
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 As the weather gets warmer, it’s time for something cool and Federated has the answer. Federated “T-Shirt Tuesdays” is back and you could be a winner of a super cool t-shirt featuring an iconic 2005 Ford GT 85 race car with a Federated paint scheme.

@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/12/08/the-alliance-and-federated-announce-strategic-collaboration/
 wpId: 307
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/12/AlliancePartnership.jpg
+featuredImage: /media/uploads/2022/12/AlliancePartnership.jpg
 ---
 
 The Aftermarket Auto Parts Alliance, Inc. located in San Antonio, Texas, and Federated Auto Parts Inc., located in Staunton, Virginia., have announced a strategic collaboration to combine certain activities and resources to reduce costs and improve service and efficiency to their respective members.

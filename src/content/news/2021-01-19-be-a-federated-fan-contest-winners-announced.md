@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/01/19/be-a-federated-fan-contest-winners-announced/
 wpId: 184
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Carney Cataldo of Cataldo’s Collision in Dubois, Pennsylvania, and Brian Bennington of Bennington’s Auto Service in Canton, Ohio have won a “suite deal” as the grand prize winners of the “Be a Federated Fan” contest. Both will have the chance to watch the NASCAR Federated Auto Parts 400 from a luxury suite at Richmond Raceway.

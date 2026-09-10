@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/03/07/the-group-annual-member-meeting-set-for-april-in-texas/
 wpId: 262
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Members of the Automotive Parts Services Group ([The Group](https://www.thegroupapsg.com/)), along with supplier partners and associates, will convene in Texas for The Group’s annual member meeting and expo. With a theme of “Meeting the Challenge,” the in-person conference will be held April 24-26 at the Gaylord Texan Resort in Grapevine.

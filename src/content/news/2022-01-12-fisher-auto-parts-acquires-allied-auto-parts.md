@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/01/12/fisher-auto-parts-acquires-allied-auto-parts/
 wpId: 254
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/FisherDefault.jpg
+featuredImage: /media/uploads/2023/02/FisherDefault.jpg
 ---
 
 Fisher Auto Parts has acquired Allied Auto Parts with 13 locations in Massachusetts and two locations in Rhode Island, it was announced today by David Reid, SVP and COO of Fisher, and Michael Borr, president of Allied.

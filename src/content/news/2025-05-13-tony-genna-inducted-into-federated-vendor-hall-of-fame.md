@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/05/13/tony-genna-inducted-into-federated-vendor-hall-of-fame/
 wpId: 7836
 updatedDate: '2025-06-17'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/06/HoF-Gary-Bostic.jpg
+featuredImage: /media/uploads/2025/06/HoF-Gary-Bostic.jpg
 ---
 
 Tony Genna of DRiV Incorporated has been inducted into the Federated Auto Parts Vendor Hall of Fame. Genna was recognized at the recent Automotive Parts Services Group (The Group) National Meeting in National Harbor, Maryland.

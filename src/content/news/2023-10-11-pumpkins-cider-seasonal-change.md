@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/10/11/pumpkins-cider-seasonal-change/
 wpId: 6024
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/10/Pumpkins-Cider.jpg
+featuredImage: /media/uploads/2024/10/Pumpkins-Cider.jpg
 ---
 
 October is considered the month of seasonal change. Fall is starting to kick in. The sky is looking bluer, the nights are getting cooler and the trees are beginning to show their magnificent colors.

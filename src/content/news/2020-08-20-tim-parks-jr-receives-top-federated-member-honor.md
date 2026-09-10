@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/08/20/tim-parks-jr-receives-top-federated-member-honor/
 wpId: 162
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Tim Parks of Parks Auto Parts was honored with the most prestigious Federated Auto Parts member recognition, the Art Fisher Memorial Award.

@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/05/09/delphi-named-co-man-vendor-of-the-year-by-the-group/
 wpId: 274
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/04/Co-Man-Delphi.jpg
+featuredImage: /media/uploads/2023/04/Co-Man-Delphi.jpg
 ---
 
 The Automotive Parts Services Group (The Group) recognized two supplier partners for outstanding support of its Co-Man operation. Delphi Technologies was honored as Co-Man Vendor of the Year and Wegmann Automotive was selected as Co-Man Vendor of the Year – Order Fill. The awards were presented on April 26 at The Group’s conference and expo.

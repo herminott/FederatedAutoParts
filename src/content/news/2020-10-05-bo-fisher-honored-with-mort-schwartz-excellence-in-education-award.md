@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/10/05/bo-fisher-honored-with-mort-schwartz-excellence-in-education-award/
 wpId: 176
 updatedDate: '2024-11-14'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2020/10/BoFisherAwarded.jpg
+featuredImage: /media/uploads/2020/10/BoFisherAwarded.jpg
 ---
 
 Bo Fisher, chairman and CEO of Fisher Auto Parts, was recently honored with the Mort Schwartz Excellence in Education Award by the Auto Care Association. The award was announced during the association’s Fall Leadership Days, held last month.

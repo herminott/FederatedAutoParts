@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/09/28/federated-inducted-into-gcommerce-customer-hall-of-fame/
 wpId: 174
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Federated Auto Parts has been inducted into the GCommerce Customer Hall of Fame. Sue Godschalk, president of Federated Auto Parts, and Herb Godschalk, president of Fisher Auto Parts and chairman of the Federated IT committee, accepted the award on behalf of Federated.

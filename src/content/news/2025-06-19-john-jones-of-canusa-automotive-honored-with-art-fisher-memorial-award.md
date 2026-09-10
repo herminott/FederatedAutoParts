@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/06/19/john-jones-of-canusa-automotive-honored-with-art-fisher-memorial-award/
 wpId: 7958
 updatedDate: '2025-07-01'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/07/ArtFisherMemorialAward.jpg
+featuredImage: /media/uploads/2025/07/ArtFisherMemorialAward.jpg
 ---
 
 John Jones of Federated member Canusa Automotive has been honored with the Art Fisher Memorial Award, Federated’s most esteemed recognition.

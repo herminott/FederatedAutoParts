@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/03/27/federated-auto-parts-to-be-title-sponsor-of-texas-outlaw-nationals-at-devils-bowl/
 wpId: 873
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/03/Texas-Outlaws.jpg
+featuredImage: /media/uploads/2023/03/Texas-Outlaws.jpg
 ---
 
 Further expanding its support of the World of Outlaws, Federated Auto Parts will serve as the title sponsor of the Texas Outlaw Nationals at Devil’s Bowl Speedway, March 31-April 1.

@@ -5,10 +5,10 @@ slug: about-federated
 sourceUrl: http://35.92.119.176.nip.io/about-federated/
 wpId: 12
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/Promotional-Products.jpg)
+![](/media/uploads/2023/08/Promotional-Products.jpg)
 
 # About Federated
 
@@ -23,11 +23,11 @@ In addition to our strong vendor relationships and our exemplary marketing progr
 
 Federated’s primary goal has always been to exceed customer expectations. To meet this goal Federated continues to supply the [highest quality parts](/quality-parts/) from today’s most respected suppliers. We invite you to learn more about the group everyone is talking about and to join Federated Auto Parts Distributors!
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2024/06/Temp-PhotoPhone.jpg)
+![](/media/uploads/2024/06/Temp-PhotoPhone.jpg)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2024/06/Temp-Photo.jpg)
+![](/media/uploads/2024/06/Temp-Photo.jpg)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/02/dependable-distribution.jpg)
+![](/media/uploads/2023/02/dependable-distribution.jpg)
 
 #### Our History
 
@@ -43,7 +43,7 @@ Program distribution groups come in many sizes and varieties, but there is only 
   
 Federated Auto Parts Distributors is fueled by exemplary vision and leadership and driven by aggressive service and top quality name brand parts. Founded in 1985 by Art Fisher and Rusty Bishop of Fisher Auto Parts, a Virginia-based traditional automotive store chain with more than 400 locations, Federated soon became the distribution group with the most company-owned stores.
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/PartnerwithFed.jpg)
+![](/media/uploads/2023/08/PartnerwithFed.jpg)
 
 Years In Business
 
@@ -119,7 +119,7 @@ Front-end Designer
 
 # About Federated
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2024/04/Latest-News-Events.jpg)
+![](/media/uploads/2024/04/Latest-News-Events.jpg)
 
 #### News & Events
 

@@ -11,7 +11,7 @@ categories:
 tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/11/28/federated-launches-50-50-video-challenge/
 wpId: 3514
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/01/50-50-ChallengeDefault.jpg
+featuredImage: /media/uploads/2022/01/50-50-ChallengeDefault.jpg
 ---
 
 Federated Auto Parts has kicked off the Federated 50/50 Challenge in conjunction with The Group Training Academy (TGTA). In addition to gaining knowledge from a series of informative “TechTalk Automotive Professionals 101” videos, those who enter the contest will be eligible to win a Bosch tool or a gift card reward just for watching.

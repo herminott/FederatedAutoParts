@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/08/01/racing-thrills-and-arctic-chills-federated-suite-stakes-promises-epic-adventures/
 wpId: 5986
 updatedDate: '2024-09-25'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/03/FederatedSuiteStakes.jpg
+featuredImage: /media/uploads/2023/03/FederatedSuiteStakes.jpg
 ---
 
 The 2024 Federated Suite-Stakes is underway with more chances to win and hundreds of prizes, including incredible Alaskan cruise grand prizes.

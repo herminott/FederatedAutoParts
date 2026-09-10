@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/08/19/federated-awards-2025-26-art-fisher-memorial-scholarships/
 wpId: 8036
 updatedDate: '2025-10-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AutoSchlarship1.jpg
+featuredImage: /media/uploads/2022/08/AutoSchlarship1.jpg
 ---
 
 Federated Auto Parts is honoring 13 exceptional students with Art Fisher Memorial scholarships for the 2025-26 academic year.

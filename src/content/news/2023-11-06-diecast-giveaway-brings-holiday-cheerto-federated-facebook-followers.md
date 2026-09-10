@@ -11,7 +11,7 @@ categories:
 tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/11/06/diecast-giveaway-brings-holiday-cheerto-federated-facebook-followers/
 wpId: 3489
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/11/2023Diecast.jpg
+featuredImage: /media/uploads/2023/11/2023Diecast.jpg
 ---
 
 To help spread some holiday cheer to its Facebook followers, Federated Auto Parts is once again conducting its Facebook diecast contest. From now through Dec. 15, Federated will be giving away limited-edition Federated 1963 Volkswagen van diecast collectibles.

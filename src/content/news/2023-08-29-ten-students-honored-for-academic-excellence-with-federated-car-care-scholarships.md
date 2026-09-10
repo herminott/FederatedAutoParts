@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/08/29/ten-students-honored-for-academic-excellence-with-federated-car-care-scholarships/
 wpId: 3045
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2019/07/CarCareScholarshipWin2.jpg
+featuredImage: /media/uploads/2019/07/CarCareScholarshipWin2.jpg
 ---
 
 Federated Auto Parts has awarded Car Care scholarships to 10 exceptional students for the 2023-24 academic year: Taylor Butler, Kylie Caverly, Keith Cecil, Christian Fisher, Leigh Hicks, Jacob Miller, Michael Phelps, Kathleen Raab, Bailey Thede and Hannah Winn.

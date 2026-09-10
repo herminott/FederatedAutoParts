@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/09/26/leadership-changes-at-the-group/
 wpId: 6015
 updatedDate: '2024-10-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/10/LeadershipUpdate.jpg
+featuredImage: /media/uploads/2024/10/LeadershipUpdate.jpg
 ---
 
 The Automotive Parts Services Group (The Group) announced today that Jeff Koviak will assume the role of CEO effective January 1, 2025, replacing retiring CEO Larry Pavey.

@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/04/24/the-federated-office-bringing-out-the-best-and-the-worst/
 wpId: 3117
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Functioning in the midst of the COVID-19 pandemic every day has been a challenge, to say the least. There are rules and regulations that must be interpreted and followed. Gloves and masks have become the new spring accessories and alcohol and bleach are the popular scents. Things that we do in our everyday lives and for the most part, have always taken for granted, are now things that we can no longer do. Going to a movie, going out to eat at a restaurant, going to church and even funeral services are just a few of the things that have been suspended indefinitely.

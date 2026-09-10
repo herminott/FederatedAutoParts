@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/05/23/dan-billie-was-inducted-into-the-federated-vendor-hall-of-fame/
 wpId: 278
 updatedDate: '2025-06-17'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/05/HoF-Dan-Billie.jpg
+featuredImage: /media/uploads/2022/05/HoF-Dan-Billie.jpg
 ---
 
 Dan Billie, CEO of [Plews & Edelmann](https://www.plews-edelmann.com/), has been inducted into the Federated Auto Parts Vendor Hall of Fame. Billie received his honor last month at the Automotive Parts Services Group ([The Group](https://www.thegroupapsg.com/)) annual conference and expo in Grapevine, Texas.

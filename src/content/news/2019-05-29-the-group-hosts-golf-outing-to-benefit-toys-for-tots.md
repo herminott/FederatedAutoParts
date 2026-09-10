@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/05/29/the-group-hosts-golf-outing-to-benefit-toys-for-tots/
 wpId: 91
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) charity golf outing, held recently at the Disney Palm Golf Course in Orlando, Florida, raised over $300,000 for the U.S. Marine Corps Reserve Toys for Tots campaign.

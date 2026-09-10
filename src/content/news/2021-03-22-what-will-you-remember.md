@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/03/22/what-will-you-remember/
 wpId: 3105
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 I have a nice feature on my cell phone that displays a picture each day of a place that I have traveled, and each picture shows the date that it was taken. It is a daily reminder of how my life has been transformed since the pandemic. When I see a vineyard in Italy, or the vast landscape in Iceland, or the verdant, green meadows of Ireland, or the magnificent buildings in St. Petersburg, it is a rude awakening, and it is hard to comprehend the limitations on the freedom we once had to travel safely to these beautiful and remarkable places. While this is a nice feature, it is always a stark reminder that I have no pictures like this for 2020. The pandemic has caused my world to shrink.

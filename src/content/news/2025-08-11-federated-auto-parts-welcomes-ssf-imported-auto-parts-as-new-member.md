@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/08/11/federated-auto-parts-welcomes-ssf-imported-auto-parts-as-new-member/
 wpId: 8006
 updatedDate: '2025-08-13'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/08/SSFPartnership.jpg
+featuredImage: /media/uploads/2025/08/SSFPartnership.jpg
 ---
 
 Federated Auto Parts is pleased to welcome California-based SSF Imported Auto Parts LLC to its growing membership of top-tier automotive parts distributors.

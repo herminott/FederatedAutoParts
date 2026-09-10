@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/11/20/awards-galore-for-federated-and-friends-at-aapex-and-awda/
 wpId: 6027
 updatedDate: '2024-10-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/10/Awards-Galore.jpg
+featuredImage: /media/uploads/2024/10/Awards-Galore.jpg
 ---
 
 It was great seeing so many of you at AWDA and AAPEX. We had excellent meetings and everyone who we met with is very optimistic about the aftermarket business climate for 2024. It was also fun to see so many people at The Group’s annual reception. We had an outstanding turnout, which included the wonderful members of YANG. Thank you to all who attended this fun event.

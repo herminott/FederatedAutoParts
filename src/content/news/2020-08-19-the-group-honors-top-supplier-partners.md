@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/08/19/the-group-honors-top-supplier-partners/
 wpId: 160
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) announced its “Vendor of the Year” awards yesterday during its virtual national conference and expo.

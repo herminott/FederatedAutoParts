@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/10/02/richmond-raceway-honors-federated-ceo-rusty-bishop/
 wpId: 114
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 In recognition of his distinguished career at Federated Auto Parts and lifetime support of motorsports at all levels, Federated CEO Rusty Bishop was honored by the Richmond Raceway. Track President, Dennis Bickmeier, presented Bishop with a commemorative plaque in a special ceremony during the drivers’ meeting held prior to the start of the Federated Auto Parts 400 – NASCAR Monster Energy Cup Series race on Saturday, Sept. 21.

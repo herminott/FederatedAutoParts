@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/10/24/sheldon-haudenschild-sjm-racing-team-win-federated-car-care-teamwork-contest/
 wpId: 3487
 updatedDate: '2024-11-11'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/10/Sheldon-Haudenschild.jpg
+featuredImage: /media/uploads/2023/10/Sheldon-Haudenschild.jpg
 ---
 
 CONCORD, NC – By collecting the most votes, Sheldon Haudenschild and the Stenhouse Jr/Marshall Racing team have won the Federated Car Care Teamwork Counts contest and will receive an extra $5,000 at this year’s World of Outlaws banquet.

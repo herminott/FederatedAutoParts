@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/09/11/federated-car-care-be-a-federated-fan-race-promotion/
 wpId: 170
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated Auto Parts is kicking off a special “Be a Federated Fan” promotion for its Car Care Center members in conjunction with the NASCAR Federated Auto Parts 400 on September 12 at Richmond Raceway.

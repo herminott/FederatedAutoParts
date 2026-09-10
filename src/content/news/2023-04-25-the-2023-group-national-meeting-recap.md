@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/04/25/the-2023-group-national-meeting-recap/
 wpId: 3062
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 If you did not attend the 2023 The Group National Meeting last month, you really missed a great opportunity to reconnect with other members, manufacturers, and the industry.  Federated was especially excited to have our new joint venture partner, the Alliance attend this meeting. Including the Federated Alliance, the Pronto Network, and our vendor partners, there were over a 1,000 attendees for this four-day event.

@@ -12,7 +12,7 @@ tags:
 sourceUrl: http://35.92.119.176.nip.io/2023/01/10/federated-50-50-challenge-awards-over-a-hundred-prizes-to-ase-certified-professionals/
 wpId: 309
 updatedDate: '2024-11-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/03/50-50-Challenge.jpg
+featuredImage: /media/uploads/2023/03/50-50-Challenge.jpg
 ---
 
 “Our 50/50 Challenge was a great success. We want to thank all of the ASE-certified automotive service professionals and parts specialists who participated in the contest,” said Phil Moore, senior vice president of Federated Auto Parts. “We congratulate ASE on 50 years of upholding and promoting high standards of service and repair through the certification and credentialing of vehicle service professionals, and we applaud all those in the Federated organization who have earned ASE certification and work tirelessly to keep their customers’ vehicles on the road.”

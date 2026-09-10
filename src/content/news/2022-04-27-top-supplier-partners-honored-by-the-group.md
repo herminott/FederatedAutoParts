@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/04/27/top-supplier-partners-honored-by-the-group/
 wpId: 270
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/04/SupplierPartnersHonored2022.jpg
+featuredImage: /media/uploads/2022/04/SupplierPartnersHonored2022.jpg
 ---
 
 The Automotive Parts Services Group (The Group) honored top suppliers at a special awards luncheon held on Tuesday during The Group’s annual membership conference and expo in Grapevine, Texas.

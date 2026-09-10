@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/03/17/amn-women-at-the-wheel-interview-with-julie-wells/
 wpId: 6114
 updatedDate: '2024-11-01'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/WATW-JulieWells.jpg
+featuredImage: /media/uploads/2024/11/WATW-JulieWells.jpg
 ---
 
 **How did you begin your career in the aftermarket?**

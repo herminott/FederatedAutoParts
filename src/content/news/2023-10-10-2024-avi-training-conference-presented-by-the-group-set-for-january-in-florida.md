@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/10/10/2024-avi-training-conference-presented-by-the-group-set-for-january-in-florida/
 wpId: 3492
 updatedDate: '2024-11-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/10/TheGroupTrainingAcademy.jpg
+featuredImage: /media/uploads/2023/10/TheGroupTrainingAcademy.jpg
 ---
 
 Registration is now open for the 2024 AVI Training Conference presented by the Automotive Parts Services Group (The Group) and sponsored by NEXUS. Scheduled for Jan. 11-14 at the Marriott Sanibel Harbour Hotel in Fort Myers, Florida, this one-of-a-kind event offers hands-on innovative training for automotive professionals.

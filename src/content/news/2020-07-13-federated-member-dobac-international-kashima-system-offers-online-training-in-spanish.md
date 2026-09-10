@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/07/13/federated-member-dobac-international-kashima-system-offers-online-training-in-spanish/
 wpId: 152
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated member Dobac International/Kashima System has introduced a new Spanish-language training platform to the North American aftermarket. Kashima University is the most comprehensive educational program for auto mechanics in Latin America and its online program is now available to Spanish-speaking automotive service professionals worldwide at <https://kashimasystem.com/kashima-university/>.

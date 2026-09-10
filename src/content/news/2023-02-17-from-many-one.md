@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/02/17/from-many-one/
 wpId: 3067
 updatedDate: '2024-11-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/EPluribusUnum.jpg
+featuredImage: /media/uploads/2023/02/EPluribusUnum.jpg
 ---
 
 We are very excited that our 2023 The Group National Conference and Expo is only a few weeks away. This is The Group’s seventh annual conference and this year’s meeting will be held March 27-30 at the Gaylord Resort and Conference Center in National Harbor, Maryland.

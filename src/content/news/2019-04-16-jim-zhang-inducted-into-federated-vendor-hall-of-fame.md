@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/04/16/jim-zhang-inducted-into-federated-vendor-hall-of-fame/
 wpId: 80
 updatedDate: '2025-06-17'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2019/04/HoF-Jim-Zhang.jpg
+featuredImage: /media/uploads/2019/04/HoF-Jim-Zhang.jpg
 ---
 
 Jim Zhang, founder, chairman, and CEO of Friction One has been inducted into the Federated Auto Parts Vendor Hall of Fame. The Federated Hall of Fame induction took place during the recent Automotive Parts Services Group (The Group) national meeting held in Lake Buena Vista, Florida.

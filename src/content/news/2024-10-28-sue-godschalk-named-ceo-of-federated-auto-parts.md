@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/10/28/sue-godschalk-named-ceo-of-federated-auto-parts/
 wpId: 6187
 updatedDate: '2024-11-19'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/SueGodschalkFedCEO.jpg
+featuredImage: /media/uploads/2024/11/SueGodschalkFedCEO.jpg
 ---
 
 Sue Godschalk has been named chief executive officer of Federated Auto Parts, one of the largest auto parts distribution and marketing organizations in North America.

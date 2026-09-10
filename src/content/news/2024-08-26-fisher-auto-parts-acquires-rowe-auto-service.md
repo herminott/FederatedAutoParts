@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/08/26/fisher-auto-parts-acquires-rowe-auto-service/
 wpId: 5995
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/FisherAutoAcquiresRowes.jpg
+featuredImage: /media/uploads/2024/09/FisherAutoAcquiresRowes.jpg
 ---
 
 Fisher Auto Parts has acquired Rowe Auto Service, it was announced today by Geoffrey Shifflett, area vice president of Fisher Auto Parts. This is the company’s third acquisition since the large Berrodin Parts Warehouse affiliation in October 2023 and is in addition to 32 greenfield locations opened year-to-date in 2024 and 30 locations opened in 2023. Shifflett also announced that the recently purchased 217,000 sq. ft. distribution center in Chicopee, Massachusetts is expected to open in March 2025 and is being outfitted by Siggins.

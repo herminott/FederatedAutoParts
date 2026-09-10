@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/08/24/the-group-presents-co-man-vendor-of-the-year-awards/
 wpId: 164
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 The Automotive Parts Services Group (The Group) honored two of its vendor partners during its recent virtual national conference and expo. Motor Parts Manufacturing was voted by members of The Group as the Co-Man Vendor of the Year and Delphi Technologies was recognized as Co-Man Vendor of the Year for Order Fill.

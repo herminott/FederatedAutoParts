@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/06/28/celebrate-summer-with-federated-facebook-contest/
 wpId: 5941
 updatedDate: '2024-10-15'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/FuelYourSummerFun2024.jpg
+featuredImage: /media/uploads/2024/07/FuelYourSummerFun2024.jpg
 ---
 
 Federated Auto Parts wants to help make it an unforgettable summer with its “Fuel Your Summer Fun” contest on its [Federated Auto Parts](https://www.facebook.com/FederatedAP/) and [Federated Car Care](https://www.facebook.com/FederatedCarCare/) Facebook pages.

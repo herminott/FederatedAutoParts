@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/11/17/the-group-launches-2020-toys-for-tots-campaign/
 wpId: 180
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) has launched its 2020 Toys for Tots campaign. As in years past, participating members of The Group are collecting donations and toys at their respective locations.

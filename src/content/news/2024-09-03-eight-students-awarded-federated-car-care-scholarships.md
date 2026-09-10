@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/09/03/eight-students-awarded-federated-car-care-scholarships/
 wpId: 6010
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/09/AutoSchlarship.jpg
+featuredImage: /media/uploads/2021/09/AutoSchlarship.jpg
 ---
 
 Federated Car Care scholarships have been awarded to eight exceptional students for the 2024-25 academic year.

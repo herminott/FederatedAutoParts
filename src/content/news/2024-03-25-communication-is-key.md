@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/03/25/communication-is-key/
 wpId: 5971
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/Communication-is-Key.jpg
+featuredImage: /media/uploads/2024/09/Communication-is-Key.jpg
 ---
 
 As many of you already know, the 2024 Group National Meeting, which was scheduled for April 14-17 at the Mirage in Las Vegas, will be moved to a different date which has not yet been determined.

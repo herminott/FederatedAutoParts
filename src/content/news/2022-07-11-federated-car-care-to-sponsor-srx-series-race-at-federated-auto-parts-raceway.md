@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/07/11/federated-car-care-to-sponsor-srx-series-race-at-federated-auto-parts-raceway/
 wpId: 284
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/07/SRXJuly16th.jpg
+featuredImage: /media/uploads/2022/07/SRXJuly16th.jpg
 ---
 
 Federated Car Care will be the presenting sponsor of the Superstar Racing Experience (SRX) race on July 16 at the Federated Auto Parts Raceway in Pevely, Missouri. The race will start at 7:00 p.m. CT and will be televised nationally on CBS TV.

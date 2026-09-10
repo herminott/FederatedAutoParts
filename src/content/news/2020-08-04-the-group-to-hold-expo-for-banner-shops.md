@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/08/04/the-group-to-hold-expo-for-banner-shops/
 wpId: 156
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Pronto Smart Choice and Federated Car Care Centers are invited to participate in the upcoming Automotive Parts Services Group (The Group) virtual national meeting. On Friday, August 21, from 10:00 a.m. until 2:00 p.m. CT, Pronto and Federated banner shop customers can interact virtually with over 130 of The Group’s vendor partners.

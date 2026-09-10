@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/06/21/2023-federated-suite-stakes-better-than-ever/
 wpId: 3057
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/06/FedSweepStakesBetter.jpg
+featuredImage: /media/uploads/2023/06/FedSweepStakesBetter.jpg
 ---
 
 As June comes to a close, so does the Federated 2023 Suite Stakes promo.

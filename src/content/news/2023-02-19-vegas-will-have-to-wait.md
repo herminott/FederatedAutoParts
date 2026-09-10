@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/02/19/vegas-will-have-to-wait/
 wpId: 3107
 updatedDate: '2024-11-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/VegashastoWait.jpg
+featuredImage: /media/uploads/2023/02/VegashastoWait.jpg
 ---
 
 Our 2021 Group National Meeting, which was optimistically scheduled to be held at the Mirage Resort in Las Vegas April 12-16, is now going to be a virtual meeting.

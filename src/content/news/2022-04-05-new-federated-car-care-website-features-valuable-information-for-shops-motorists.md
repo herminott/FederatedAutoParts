@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/04/05/new-federated-car-care-website-features-valuable-information-for-shops-motorists/
 wpId: 266
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The new [FederatedCarCare.com](http://www.FederatedCarCare.com) website features a wide array of information to help shops educate their customers so they can make informed decisions about vehicle service and repair.

@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/11/05/win-a-trip-to-the-avi-training-conference-in-florida/
 wpId: 178
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated Auto Parts wants to send one fortunate Federated Car Care Center to the 2021 AVI Training Conference. The winning shop in the Federated/AVI Learning Sweepstakes will choose an employee and a guest that will be treated to a three-day trip to Sanibel Harbour in Fort Myers, Florida from Jan. 14-17, 2021.

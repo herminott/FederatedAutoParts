@@ -5,14 +5,14 @@ slug: professional-training
 sourceUrl: http://35.92.119.176.nip.io/professional-training/
 wpId: 21
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/Promotional-Products.jpg)
+![](/media/uploads/2023/08/Promotional-Products.jpg)
 
 # Professional Training
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/StauntonVA.jpg)
+![](/media/uploads/2023/08/StauntonVA.jpg)
 
 #### Federated Title
 
@@ -30,4 +30,4 @@ Curabitur fringilla est ut lectus pellentesque blandit. Suspendisse mattis hendr
 
 [Federated Btn](/our-history-of-success/)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/StauntonVA.jpg)
+![](/media/uploads/2023/08/StauntonVA.jpg)

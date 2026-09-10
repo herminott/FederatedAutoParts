@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/03/08/federated-kicks-off-biggest-rewards-program-ever/
 wpId: 194
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The new Federated Suite-Stakes is the biggest rewards program Federated Auto Parts has ever conducted for its customers, according to Phil Moore, senior vice president, of Federated Auto Parts.

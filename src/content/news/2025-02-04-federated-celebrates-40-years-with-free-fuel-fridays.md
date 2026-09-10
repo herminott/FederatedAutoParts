@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/02/04/federated-celebrates-40-years-with-free-fuel-fridays/
 wpId: 7146
 updatedDate: '2025-03-04'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/03/FreeFuelFridays2025.jpg
+featuredImage: /media/uploads/2025/03/FreeFuelFridays2025.jpg
 ---
 
 To kick off its yearlong 40th anniversary celebration, Federated has brought back the popular Federated Free Fuel Fridays contest, this time with a total of 40 winners of gift cards that can be used for free fuel.

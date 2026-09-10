@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/03/15/federated-suite-stakes-underway-with-more-ways-to-win/
 wpId: 869
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/03/FederatedSuiteStakes.jpg
+featuredImage: /media/uploads/2023/03/FederatedSuiteStakes.jpg
 ---
 
 This year’s Federated Suite-Stakes contest is the largest one yet with bigger prizes, more chances to win, and sensational grand prizes, including an ocean cruise and racing weekend extravaganzas.

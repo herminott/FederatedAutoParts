@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/02/28/federated-to-award-scholarships-for-car-care-members/
 wpId: 5110
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/02/CarCareScholarship.jpg
+featuredImage: /media/uploads/2024/02/CarCareScholarship.jpg
 ---
 
 Applications are now being accepted for the Federated Car Care Scholarship program. Interested students should complete and submit their applications at AutomotiveScholarships.com by March 31, 2024.

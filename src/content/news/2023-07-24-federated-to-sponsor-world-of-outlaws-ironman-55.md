@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/07/24/federated-to-sponsor-world-of-outlaws-ironman-55/
 wpId: 1446
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/07/Ironman55.jpg
+featuredImage: /media/uploads/2023/07/Ironman55.jpg
 ---
 
 Federated Auto Parts will be the title sponsor of the Federated Auto Parts Ironman 55 World of Outlaws race held August 5 at the Federated Auto Parts Raceway in Pevely, Missouri. One of the most prestigious races on the World of Outlaws schedule, Federated has served as the title sponsor of this iconic event since 2012.

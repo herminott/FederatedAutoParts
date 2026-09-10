@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/06/13/a-glimpse-into-the-future/
 wpId: 5980
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/Looking-to-the-Future.jpg
+featuredImage: /media/uploads/2024/09/Looking-to-the-Future.jpg
 ---
 
 I am very grateful to Larry Pavey for filling in for me by providing an article for the newsletter while I was on vacation in the British Isles.

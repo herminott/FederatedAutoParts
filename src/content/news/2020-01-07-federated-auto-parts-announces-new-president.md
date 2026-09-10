@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/01/07/federated-auto-parts-announces-new-president/
 wpId: 120
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/SueGodschalkFedCEO.jpg
+featuredImage: /media/uploads/2024/11/SueGodschalkFedCEO.jpg
 ---
 
 Following the year-end retirement of its longtime CEO Rusty Bishop, Federated Auto Parts has promoted Sue Godschalk to president, it was announced today by Larry Pavey who has assumed the role of CEO of Federated.

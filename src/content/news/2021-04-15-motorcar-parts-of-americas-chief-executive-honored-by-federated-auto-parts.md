@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/04/15/motorcar-parts-of-americas-chief-executive-honored-by-federated-auto-parts/
 wpId: 206
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Motorcar Parts of America, Inc. today announced Selwyn Joffe has received Federated Auto Parts’ 2021 Vendor Hall of Fame award.

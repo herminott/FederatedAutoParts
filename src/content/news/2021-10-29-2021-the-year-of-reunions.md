@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/10/29/2021-the-year-of-reunions/
 wpId: 3091
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 I recently attended my high school reunion and I was amazed at how easy it was to reconnect with my former classmates. In no time, we were all laughing, talking, and telling stories from our high school years. It was very evident that we had all missed seeing each other and it was a lot of fun to catch-up and learn what everyone had been doing over the past few years.

@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/02/18/federated-ken-schrader-continue-longtime-partnership/
 wpId: 132
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 For 21 years in a row, Federated Auto Parts will partner with Ken Schrader and his Ken Schrader Racing (KSR) teams. The sponsorship will include the popular “Get Dirty with Kenny” racing experience for Federated members and their customers throughout North America.

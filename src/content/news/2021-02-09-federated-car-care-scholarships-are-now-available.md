@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/02/09/federated-car-care-scholarships-are-now-available/
 wpId: 188
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/02/CarCareScholarshipApply2021.jpg
+featuredImage: /media/uploads/2021/02/CarCareScholarshipApply2021.jpg
 ---
 
 Federated Auto Parts will award scholarships to the employees or children of Federated Car Care Centers purchasing from any Federated member. The scholarships are funded by Fisher Auto Parts in memory of Art Fisher, founder of Federated Auto Parts and the Federated Car Care program. The deadline to apply is March 31, 2021.

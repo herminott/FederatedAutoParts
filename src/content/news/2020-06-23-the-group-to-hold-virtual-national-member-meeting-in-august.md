@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/06/23/the-group-to-hold-virtual-national-member-meeting-in-august/
 wpId: 148
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) will hold a virtual national membership conference and expo from August 18-20. With a theme of “Together Towards Tomorrow,” the meeting will bring together members of Federated Auto Parts and the National Pronto Association, as well as supplier partners and associates in an online forum.

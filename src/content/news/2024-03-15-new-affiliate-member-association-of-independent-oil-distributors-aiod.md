@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/03/15/new-affiliate-member-association-of-independent-oil-distributors-aiod/
 wpId: 5112
 updatedDate: '2025-10-17'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/03/AIODAffiliateMembership.jpg
+featuredImage: /media/uploads/2024/03/AIODAffiliateMembership.jpg
 ---
 
 Federated Auto Parts Distributors is entering into a collaboration with the Association of Independent Oil Distributors (AIOD) with a focus on mutual benefits for the respective members. In the agreement, members of AIOD will become affiliate members of Federated, with an emphasis on exploring opportunities and expanded participation.

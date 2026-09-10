@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/08/14/the-dog-days-of-summer/
 wpId: 3051
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/08/HotDogDaysofSummer1.jpg
+featuredImage: /media/uploads/2023/08/HotDogDaysofSummer1.jpg
 ---
 
 I have always liked the term, “The Dog Days of Summer.” This term originated with the Greeks and Romans who believed that when two stars aligned, it caused a severe heat that could bring fever or even catastrophe. In my mind, this term is not as complicated, but rather just a term used to describe extremely hot and humid weather, which is synonymous with living in Virginia in August.

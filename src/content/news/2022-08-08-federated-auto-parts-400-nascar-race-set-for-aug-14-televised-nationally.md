@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/08/08/federated-auto-parts-400-nascar-race-set-for-aug-14-televised-nationally/
 wpId: 290
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AugResults.jpg
+featuredImage: /media/uploads/2022/08/AugResults.jpg
 ---
 
 **WHAT**

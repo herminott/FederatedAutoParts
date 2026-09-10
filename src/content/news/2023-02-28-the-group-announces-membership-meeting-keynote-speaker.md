@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/02/28/the-group-announces-membership-meeting-keynote-speaker/
 wpId: 606
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/Mark-Scharenbroich.jpg
+featuredImage: /media/uploads/2023/02/Mark-Scharenbroich.jpg
 ---
 
 Award-winning speaker Mark Scharenbroich will be the keynote speaker at the Automotive Parts Services Group (The Group) annual meeting held March 27-30 at the Gaylord National Harbor in National Harbor, Maryland.  Known for presentations packed with entertaining motivational stories, Scharenbroich focuses his inspiration messages on leadership, team collaboration, and connecting with customers.

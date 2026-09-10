@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/03/10/preparing-for-the-group-national-meeting/
 wpId: 7856
 updatedDate: '2025-06-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/06/SuccessfulNationalMembership.jpg
+featuredImage: /media/uploads/2025/06/SuccessfulNationalMembership.jpg
 ---
 
 Preparations are in full swing for the upcoming The Group National Meeting, which will be held April 28-May 1, 2025, at the Gaylord National Resort and Conference Center in National Harbor, Maryland.

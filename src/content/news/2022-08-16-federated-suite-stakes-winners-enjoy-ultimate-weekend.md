@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/08/16/federated-suite-stakes-winners-enjoy-ultimate-weekend/
 wpId: 292
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 **Federated Suite-Stakes Winners Enjoy Ultimate Weekend**

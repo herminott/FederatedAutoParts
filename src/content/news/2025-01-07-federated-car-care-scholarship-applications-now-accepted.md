@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/01/07/federated-car-care-scholarship-applications-now-accepted/
 wpId: 6265
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/01/ApplyToday.jpg
+featuredImage: /media/uploads/2023/01/ApplyToday.jpg
 ---
 
 Applications are currently being accepted for the Federated Car Care Scholarship program at [AutomotiveScholarships.com](http://www.automotivescholarships.com/).

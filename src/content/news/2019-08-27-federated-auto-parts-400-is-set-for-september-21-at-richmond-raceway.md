@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/08/27/federated-auto-parts-400-is-set-for-september-21-at-richmond-raceway/
 wpId: 105
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2019/08/Set-for-September-21.jpg
+featuredImage: /media/uploads/2019/08/Set-for-September-21.jpg
 ---
 
 It will be a weekend of hospitality, camaraderie, and great racing when the eighth annual Federated Auto Parts 400 Monster Energy NASCAR Cup Series race takes place Saturday, Sept. 21 at Richmond Raceway. NBC Sports Network will televise the race nationally with a start time of 7:30 p.m. EST.

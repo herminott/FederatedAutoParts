@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/12/08/the-spirit-of-giving/
 wpId: 3111
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 It is certainly an understatement to say that 2020 has been an unusual year. As we enter the holiday season, I hope you will remember that for many years Federated has been participating in and supporting the Toys for Tots program. Created in 1947, the U.S. Marine Corps Reserve Toys for Tots program distributes millions of toys each year to less fortunate children. Your donation is especially important this year when so many families are suffering financial hardship due to COVID-19.

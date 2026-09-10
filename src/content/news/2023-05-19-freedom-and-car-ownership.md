@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/05/19/freedom-and-car-ownership/
 wpId: 3059
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/Freedom-n-Car-Ownership.jpg
+featuredImage: /media/uploads/2023/05/Freedom-n-Car-Ownership.jpg
 ---
 
 I just recently returned to the office from vacation. After having to postpone a previously planned trip to Portugal and Spain in 2020 due to COVID-19, I was finally able to check those two countries off my bucket list.

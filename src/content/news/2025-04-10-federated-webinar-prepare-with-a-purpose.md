@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/04/10/federated-webinar-prepare-with-a-purpose/
 wpId: 7851
 updatedDate: '2025-06-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/SueGodschalkFedCEO.jpg
+featuredImage: /media/uploads/2024/11/SueGodschalkFedCEO.jpg
 ---
 
 April is going to be a very busy month of preparation for the Federated staff.

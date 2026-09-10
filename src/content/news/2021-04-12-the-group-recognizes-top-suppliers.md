@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/04/12/the-group-recognizes-top-suppliers/
 wpId: 200
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 A record number of members, suppliers, and associates were in attendance when the Automotive Parts Services Group (The Group) presented top supplier awards during its national conference and expo held virtually this week.

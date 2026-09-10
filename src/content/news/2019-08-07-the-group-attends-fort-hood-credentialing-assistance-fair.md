@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/08/07/the-group-attends-fort-hood-credentialing-assistance-fair/
 wpId: 103
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) was invited to participate in the first-ever Credentialing Assistance Fair sponsored by the Fort Hood Educational Services Division of the United States Army on July 18 in Fort Hood, Texas. The program, created by Michael Engen, an Educational Services Officer at Fort Hood, is intended to help active-duty soldiers gain a competitive educational advantage, whether they transition to civilian life or stay in the military.

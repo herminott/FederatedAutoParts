@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/04/27/driv-honored-with-the-pronto-network-partnership-award/
 wpId: 5939
 updatedDate: '2024-11-11'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/04/DRiV-Honored.jpg
+featuredImage: /media/uploads/2023/04/DRiV-Honored.jpg
 ---
 
 DRiV**,** aftermarket division of Tenneco, was recently honored with The Pronto Network Partnership Award. The award was presented last month at the Automotive Parts Services Group (The Group) national conference and expo held in National Harbor, Maryland.

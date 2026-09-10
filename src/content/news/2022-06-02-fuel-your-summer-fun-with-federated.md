@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/06/02/fuel-your-summer-fun-with-federated/
 wpId: 280
 updatedDate: '2024-07-23'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/FuelYourSummerFun2024.jpg
+featuredImage: /media/uploads/2024/07/FuelYourSummerFun2024.jpg
 ---
 
 Federated Auto Parts has launched the “Fuel Your Summer Fun” contest to make summer weekends even more fun. Each Friday in June and July, Federated will announce gift card winners on its [Federated Auto Parts](https://www.facebook.com/FederatedAP/) and [Federated Car Care](https://www.facebook.com/FederatedCarCare/) Facebook pages**.**

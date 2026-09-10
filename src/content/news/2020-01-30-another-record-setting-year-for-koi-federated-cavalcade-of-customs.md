@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/01/30/another-record-setting-year-for-koi-federated-cavalcade-of-customs/
 wpId: 128
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Record attendance, plus more training classes, participants, and student attendees, highlighted the 60th annual KOI Auto Parts-Federated Cavalcade of Customs held earlier this month at the Duke Energy Convention Center in Cincinnati.

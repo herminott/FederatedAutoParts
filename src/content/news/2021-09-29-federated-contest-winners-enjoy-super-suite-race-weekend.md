@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/09/29/federated-contest-winners-enjoy-super-suite-race-weekend/
 wpId: 242
 updatedDate: '2023-08-29'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/09/FedSuiteStakes.jpg
+featuredImage: /media/uploads/2021/09/FedSuiteStakes.jpg
 ---
 
 The grand prize winners of the Federated Super Suite-Stakes enjoyed an action-packed weekend of festivities, including luxury skybox seats at Richmond Raceway on Sept. 11 for the Federated Auto Parts 400 Salute to First Responders NASCAR race.

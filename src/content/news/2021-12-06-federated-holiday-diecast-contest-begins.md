@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/12/06/federated-holiday-diecast-contest-begins/
 wpId: 249
 updatedDate: '2023-08-29'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/12/12DaysofChristmas.jpg
+featuredImage: /media/uploads/2021/12/12DaysofChristmas.jpg
 ---
 
 Federated is celebrating the holidays in style by giving away limited-edition custom diecasts in its “12 Days of Christmas” Facebook contest.

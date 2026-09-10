@@ -17,7 +17,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/04/26/federated-presents-top-member-awards/
 wpId: 210
 updatedDate: '2024-11-27'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Federated Auto Parts presented awards to three of its members for their commitment to the success of key Federated programs.

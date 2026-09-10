@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/10/06/toys-for-tots-charity-golf-outing-held-at-the-crossings/
 wpId: 3093
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 The Federated 400 NASCAR race is always one of the highlights of the year at Federated. This year’s event was no exception and the Sept. 11 date made it an even more meaningful event in that it presented Federated with the opportunity to salute First Responders and honor those who made the ultimate sacrifice on that day 20 years ago.

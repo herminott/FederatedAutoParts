@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/11/13/my-aapex-virtual-experience/
 wpId: 3113
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 November 3rd was a big day for me. (No, I was not running for public office). It was a big day because it was the opening of the first Virtual AAPEX Show and I participated in a round table discussion with four other esteemed panelists from the automotive industry. The topic of discussion: “What to Expect on the Road Ahead.”

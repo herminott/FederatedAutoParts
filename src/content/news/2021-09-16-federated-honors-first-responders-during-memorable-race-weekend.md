@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/09/16/federated-honors-first-responders-during-memorable-race-weekend/
 wpId: 238
 updatedDate: '2023-08-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/09/MartinTruexJr2021.jpg
+featuredImage: /media/uploads/2021/09/MartinTruexJr2021.jpg
 ---
 
 Federated members, customers, and vendor partners enjoyed a great night of racing and pageantry at the 2021 NASCAR Federated Auto Parts 400 Salute to First Responders on Sept. 11. Martin Truex Jr. won the race in front of an enthusiastic Richmond Raceway crowd and nationwide television audience on NBC Sports Network.

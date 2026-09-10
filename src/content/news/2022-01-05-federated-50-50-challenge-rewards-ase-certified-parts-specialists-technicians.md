@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/01/05/federated-50-50-challenge-rewards-ase-certified-parts-specialists-technicians/
 wpId: 252
 updatedDate: '2023-08-29'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/01/50-50-ChallengeDefault.jpg
+featuredImage: /media/uploads/2022/01/50-50-ChallengeDefault.jpg
 ---
 
 In celebration of ASE’s 50th anniversary, Federated Auto Parts is launching the yearlong Federated 50/50 Challenge promotion, awarding $50 per week for 50 weeks to both ASE-certified parts specialists and ASE-certified technicians.

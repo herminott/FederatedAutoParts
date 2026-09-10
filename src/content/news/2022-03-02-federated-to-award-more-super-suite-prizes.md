@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/03/02/federated-to-award-more-super-suite-prizes/
 wpId: 260
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated Auto Parts’ biggest rewards program just got bigger and better. The popular Federated Suite-Stakes program is back and with more chances to win more “super-suite” prizes, it was announced today by Phil Moore, senior vice president, of Federated Auto Parts.

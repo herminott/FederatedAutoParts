@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/01/02/60th-annual-koi-federated-cavalcade-of-customs-set-for-jan-10-12/
 wpId: 118
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The nation’s best custom car show has also become one of the country’s premier training expos. The 60th annual KOI Auto Parts-Federated Cavalcade of Customs, scheduled for Jan. 10-12 at the Duke Energy Convention Center in Cincinnati, promises to offer more training for professional service technicians and shop owners than ever before. The Cavalcade also features some of the coolest custom cars as well as a weekend filled with celebrity appearances and special events.

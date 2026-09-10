@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/12/21/understanding-a-joint-venture/
 wpId: 3071
 updatedDate: '2024-11-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/12/JointVenture.jpg
+featuredImage: /media/uploads/2022/12/JointVenture.jpg
 ---
 
 Until recently, I had never given a lot of thought to the meaning of a “joint venture.”

@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/08/09/christmas-in-july/
 wpId: 5988
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/ChristmasinJuly.jpg
+featuredImage: /media/uploads/2024/09/ChristmasinJuly.jpg
 ---
 
 I recently came across an article that mentioned Christmas in July and how this has become an added occasion that many people like to celebrate. Christmas in July can actually be on any given day during the month, but most celebrations do occur on July 25.

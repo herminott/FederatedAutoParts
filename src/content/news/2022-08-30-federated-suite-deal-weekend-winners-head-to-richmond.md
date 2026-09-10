@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/08/30/federated-suite-deal-weekend-winners-head-to-richmond/
 wpId: 299
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Two NASCAR races, go-karting with Kenny Schrader, and shuffleboard with Justin Allgaier were just some of the highlights for the grand prize winners of a special Suite Deal weekend awarded as part of the Federated Suite-Stakes program.

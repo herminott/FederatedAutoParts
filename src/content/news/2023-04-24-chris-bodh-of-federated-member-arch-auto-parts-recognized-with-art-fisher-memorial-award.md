@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/04/24/chris-bodh-of-federated-member-arch-auto-parts-recognized-with-art-fisher-memorial-award/
 wpId: 881
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/04/ArtFisher-Eric-Stills.jpg
+featuredImage: /media/uploads/2023/04/ArtFisher-Eric-Stills.jpg
 ---
 
 The Art Fisher Memorial Award, Federated’s most prestigious honor, was presented to Chris Bodh, owner, and CEO of Federated member Arch Auto Parts. Bodh received his award last month at The Group’s annual membership conference and expo held in National Harbor, Maryland.

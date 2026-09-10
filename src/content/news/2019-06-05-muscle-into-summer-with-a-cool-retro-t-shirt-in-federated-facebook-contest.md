@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/06/05/muscle-into-summer-with-a-cool-retro-t-shirt-in-federated-facebook-contest/
 wpId: 95
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 It’s that time of year, the return of “Federated T-Shirt Tuesdays” on Facebook. This summer, Federated will give away limited-edition Federated t-shirts featuring three classic muscle cars. Highlighting the Federated logo on the front, the back of the shirt has iconic images of a 1963 Chevy Corvette Split Window Coupe, a 1967 Ford Mustang GTA Fastback, and a 1968 Plymouth Hemi Roadrunner.

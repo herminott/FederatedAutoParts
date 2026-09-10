@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/11/20/spreading-holiday-cheer-the-group-launches-annual-toys-for-tots-drive/
 wpId: 3516
 updatedDate: '2023-11-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/11/ToysForTots.jpg
+featuredImage: /media/uploads/2022/11/ToysForTots.jpg
 ---
 
 For the 12th consecutive year, participating members of the Automotive Parts Services Group (The Group) are collecting toys and monetary donations for the U.S. Marine Corps Reserve Toys for Tots campaign.

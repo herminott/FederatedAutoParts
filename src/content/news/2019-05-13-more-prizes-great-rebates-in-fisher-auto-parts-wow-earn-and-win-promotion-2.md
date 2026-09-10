@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/05/13/more-prizes-great-rebates-in-fisher-auto-parts-wow-earn-and-win-promotion-2/
 wpId: 5947
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/Fed-Earn-Win90-Years.jpg
+featuredImage: /media/uploads/2024/09/Fed-Earn-Win90-Years.jpg
 ---
 
 In recognition of its 90th anniversary, Fisher Auto Parts is conducting its biggest promotion ever for its professional installer customers. The Fisher Auto Parts “WOW! Earn and Win!” promotion will offer a bigger earn-back rebate program and will award more prizes than any contest in Fisher history.

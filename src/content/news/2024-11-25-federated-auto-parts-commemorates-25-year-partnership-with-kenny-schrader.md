@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/11/25/federated-auto-parts-commemorates-25-year-partnership-with-kenny-schrader/
 wpId: 6243
 updatedDate: '2024-12-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/12/25-Year-Partnership.jpg
+featuredImage: /media/uploads/2024/12/25-Year-Partnership.jpg
 ---
 
 Federated Auto Parts recently recognized its 25-year partnership with NASCAR legend Kenny Schrader and the Ken Schrader Racing team during the Automotive Parts Services Group meeting in Las Vegas, Nevada.

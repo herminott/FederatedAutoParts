@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/09/22/outstanding-students-honored-with-federated-car-care-scholarships/
 wpId: 240
 updatedDate: '2025-07-24'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2021/09/CarCareScholarshipWin.jpg
+featuredImage: /media/uploads/2021/09/CarCareScholarshipWin.jpg
 ---
 
 Six students have been awarded Federated Car Care scholarships for the 2021-22 academic year.

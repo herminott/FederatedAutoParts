@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/07/28/congratulations-to-the-leadership-2-0scholarship-recipients-for-2021-22/
 wpId: 3097
 updatedDate: '2024-11-14'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 After a one-year hiatus due to the pandemic, we were so pleased to hear that Leadership 2.0 would be back for 2021. We are also pleased to announce that Federated will have three scholarship recipients this year.

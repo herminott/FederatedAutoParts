@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/02/15/phase-two-of-federated-50-50-video-challenge-begins/
 wpId: 5103
 updatedDate: '2024-04-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/01/50-50-ChallengeDefault.jpg
+featuredImage: /media/uploads/2022/01/50-50-ChallengeDefault.jpg
 ---
 
 The second phase of the Federated 50/50 Challenge has begun with 50 new “TechTalk Automotive Professionals 101” videos added to The Group Training Academy (TGTA) website. Participants who view all 50 videos in the 50-day window ending by April 4 will be eligible to win.

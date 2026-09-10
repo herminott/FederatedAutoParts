@@ -12,7 +12,7 @@ tags:
 sourceUrl: http://35.92.119.176.nip.io/2023/01/24/federated-free-fuel-fridays-returns-2/
 wpId: 313
 updatedDate: '2024-11-05'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/01/FreeFuelFridays.jpg
+featuredImage: /media/uploads/2023/01/FreeFuelFridays.jpg
 ---
 
 As gas prices continue to fluctuate, most motorists appreciate ways to save money at the pump. Federated Auto Parts has brought back its popular Free Fuel Fridays program that gives its Facebook followers a chance to win some free fuel.

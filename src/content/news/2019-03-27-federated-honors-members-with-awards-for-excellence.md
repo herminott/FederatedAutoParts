@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/03/27/federated-honors-members-with-awards-for-excellence/
 wpId: 76
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Federated honored three of its members for their exceptional commitment and support of the Federated Co-Man, marketing, and national accounts programs.

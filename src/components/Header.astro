@@ -15,7 +15,10 @@ function isActive(href: string) {
 
 <header class="site-header">
   <div class="container header-inner">
-    <a class="logo" href="/">Federated Auto Parts</a>
+    <a class="logo" href="/">
+      <img src="/media/brand/federated-logo.png" alt="Federated Auto Parts" width="160" height="40" />
+      <span class="logo-text">Federated Auto Parts</span>
+    </a>
 
     <button
       class="nav-toggle"
@@ -66,6 +69,9 @@ function isActive(href: string) {
   }
 
   .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65rem;
     font-family: var(--font-heading);
     font-weight: 700;
     font-size: 1.05rem;
@@ -75,8 +81,32 @@ function isActive(href: string) {
     white-space: nowrap;
   }
 
+  .logo img {
+    display: block;
+    height: 36px;
+    width: auto;
+  }
+
+  .logo-text {
+    /* keep text for a11y / fallback when image fails */
+  }
+
   .logo:hover {
     color: #ffd7dc;
+  }
+
+  @media (max-width: 520px) {
+    .logo-text {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
   }
 
   .primary-nav ul {

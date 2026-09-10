@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/05/20/the-return-to-an-in-person-meeting/
 wpId: 3079
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/InPersonMeeting.jpg
+featuredImage: /media/uploads/2023/05/InPersonMeeting.jpg
 ---
 
 The Automotive Parts Services Group kicked off its annual meeting on Monday, April 25 at the Gaylord Texan Hotel in Grapevine, Texas. This was our first “in-person” meeting since Covid.

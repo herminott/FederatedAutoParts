@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/04/13/delphi-named-co-man-vendor-of-the-year-by-the-group-2/
 wpId: 879
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/04/Co-Man-Delphi2023.jpg
+featuredImage: /media/uploads/2023/04/Co-Man-Delphi2023.jpg
 ---
 
 For the second-consecutive year, Delphi Technologies was honored as the Co-Man Vendor of the Year by the Automotive Parts Services Group (The Group). In addition, The Group selected Grote as its Order Fill-Co-Man Vendor of the Year. The awards were presented during The Group’s conference and expo in National Harbor, Maryland.

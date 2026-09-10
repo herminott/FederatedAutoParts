@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/04/13/country-music-star-clay-walker-to-perform-at-the-group-national-meeting/
 wpId: 202
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Country music star Clay Walker will perform an exclusive concert for the Automotive Parts Services Group (The Group) during its upcoming national conference and expo. The virtual performance, scheduled for Thursday, April 15, will only be available for members of The Group, vendor partners, and associates registered for the meeting.

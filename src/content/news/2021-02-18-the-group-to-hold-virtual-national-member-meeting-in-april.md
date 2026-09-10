@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/02/18/the-group-to-hold-virtual-national-member-meeting-in-april/
 wpId: 192
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 With a theme of “Go All In with The Group”, the Automotive Parts Services Group (The Group) will hold its national membership conference and expo on April 12-16. The virtual event will bring together members of Federated Auto Parts and the newly formed Pronto Automotive Distribution Network (The Pronto Network), as well as supplier partners and associates, in an online forum.

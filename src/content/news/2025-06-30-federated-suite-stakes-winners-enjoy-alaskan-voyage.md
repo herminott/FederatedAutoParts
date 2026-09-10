@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/06/30/federated-suite-stakes-winners-enjoy-alaskan-voyage/
 wpId: 7961
 updatedDate: '2025-07-01'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/07/FedSuite-StakesAlaskanVoyage.jpg
+featuredImage: /media/uploads/2025/07/FedSuite-StakesAlaskanVoyage.jpg
 ---
 
 Nearly 200 Federated Suite-Stakes winners, members, vendors and guests recently set sail on an Alaskan adventure. Longtime Federated spokesperson and NASCAR legend Kenny Schrader was on board the Norwegian Bliss to greet and celebrate with the contest winners.

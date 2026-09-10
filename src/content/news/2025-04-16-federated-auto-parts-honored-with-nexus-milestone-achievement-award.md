@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/04/16/federated-auto-parts-honored-with-nexus-milestone-achievement-award/
 wpId: 7828
 updatedDate: '2025-06-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/06/Nexus40thAnniversary.jpg
+featuredImage: /media/uploads/2025/06/Nexus40thAnniversary.jpg
 ---
 
 NEXUS Automotive International presented Federated Auto Parts with its Milestone Achievement Award in recognition of Federated’s 40th anniversary. The award was presented during the recent NEXUS Business Forum in Abu Dhabi.

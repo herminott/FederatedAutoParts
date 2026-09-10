@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/05/20/people-make-the-difference/
 wpId: 6006
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/10/Coffee-with-Larry.jpg
+featuredImage: /media/uploads/2024/10/Coffee-with-Larry.jpg
 ---
 
 Sue asked if I would write an article for this newsletter since she was traveling. I must admit that I did not want to agree since she is such a talented writer, and I would look very bad in her place. However, I did not want to disappoint her, so I agreed.

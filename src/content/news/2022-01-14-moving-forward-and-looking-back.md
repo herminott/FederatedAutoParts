@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/01/14/moving-forward-and-looking-back/
 wpId: 3087
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Moving into a new year always brings excitement. I am excited to work with Federated members and our manufacturer partners in 2022.

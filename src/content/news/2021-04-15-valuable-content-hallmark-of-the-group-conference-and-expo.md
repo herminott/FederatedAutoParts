@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/04/15/valuable-content-hallmark-of-the-group-conference-and-expo/
 wpId: 204
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 “We want to thank everyone who participated in our conference and expo,” said Larry Pavey, CEO, of Automotive Parts Services Group. “We had a record turnout for this year’s conference and have received very positive feedback, not only about the panels and informational sessions but also how the event was a productive business-building opportunity for our members and vendors alike.”

@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/01/15/fisher-auto-parts-acquires-pa-auto-parts/
 wpId: 7115
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/01/FisherAcquiresPnA-AutonTruckParts.jpg
+featuredImage: /media/uploads/2025/01/FisherAcquiresPnA-AutonTruckParts.jpg
 ---
 
 Fisher Auto Parts has acquired New Jersey-based P&A Auto Parts and its eight locations, it was announced today by Geoffrey Shifflett, area vice president of Fisher Auto Parts.

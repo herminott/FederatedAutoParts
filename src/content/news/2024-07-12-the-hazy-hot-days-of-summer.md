@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/07/12/the-hazy-hot-days-of-summer/
 wpId: 5983
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/HotDogDaysofSummer.jpg
+featuredImage: /media/uploads/2024/09/HotDogDaysofSummer.jpg
 ---
 
 Summer has officially arrived! June 20thwas not only the longest day of the year, but it also marked the beginning of summer 2024. In Virginia, summer arrived with extreme temperatures and little to no rainfall.

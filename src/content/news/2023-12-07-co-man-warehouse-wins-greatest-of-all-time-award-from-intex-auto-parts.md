@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/12/07/co-man-warehouse-wins-greatest-of-all-time-award-from-intex-auto-parts/
 wpId: 6030
 updatedDate: '2024-10-07'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/10/Greatest-of-All-Time.jpg
+featuredImage: /media/uploads/2024/10/Greatest-of-All-Time.jpg
 ---
 
 It was Boris Pasternak, a Russian writer and poet who said, “Surprise is the greatest gift which life can grant us.”

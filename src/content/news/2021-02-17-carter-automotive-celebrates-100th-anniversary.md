@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/02/17/carter-automotive-celebrates-100th-anniversary/
 wpId: 190
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated member Carter Automotive will celebrate its 100th anniversary with a series of special events throughout the year culminating in a Founder’s Day birthday party in October.

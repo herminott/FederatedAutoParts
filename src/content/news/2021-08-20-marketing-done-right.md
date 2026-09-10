@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/08/20/marketing-done-right/
 wpId: 3095
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Congratulations to the Federated marketing team on conducting a very successful Federated Suite-Stakes Promotion, which ran from March 1st through June 30th.

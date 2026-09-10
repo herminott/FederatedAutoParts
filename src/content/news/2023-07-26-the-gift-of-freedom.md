@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/07/26/the-gift-of-freedom/
 wpId: 3055
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/07/Gift-of-Freedom.jpg
+featuredImage: /media/uploads/2023/07/Gift-of-Freedom.jpg
 ---
 
 July is one of my favorite months. Growing up in the mountains of the South, some of my fondest childhood memories are of warm days, picnics, porch parties, fresh vegetables from the garden, surprise thunderstorms, and of course July 4 celebrations.

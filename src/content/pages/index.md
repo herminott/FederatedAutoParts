@@ -5,19 +5,19 @@ slug: federated-auto-parts
 sourceUrl: http://35.92.119.176.nip.io/
 wpId: 11
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/03/fed-membership.jpg
+featuredImage: /media/uploads/2023/03/fed-membership.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AutoSchlarship1.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/08/SSFPartnership.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/08/SeatheDay.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/07/FisherAutoAcquiresGenden.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/07/FedSuite-StakesAlaskanVoyage.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/07/ArtFisherMemorialAward.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2024/07/FuelYourSummerFun2024.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/06/FedMembersHonored.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/06/HoF-Gary-Bostic.jpg)
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/06/SuccessfulNationalMembership.jpg)
+![](/media/uploads/2022/08/AutoSchlarship1.jpg)
+![](/media/uploads/2025/08/SSFPartnership.jpg)
+![](/media/uploads/2025/08/SeatheDay.jpg)
+![](/media/uploads/2025/07/FisherAutoAcquiresGenden.jpg)
+![](/media/uploads/2025/07/FedSuite-StakesAlaskanVoyage.jpg)
+![](/media/uploads/2025/07/ArtFisherMemorialAward.jpg)
+![](/media/uploads/2024/07/FuelYourSummerFun2024.jpg)
+![](/media/uploads/2025/06/FedMembersHonored.jpg)
+![](/media/uploads/2025/06/HoF-Gary-Bostic.jpg)
+![](/media/uploads/2025/06/SuccessfulNationalMembership.jpg)
 
 ### [Federated Awards 2025-26 Art Fisher Memorial Scholarships](http://35.92.119.176.nip.io/2025/08/19/federated-awards-2025-26-art-fisher-memorial-scholarships/ "Federated Awards 2025-26 Art Fisher Memorial Scholarships")
 
@@ -101,7 +101,7 @@ With a theme of “We the People,” the Automotive Parts Services Group (The Gr
 
 # The Group Holds Successful National Membership Conference in Nation’s Capital
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/03/fed-membership.jpg)
+![](/media/uploads/2023/03/fed-membership.jpg)
 
 #### Our Mission
 
@@ -129,95 +129,95 @@ Years In Business
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-![John Doe](http://35.92.119.176.nip.io/wp-content/plugins/elementor/assets/images/placeholder.png)
+![John Doe](/media/plugins/elementor/assets/images/placeholder.png)
 
 John DoeCEO
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/dependable-distribution.jpg)
+![](/media/uploads/2023/08/dependable-distribution.jpg)
 
 #### Distribution
 
@@ -228,9 +228,9 @@ Federated is committed to exceeding expectations in value and quality while offe
 
 [Dependable Distribution](/dependable-distribution/)
 
-[![](http://35.92.119.176.nip.io/wp-content/uploads/2024/05/fed-link.jpg)](https://federatedlink.com/)
+[![](/media/uploads/2024/05/fed-link.jpg)](https://federatedlink.com/)
 
-[![](http://35.92.119.176.nip.io/wp-content/uploads/2025/04/FedLinkMobile.jpg)](https://federatedlink.com/)
+[![](/media/uploads/2025/04/FedLinkMobile.jpg)](https://federatedlink.com/)
 
 #### Proven Tools
 
@@ -252,7 +252,7 @@ Federated Link is Federated Auto Parts’ online parts ordering system. Federate
 
 # The Group Holds Successful National Membership Conference in Nation’s Capital
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/02/dependable-distribution.jpg)
+![](/media/uploads/2023/02/dependable-distribution.jpg)
 
 #### Our History
 

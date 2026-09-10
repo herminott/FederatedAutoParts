@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2022/04/11/the-group-membership-conference-to-feature-vince-poscente-as-keynote-speaker/
 wpId: 268
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/04/Vince-Poscente.jpg
+featuredImage: /media/uploads/2022/04/Vince-Poscente.jpg
 ---
 
 Nationally renowned speaker Vince Poscente will serve as the keynote speaker at the annual Automotive Parts Services Group (The Group) membership conference and expo. With a theme of “Meeting the Challenge,” the in-person event will be held April 25-28 at the Gaylord Texan Resort in Grapevine.

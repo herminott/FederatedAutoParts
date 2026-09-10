@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/05/01/hanson-distributing-company-joins-federated/
 wpId: 82
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated Auto Parts is pleased to welcome a new member, Hanson Distributing Company, who becomes the newest addition to take advantage of the support offered by Federated and the Automotive Parts Services Group.

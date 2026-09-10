@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/12/04/win-a-1963-corvette-stingray-diecast-in-federated-12-days-of-christmas-contest/
 wpId: 182
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated is celebrating the holidays by giving its Facebook followers the chance to win a limited-edition 1963 Corvette Stingray in the Federated “12 Days of Christmas” Facebook contest.

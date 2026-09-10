@@ -14,7 +14,7 @@ tags:
 sourceUrl: http://35.92.119.176.nip.io/2023/01/30/apply-now-for-federated-car-care-scholarships/
 wpId: 315
 updatedDate: '2025-01-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/01/ApplyToday.jpg
+featuredImage: /media/uploads/2023/01/ApplyToday.jpg
 ---
 
 Applications for the Federated Car Care Scholarship program for the 2023-24 school year are now being accepted at [AutomotiveScholarships.com](https://automotivescholarships.com/).

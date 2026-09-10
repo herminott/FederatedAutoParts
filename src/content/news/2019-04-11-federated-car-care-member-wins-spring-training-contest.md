@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2019/04/11/federated-car-care-member-wins-spring-training-contest/
 wpId: 78
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Bill Prater, the owner of Federated Car Care Center Forest Park Auto Repair in Cincinnati, Ohio, was chosen as the winner of the Federated Spring Training contest. Prater received a trip for two to Fort Myers, Florida where Prater attended two days of training courtesy of AVI and an exciting spring training baseball game between the Boston Red Sox and Pittsburgh Pirates.

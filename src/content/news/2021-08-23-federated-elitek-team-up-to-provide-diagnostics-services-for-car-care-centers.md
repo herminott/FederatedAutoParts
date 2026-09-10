@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/08/23/federated-elitek-team-up-to-provide-diagnostics-services-for-car-care-centers/
 wpId: 234
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Federated Auto Parts has partnered with Elitek Vehicle Services to provide mobile on-site diagnostic services for Federated Car Care Center customers.

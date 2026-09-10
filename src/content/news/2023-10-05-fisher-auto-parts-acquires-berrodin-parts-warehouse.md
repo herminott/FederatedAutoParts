@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/10/05/fisher-auto-parts-acquires-berrodin-parts-warehouse/
 wpId: 5937
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/10/FisherAutoAcquiresBerrodin.jpg
+featuredImage: /media/uploads/2023/10/FisherAutoAcquiresBerrodin.jpg
 ---
 
 Fisher Auto Parts has acquired longtime Federated Auto Parts member Berrodin Parts Warehouse, it was announced today by Herb Godschalk, president of Fisher Auto Parts.

@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/07/07/jason-scott-joins-the-group/
 wpId: 226
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Jason Scott has joined The Automotive Parts Services Group (The Group) purchasing team as executive vice president, of vendor relations and product strategy, it was announced today by Larry Pavey, CEO of The Group.

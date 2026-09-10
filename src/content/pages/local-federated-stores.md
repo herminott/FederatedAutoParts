@@ -5,14 +5,14 @@ slug: local-federated-stores
 sourceUrl: http://35.92.119.176.nip.io/local-federated-stores/
 wpId: 24
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2025/03/LocalFederatedStores.jpg)
+![](/media/uploads/2025/03/LocalFederatedStores.jpg)
 
 # Local Federated Stores
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/09/about-federated.jpg)
+![](/media/uploads/2023/09/about-federated.jpg)
 
 #### About Federated
 

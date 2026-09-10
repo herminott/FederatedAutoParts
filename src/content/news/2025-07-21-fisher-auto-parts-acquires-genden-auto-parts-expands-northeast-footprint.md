@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/07/21/fisher-auto-parts-acquires-genden-auto-parts-expands-northeast-footprint/
 wpId: 7990
 updatedDate: '2025-07-24'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/07/FisherAutoAcquiresGenden.jpg
+featuredImage: /media/uploads/2025/07/FisherAutoAcquiresGenden.jpg
 ---
 
 Fisher Auto Parts has announced the acquisition of Genden Auto Parts, a second-generation family business with over 70 years of service. This acquisition significantly strengthens Fisher Auto Parts’ presence in the New England market.

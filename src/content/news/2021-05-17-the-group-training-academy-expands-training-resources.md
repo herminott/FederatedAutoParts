@@ -14,7 +14,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/05/17/the-group-training-academy-expands-training-resources/
 wpId: 214
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 Following the recent merger of National Pronto Association and the Automotive Distribution Network to form The Pronto Network, The Group Training Academy (TGTA) has added the training offerings from The Network Academy to its popular web portal. The new and improved [TheGroupTrainingAcademy.com](http://www.thegrouptrainingacademy.com) now provides more online training courses and resources than any other training option in the aftermarket.

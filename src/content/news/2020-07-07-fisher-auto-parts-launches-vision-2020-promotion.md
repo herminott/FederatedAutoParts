@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/07/07/fisher-auto-parts-launches-vision-2020-promotion/
 wpId: 150
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/FisherDefault.jpg
+featuredImage: /media/uploads/2023/02/FisherDefault.jpg
 ---
 
 The new Fisher Auto Parts Vision 2020 promotion offers Fisher customers more ways to win new, exciting prizes with even larger rebate potential. Now through September 30, Fisher professional installer customers can win a wide array of prizes, including Apple® watches, iPads®, televisions, and Polaris® off-road vehicles, plus the grand prize, the choice of a Chevrolet® Silverado® or a boat.

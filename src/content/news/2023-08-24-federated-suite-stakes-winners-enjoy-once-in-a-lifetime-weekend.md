@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/08/24/federated-suite-stakes-winners-enjoy-once-in-a-lifetime-weekend/
 wpId: 5935
 updatedDate: '2024-11-11'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/08/OnceinaLifetime.jpg
+featuredImage: /media/uploads/2023/08/OnceinaLifetime.jpg
 ---
 
 A baseball game at Busch Stadium, an incredible World of Outlaws race and a “Get Dirty with Kenny” driving experience were just some of the highlights that the grand prize winners in the Federated Suite-Stakes contest enjoyed during their ultimate weekend in St. Louis earlier this month.

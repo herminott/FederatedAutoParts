@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/03/17/federated-adds-title-sponsorship-of-world-of-outlaws-races-to-season-schedule/
 wpId: 7818
 updatedDate: '2025-06-12'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2025/06/MoreWorldofOutlaws.jpg
+featuredImage: /media/uploads/2025/06/MoreWorldofOutlaws.jpg
 ---
 
 Federated Auto Parts has added the title sponsorship of six World of Outlaws races this season, starting with the Cotton Bowl Speedway held March 21-22 in Texas.

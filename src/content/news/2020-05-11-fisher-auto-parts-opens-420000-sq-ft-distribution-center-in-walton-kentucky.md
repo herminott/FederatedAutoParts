@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/05/11/fisher-auto-parts-opens-420000-sq-ft-distribution-center-in-walton-kentucky/
 wpId: 138
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/02/FisherDefault.jpg
+featuredImage: /media/uploads/2023/02/FisherDefault.jpg
 ---
 
 Herb Godschalk, president of Fisher Auto Parts, announced the purchase and partial construction of a 420,000 sq. ft. automated distribution center in Walton, Kentucky.

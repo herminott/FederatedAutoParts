@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/03/21/the-group-moves-membership-conference-to-november-in-support-of-industry-week-right-to-repair/
 wpId: 5890
 updatedDate: '2024-07-03'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/07/TheGroupLogo.jpg
+featuredImage: /media/uploads/2024/07/TheGroupLogo.jpg
 ---
 
 The Automotive Parts Services Group (The Group) has moved its 2024 membership conference to November to be held in conjunction with the AAPEX Show and the AWDA Business Conference in Las Vegas.

@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2020/08/26/federated-members-honored-for-excellence/
 wpId: 166
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2022/08/AwardsDefault.jpg
+featuredImage: /media/uploads/2022/08/AwardsDefault.jpg
 ---
 
 Federated Auto Parts has recognized three of its members for their outstanding commitment to the success of key Federated programs. The awards were announced at the recent Automotive Parts Services Group (The Group) national conference and expo held virtually Aug. 18-21.

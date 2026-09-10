@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/03/22/amn-women-at-the-wheel-interview-with-donna-hull/
 wpId: 6118
 updatedDate: '2024-11-01'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/WATW-DonnaHull.jpg
+featuredImage: /media/uploads/2024/11/WATW-DonnaHull.jpg
 ---
 
 **How did you begin your career in the aftermarket?**

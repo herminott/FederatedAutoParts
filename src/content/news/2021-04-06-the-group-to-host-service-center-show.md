@@ -11,7 +11,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2021/04/06/the-group-to-host-service-center-show/
 wpId: 198
 updatedDate: '2023-08-08'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
 The Automotive Parts Services Group (The Group) service center customers, including Federated Car Care, Pronto Smart Choice, and Parts Plus Car Care Centers, are invited to attend the Service Center Show, which is being conducted as part of The Group’s national membership conference and expo. The show will be conducted on Friday, April 16 from 9:00 a.m. until 4:00 p.m. CT.

@@ -12,7 +12,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2025/01/30/federated-continues-sponsorship-of-dirtcar-nationals-world-of-outlaws/
 wpId: 7149
 updatedDate: '2025-03-04'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/01/DirtcarNationals.jpg
+featuredImage: /media/uploads/2024/01/DirtcarNationals.jpg
 ---
 
 For the third consecutive year, Federated Auto Parts will sponsor the World of Outlaws DIRTcar Nationals in February, along with select World of Outlaws races during the 2025 season. In addition, Federated will sponsor the World of Outlaws work area and be a prominent associate sponsor on Shark Racing’s No. 1 sprint car, driven by Logan Schuchart.

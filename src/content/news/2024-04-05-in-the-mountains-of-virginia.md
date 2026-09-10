@@ -10,7 +10,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2024/04/05/in-the-mountains-of-virginia/
 wpId: 5977
 updatedDate: '2024-10-18'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/09/MountainsofVirginia.jpg
+featuredImage: /media/uploads/2024/09/MountainsofVirginia.jpg
 ---
 
 As many of you know, I grew up in the rural mountains of Virginia. The only child of two hard-working parents, we were probably poor by today’s standards, but my parents always made it seem like we were just as well off as anyone.

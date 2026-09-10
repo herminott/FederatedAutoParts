@@ -5,10 +5,10 @@ slug: guarantee-programs
 sourceUrl: http://35.92.119.176.nip.io/guarantee-programs/
 wpId: 20
 draft: false
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/05/DefaultPostImage.jpg
+featuredImage: /media/uploads/2023/05/DefaultPostImage.jpg
 ---
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/GuaranteeProgram.jpg)
+![](/media/uploads/2023/08/GuaranteeProgram.jpg)
 
 # Guarantee Programs
 
@@ -18,11 +18,11 @@ In today’s aggressive marketplace it is difficult and expensive to acquire new
 
 Your customers will appreciate knowing that they will have a warranty on the repairs performed no matter where they are, and you will be at ease knowing that if a problem does arise for them, it can easily be taken care of. Federated Auto Parts has a network of associated facilities, which offer warranted repairs, to help the customer in their time of need. We will locate the closest facility for your customers and assist them with getting their vehicle in for an evaluation.
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/NationwideRepair.jpg)
+![](/media/uploads/2023/08/NationwideRepair.jpg)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/NationwideRepairBadge.jpg)
+![](/media/uploads/2023/08/NationwideRepairBadge.jpg)
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/08/RoadsideAssistance.jpg)
+![](/media/uploads/2023/08/RoadsideAssistance.jpg)
 
 #### Roadside Assistance
 
@@ -47,11 +47,11 @@ The Federated Labor Assurance Program covers labor reimbursement inside the 25-m
 
 Claims are administered by Automotive Business Solutions, the provider of our Nationwide Repair Warranty, Roadside Assistance, and Road Hazard Programs. Your shop must be enrolled in both the Federated Car Care and Nationwide Repair Warranty programs to eligible to participate.
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/03/fed-membership.jpg)
+![](/media/uploads/2023/03/fed-membership.jpg)
 
 # Guarantee Programs
 
-![](http://35.92.119.176.nip.io/wp-content/uploads/2023/09/about-federated.jpg)
+![](/media/uploads/2023/09/about-federated.jpg)
 
 #### Steady Progress
 

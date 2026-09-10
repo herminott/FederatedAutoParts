@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/04/03/celebrating-success-the-group-recognizes-top-vendor-partners-at-national-meeting/
 wpId: 875
 updatedDate: '2023-08-28'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/04/The-Group-Recognizes-Top-Vendor.jpg
+featuredImage: /media/uploads/2023/04/The-Group-Recognizes-Top-Vendor.jpg
 ---
 
 In the spirit of celebration and collaboration, the Automotive Parts Services Group (The Group) recognized its top vendor partners during a special awards ceremony held at The Group’s annual membership conference and expo in National Harbor, Maryland.

@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/04/18/fisher-auto-parts-acquires-bagnell-auto-supply/
 wpId: 5945
 updatedDate: '2025-01-30'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2023/04/FisherAutoAcquiresBagnellAuto.jpg
+featuredImage: /media/uploads/2023/04/FisherAutoAcquiresBagnellAuto.jpg
 ---
 
 Fisher Auto Parts has acquired Massachusetts-based Bagnell Auto Supply, it was announced today by Herb Godschalk, president of Fisher Auto Parts.

@@ -13,7 +13,7 @@ tags: []
 sourceUrl: http://35.92.119.176.nip.io/2023/01/18/the-group-training-academy-adds-new-training-and-research-center/
 wpId: 6134
 updatedDate: '2024-11-06'
-featuredImage: http://35.92.119.176.nip.io/wp-content/uploads/2024/11/TrainingCenterAcademy.jpg
+featuredImage: /media/uploads/2024/11/TrainingCenterAcademy.jpg
 ---
 
 The Automotive Parts Services Group (The Group) and Automotive Video Innovations (AVI) have established The Group Training Academy Training and Research Center at AVI headquarters in Fort Myers, Florida.
