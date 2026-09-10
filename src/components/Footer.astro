@@ -2,162 +2,137 @@
 import { withBase } from '../lib/withBase';
 
 const year = new Date().getFullYear();
-const base = import.meta.env.BASE_URL;
 ---
 
 <footer class="site-footer">
-  <div class="container footer-grid">
-    <div>
-      <a class="footer-brand" href={base}>Federated Auto Parts</a>
-      <p class="footer-blurb">
-        Supporting independent auto parts distributors with quality brands,
-        programs, training, and local expertise nationwide.
+  <div class="container footer-stats">
+    <article class="stat-card">
+      <h3>Hundreds of Warehouses</h3>
+      <p>Over 150 warehouse distribution centers nationwide allows us to get parts to you fast!</p>
+    </article>
+    <article class="stat-card">
+      <h3>Thousands of Locations</h3>
+      <p>Supporting thousands of Federated locations, providing quality name brand parts.</p>
+    </article>
+    <article class="stat-card">
+      <h3>Millions of Catalog Parts</h3>
+      <p>Over 1.4 million SKUs in our online catalog system. We have the parts you need.</p>
+    </article>
+  </div>
+
+  <div class="footer-tagline">
+    <div class="container">
+      <p>
+        Providing world class distribution, marketing tools and reliable auto parts and
+        accessories for over 30 years!
       </p>
-      <p class="footer-hq">
-        <strong>Headquarters</strong><br />
-        Federated Auto Parts<br />
-        Staunton, Virginia
-      </p>
-      <p class="footer-hq-link">
-        <a href={withBase('/federated-headquarters/')}>Contact headquarters →</a>
-      </p>
-    </div>
-    <div>
-      <p class="footer-heading">Company</p>
-      <ul>
-        <li><a href={withBase('/about-federated/')}>About Federated</a></li>
-        <li><a href={withBase('/federated-membership/')}>Membership</a></li>
-        <li><a href={withBase('/our-history-of-success/')}>History</a></li>
-        <li><a href={withBase('/quality-parts/')}>Quality Parts</a></li>
-        <li><a href={withBase('/dependable-distribution/')}>Distribution</a></li>
-        <li><a href={withBase('/guarantee-programs/')}>Guarantees</a></li>
-      </ul>
-    </div>
-    <div>
-      <p class="footer-heading">Explore</p>
-      <ul>
-        <li><a href={withBase('/news/')}>News</a></li>
-        <li><a href={withBase('/find-a-store/')}>Find a Store</a></li>
-        <li><a href={withBase('/federated-headquarters/')}>Headquarters</a></li>
-        <li><a href={withBase('/vendor-hall-of-fame/')}>Vendor Hall of Fame</a></li>
-        <li><a href={withBase('/professional-training/')}>Training</a></li>
-        <li><a href={withBase('/online-resources/')}>Online Resources</a></li>
-      </ul>
-    </div>
-    <div>
-      <p class="footer-heading">Legal</p>
-      <ul>
-        <li><a href={withBase('/terms-and-conditions/')}>Terms &amp; Conditions</a></li>
-        <li><a href={withBase('/privacy-policy/')}>Privacy Policy</a></li>
-      </ul>
     </div>
   </div>
+
   <div class="container footer-bottom">
-    <p>&copy; {year} Federated Auto Parts. All rights reserved.</p>
+    <p>
+      &copy; {year} Federated Auto Parts
+      <span aria-hidden="true"> | </span>
+      <a href={withBase('/terms-and-conditions/')}>Terms &amp; Conditions</a>
+      <span aria-hidden="true"> | </span>
+      <a href={withBase('/privacy-policy/')}>Privacy Policy</a>
+    </p>
+    <p class="footer-links">
+      <a href={withBase('/federated-headquarters/')}>Headquarters</a>
+      <a href={withBase('/find-a-store/')}>Find a Store</a>
+      <a href={withBase('/news/')}>News</a>
+      <a href={withBase('/about-federated/')}>About</a>
+    </p>
   </div>
 </footer>
 
 <style>
   .site-footer {
-    background: var(--color-navy-deep);
-    color: rgba(255, 255, 255, 0.85);
-    padding: 3.25rem 0 1.5rem;
+    background: var(--color-off-white);
+    color: var(--color-gray-700);
     margin-top: auto;
+    border-top: 1px solid var(--color-gray-200);
   }
 
-  .footer-grid {
+  .footer-stats {
     display: grid;
-    grid-template-columns: 1.6fr 1fr 1fr 0.9fr;
-    gap: 2rem;
-    margin-bottom: 2rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
+    padding: 3rem 0 2rem;
   }
 
-  .footer-brand {
-    display: inline-block;
-    font-family: var(--font-heading);
-    font-weight: 700;
-    font-size: 1.15rem;
-    color: var(--color-white);
-    margin: 0 0 0.75rem;
-    text-decoration: none;
+  .stat-card {
+    background: var(--color-white);
+    border: 1px solid var(--color-gray-200);
+    border-radius: var(--radius);
+    padding: 1.35rem 1.4rem;
+    box-shadow: var(--shadow);
   }
 
-  .footer-brand:hover {
-    color: #ffd7dc;
+  .stat-card h3 {
+    margin: 0 0 0.55rem;
+    font-size: 1.05rem;
+    color: var(--color-blue);
   }
 
-  .footer-blurb {
-    margin: 0 0 1.25rem;
-    max-width: 28rem;
-    color: rgba(255, 255, 255, 0.75);
-  }
-
-  .footer-hq {
+  .stat-card p {
     margin: 0;
+    color: var(--color-gray-700);
     font-size: 0.95rem;
-    color: rgba(255, 255, 255, 0.7);
-    line-height: 1.5;
   }
 
-  .footer-hq strong {
+  .footer-tagline {
+    background: var(--color-blue);
     color: var(--color-white);
+    padding: 1.5rem 0;
+    text-align: center;
   }
 
-  .footer-hq-link {
-    margin: 0.65rem 0 0;
-  }
-
-  .footer-heading {
-    font-family: var(--font-heading);
-    font-weight: 700;
-    color: var(--color-white);
-    margin: 0 0 0.85rem;
-    font-size: 0.95rem;
-    letter-spacing: 0.02em;
-  }
-
-  .site-footer ul {
-    list-style: none;
+  .footer-tagline p {
     margin: 0;
-    padding: 0;
-  }
-
-  .site-footer li + li {
-    margin-top: 0.45rem;
-  }
-
-  .site-footer a {
-    color: rgba(255, 255, 255, 0.8);
-    text-decoration: none;
-    font-size: 0.95rem;
-  }
-
-  .site-footer a:hover {
-    color: #ffd7dc;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    line-height: 1.45;
+    max-width: 52rem;
+    margin-inline: auto;
   }
 
   .footer-bottom {
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    padding-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem 1.5rem;
+    padding: 1.1rem 0 1.35rem;
   }
 
   .footer-bottom p {
     margin: 0;
-    font-size: 0.9rem;
-    color: rgba(255, 255, 255, 0.55);
+    font-size: 0.92rem;
+    color: var(--color-gray-500);
   }
 
-  @media (max-width: 900px) {
-    .footer-grid {
-      grid-template-columns: 1fr 1fr;
-      gap: 1.75rem;
-    }
+  .footer-bottom a {
+    color: var(--color-blue);
+    text-decoration: none;
+    font-weight: 600;
   }
 
-  @media (max-width: 560px) {
-    .footer-grid {
+  .footer-bottom a:hover {
+    color: var(--color-orange);
+  }
+
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.85rem 1.1rem;
+  }
+
+  @media (max-width: 800px) {
+    .footer-stats {
       grid-template-columns: 1fr;
-      gap: 1.5rem;
+      padding-top: 2rem;
     }
   }
 </style>

@@ -4,11 +4,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsCard from '../components/NewsCard.astro';
 import { withBase } from '../lib/withBase';
 
-const posts = (await getCollection('news', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 6);
+const allPosts = (await getCollection('news', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const featured = allPosts[0];
+const posts = allPosts.slice(0, 6);
 
-const heroImage = withBase('/media/brand/about-federated.jpg');
+const featuredImage = featured?.data.featuredImage
+  ? withBase(featured.data.featuredImage)
+  : withBase('/media/brand/about-federated.jpg');
+const featuredDate = featured
+  ? featured.data.pubDate.toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    })
+  : '';
+
 const props = [
   {
     badge: 'Membership',
@@ -41,32 +53,57 @@ const props = [
 ];
 ---
 
-<BaseLayout title="Home" description="Federated Auto Parts connects independent distributors with quality automotive parts, programs, and local support.">
-  <section class="hero hero-with-image">
-    <div class="hero-bg" style={`background-image: url('${heroImage}')`} aria-hidden="true"></div>
-    <div class="container hero-content">
-      <span class="hero-eyebrow">Independent. Local. Trusted.</span>
-      <h1>Quality parts. Strong programs. Local expertise.</h1>
-      <p>
-        Federated Auto Parts partners with independent distributors nationwide to
-        deliver name-brand parts, guarantees, training, and the neighborhood service
-        professional technicians rely on.
-      </p>
-      <div class="hero-actions">
-        <a class="btn btn-primary" href={withBase('/find-a-store/')}>Find a Store</a>
-        <a class="btn btn-secondary" href={withBase('/about-federated/')}>About Federated</a>
-        <a class="btn btn-secondary" href={withBase('/news/')}>Latest News</a>
-      </div>
-    </div>
-  </section>
+<BaseLayout
+  title="Home"
+  description="Federated Auto Parts connects independent distributors with quality automotive parts, programs, and local support."
+>
+  {
+    featured && (
+      <section class="section home-feature-wrap">
+        <div class="container">
+          <article class="home-feature">
+            <a class="home-feature-media" href={withBase(`/news/${featured.data.slug}/`)}>
+              <img src={featuredImage} alt="" width="720" height="480" />
+            </a>
+            <div class="home-feature-body">
+              <h1>
+                <a href={withBase(`/news/${featured.data.slug}/`)}>{featured.data.title}</a>
+              </h1>
+              <p class="home-feature-date">
+                <time datetime={featured.data.pubDate.toISOString()}>{featuredDate}</time>
+              </p>
+              <p class="home-feature-excerpt">{featured.data.description}</p>
+              <p>
+                <a class="read-release" href={withBase(`/news/${featured.data.slug}/`)}>
+                  Read Release →
+                </a>
+              </p>
+              {
+                featured.data.categories.length > 0 && (
+                  <p class="home-feature-tags">
+                    {featured.data.categories.map((c) => c.replace(/-/g, ' ')).join(', ')}
+                  </p>
+                )
+              }
+              <div class="home-feature-actions">
+                <a class="btn btn-primary" href={withBase('/find-a-store/')}>Find a Store</a>
+                <a class="btn btn-outline" href={withBase('/about-federated/')}>About Federated</a>
+                <a class="btn btn-outline" href={withBase('/news/')}>Latest News</a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+    )
+  }
 
-  <section class="section">
+  <section class="section section-alt">
     <div class="container">
       <div class="section-header">
         <h2>Why Federated</h2>
         <p>
-          Membership, quality parts, dependable distribution, and training — the
-          same pillars that define Federated on the live network.
+          Membership, quality parts, dependable distribution, and training — the same
+          pillars featured across the Federated network.
         </p>
       </div>
       <div class="value-grid">
@@ -89,7 +126,7 @@ const props = [
     </div>
   </section>
 
-  <section class="section section-alt">
+  <section class="section">
     <div class="container">
       <div class="section-header section-header-row">
         <div>
@@ -117,32 +154,93 @@ const props = [
 </BaseLayout>
 
 <style>
-  .hero-with-image {
-    position: relative;
-    overflow: hidden;
-    padding: 5rem 0 4.5rem;
-  }
-
-  .hero-bg {
-    position: absolute;
-    inset: 0;
-    background-size: cover;
-    background-position: center;
-    transform: scale(1.02);
-  }
-
-  .hero-bg::after {
-    content: '';
-    position: absolute;
-    inset: 0;
+  .home-feature-wrap {
+    padding-top: 2.25rem;
+    padding-bottom: 1rem;
     background:
-      linear-gradient(110deg, rgba(7, 21, 40, 0.92) 0%, rgba(11, 31, 58, 0.82) 48%, rgba(200, 16, 46, 0.45) 100%);
+      radial-gradient(circle at 10% 0%, rgba(0, 97, 170, 0.06), transparent 40%),
+      var(--color-white);
   }
 
-  .hero-content {
-    position: relative;
-    z-index: 1;
-    max-width: 44rem;
+  .home-feature {
+    display: grid;
+    grid-template-columns: 1.05fr 1fr;
+    gap: 0;
+    border-radius: calc(var(--radius) + 4px);
+    overflow: hidden;
+    border: 1px solid var(--color-gray-200);
+    background: var(--color-white);
+    box-shadow: var(--shadow);
+  }
+
+  .home-feature-media {
+    display: block;
+    min-height: 320px;
+    background: var(--color-blue);
+  }
+
+  .home-feature-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .home-feature-body {
+    padding: 1.75rem 1.75rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+  }
+
+  .home-feature-body h1 {
+    font-size: clamp(1.45rem, 2.4vw, 1.9rem);
+    margin: 0;
+  }
+
+  .home-feature-body h1 a {
+    color: var(--color-blue);
+    text-decoration: none;
+  }
+
+  .home-feature-body h1 a:hover {
+    color: var(--color-orange);
+  }
+
+  .home-feature-date {
+    margin: 0;
+    color: var(--color-gray-500);
+    font-size: 0.95rem;
+  }
+
+  .home-feature-excerpt {
+    margin: 0;
+    color: var(--color-gray-700);
+    flex: 1;
+  }
+
+  .read-release {
+    color: var(--color-orange);
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .read-release:hover {
+    color: var(--color-orange-dark);
+  }
+
+  .home-feature-tags {
+    margin: 0.35rem 0 0;
+    color: var(--color-gray-400);
+    font-size: 0.85rem;
+    text-transform: capitalize;
+  }
+
+  .home-feature-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 0.75rem;
   }
 
   .value-grid {
@@ -166,14 +264,14 @@ const props = [
   }
 
   .value-card:hover {
-    border-color: var(--color-red);
-    box-shadow: 0 14px 32px rgba(11, 31, 58, 0.14);
+    border-color: var(--color-orange);
+    box-shadow: 0 14px 32px rgba(0, 97, 170, 0.14);
     transform: translateY(-2px);
   }
 
   .value-card-media {
     aspect-ratio: 16 / 9;
-    background: var(--color-navy);
+    background: var(--color-blue);
     overflow: hidden;
   }
 
@@ -213,13 +311,18 @@ const props = [
     margin-bottom: 0.35rem;
   }
 
-  @media (max-width: 768px) {
-    .value-grid {
+  @media (max-width: 860px) {
+    .home-feature {
       grid-template-columns: 1fr;
     }
 
-    .hero-with-image {
-      padding: 3.5rem 0 3rem;
+    .home-feature-media {
+      min-height: 220px;
+      aspect-ratio: 16 / 10;
+    }
+
+    .value-grid {
+      grid-template-columns: 1fr;
     }
   }
 </style>

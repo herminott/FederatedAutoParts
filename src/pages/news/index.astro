@@ -14,15 +14,21 @@ const categories = [...new Set(posts.flatMap((p) => p.data.categories))]
 ---
 
 <BaseLayout title="News" description="News and updates from Federated Auto Parts.">
-  <section class="page-hero">
+  <section class="page-hero angled centered">
     <div class="container">
-      <h1>News</h1>
-      <p>Announcements, member stories, awards, and industry updates from Federated Auto Parts.</p>
+      <h1>Federated News</h1>
+      <p>Announcements, member stories, awards, and industry updates.</p>
     </div>
   </section>
 
-  <section class="section">
+  <section class="section news-section">
     <div class="container">
+      <form class="news-search" action={withBase('/news/')} method="get" role="search">
+        <label class="sr-only" for="news-q">Search news</label>
+        <input id="news-q" type="search" name="q" placeholder="Search Here" />
+        <button type="submit" aria-label="Search">Search</button>
+      </form>
+
       {
         categories.length > 0 && (
           <div class="category-chips" aria-label="News categories">
@@ -49,3 +55,9 @@ const categories = [...new Set(posts.flatMap((p) => p.data.categories))]
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .news-section {
+    padding-top: 0.5rem;
+  }
+</style>

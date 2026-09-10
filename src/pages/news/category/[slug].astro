@@ -33,15 +33,14 @@ const allCategories = [
   title={`${label} | News`}
   description={`Federated Auto Parts news in ${label}.`}
 >
-  <section class="page-hero">
+  <section class="page-hero angled centered">
     <div class="container">
-      <p class="hero-eyebrow">News</p>
       <h1>{label}</h1>
       <p>{posts.length} article{posts.length === 1 ? '' : 's'} in this category.</p>
     </div>
   </section>
 
-  <section class="section">
+  <section class="section" style="padding-top: 0.5rem;">
     <div class="container">
       <div class="category-chips" aria-label="News categories">
         <a class="chip" href={withBase('/news/')}>All</a>
