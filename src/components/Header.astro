@@ -58,8 +58,9 @@ const nav: NavItem[] = [
   },
   {
     label: 'Contact',
-    href: withBase('/federated-headquarters/'),
+    href: withBase('/contact/'),
     children: [
+      { href: withBase('/contact/'), label: 'Contact Form' },
       { href: withBase('/federated-headquarters/'), label: 'Federated Headquarters' },
       { href: withBase('/find-a-store/'), label: 'Local Federated Stores' },
       { href: 'https://www.federatedcc.com/locations.html', label: 'Local Car Care Centers', external: true },

@@ -1,0 +1,468 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/withBase';
+
+/**
+ * Contact form (UI only).
+ *
+ * To wire real delivery later (Formspree / Web3Forms):
+ * 1. Set PUBLIC_FORM_ENDPOINT (or hardcode action) to the provider URL.
+ * 2. Optionally set data-form-provider + data-form-key on #contact-form.
+ * 3. Remove / adjust the preview-only submit handler in the page script.
+ * See README “Contact form” section.
+ */
+const formEndpoint = import.meta.env.PUBLIC_FORM_ENDPOINT ?? '';
+---
+
+<BaseLayout
+  title="Contact"
+  description="Contact Federated Auto Parts headquarters in Staunton, Virginia. Send a message or find a local store."
+>
+  <section class="page-hero">
+    <div class="container">
+      <h1>Contact Us</h1>
+      <p>
+        Questions about Federated membership, programs, or partnership? Send a
+        message below, or reach headquarters in Staunton, Virginia.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container contact-layout">
+      <div class="contact-main">
+        <div
+          id="contact-status"
+          class="contact-status"
+          role="status"
+          aria-live="polite"
+          tabindex="-1"
+          hidden
+        ></div>
+
+        <form
+          id="contact-form"
+          class="contact-form"
+          method="post"
+          action={formEndpoint || undefined}
+          data-form-provider={formEndpoint ? 'configured' : 'preview'}
+          data-form-endpoint={formEndpoint || ''}
+          data-formspree-id=""
+          data-web3forms-key=""
+          novalidate
+        >
+          {/* Honeypot — leave empty; wire into spam filtering when backend is connected */}
+          <div class="hp" aria-hidden="true">
+            <label for="contact-company">Company</label>
+            <input
+              type="text"
+              id="contact-company"
+              name="company"
+              tabindex="-1"
+              autocomplete="off"
+            />
+          </div>
+
+          <div class="field">
+            <label for="contact-name">
+              Name <span class="req" aria-hidden="true">*</span>
+            </label>
+            <input
+              type="text"
+              id="contact-name"
+              name="name"
+              autocomplete="name"
+              required
+              aria-required="true"
+            />
+            <p class="field-error" id="error-name" hidden></p>
+          </div>
+
+          <div class="field">
+            <label for="contact-email">
+              Email <span class="req" aria-hidden="true">*</span>
+            </label>
+            <input
+              type="email"
+              id="contact-email"
+              name="email"
+              autocomplete="email"
+              required
+              aria-required="true"
+              inputmode="email"
+            />
+            <p class="field-error" id="error-email" hidden></p>
+          </div>
+
+          <div class="field">
+            <label for="contact-phone">
+              Phone <span class="optional">(optional)</span>
+            </label>
+            <input
+              type="tel"
+              id="contact-phone"
+              name="phone"
+              autocomplete="tel"
+              inputmode="tel"
+            />
+          </div>
+
+          <div class="field">
+            <label for="contact-subject">Subject</label>
+            <select id="contact-subject" name="subject">
+              <option value="General inquiry">General inquiry</option>
+              <option value="Membership">Membership</option>
+              <option value="Vendor / supplier">Vendor / supplier</option>
+              <option value="Media / press">Media / press</option>
+              <option value="Careers">Careers</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="contact-message">
+              Message <span class="req" aria-hidden="true">*</span>
+            </label>
+            <textarea
+              id="contact-message"
+              name="message"
+              rows="6"
+              required
+              aria-required="true"
+            ></textarea>
+            <p class="field-error" id="error-message" hidden></p>
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" class="btn btn-primary" id="contact-submit">
+              Send message
+            </button>
+            <p class="form-note">
+              Preview mode: this form does not send email yet.
+            </p>
+          </div>
+        </form>
+      </div>
+
+      <aside class="contact-aside" aria-labelledby="hq-heading">
+        <div class="aside-card">
+          <h2 id="hq-heading">Federated Headquarters</h2>
+          <p class="aside-lead">
+            Headquartered in Staunton, Virginia — at the crossroads of I-81 and
+            I-64 in the Shenandoah Valley.
+          </p>
+          <address class="hq-address">
+            <strong>Federated Auto Parts</strong><br />
+            Staunton, VA<br />
+            <a href="tel:+15408858460">(540) 885-8460</a>
+          </address>
+          <p class="aside-links">
+            <a class="btn btn-outline" href={withBase('/federated-headquarters/')}>
+              Headquarters page
+            </a>
+            <a class="btn btn-outline" href={withBase('/find-a-store/')}>
+              Find a Store
+            </a>
+          </p>
+        </div>
+        <div class="aside-media">
+          <img
+            src={withBase('/media/uploads/2024/04/stauton-va.jpg')}
+            alt="Staunton, Virginia"
+            width="640"
+            height="400"
+            loading="lazy"
+          />
+        </div>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .contact-layout {
+    display: grid;
+    grid-template-columns: 1.35fr 1fr;
+    gap: 1.75rem;
+    align-items: start;
+  }
+
+  .contact-main {
+    background: var(--color-white);
+    border: 1px solid var(--color-gray-200);
+    border-radius: calc(var(--radius) + 2px);
+    box-shadow: var(--shadow);
+    padding: 1.5rem 1.5rem 1.75rem;
+  }
+
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+
+  .field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .field label {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: var(--color-blue);
+  }
+
+  .req {
+    color: var(--color-orange);
+  }
+
+  .optional {
+    color: var(--color-gray-500);
+    font-weight: 500;
+    font-size: 0.85rem;
+  }
+
+  .field input,
+  .field select,
+  .field textarea {
+    width: 100%;
+    padding: 0.75rem 0.9rem;
+    border: 1px solid var(--color-gray-200);
+    border-radius: 8px;
+    font: inherit;
+    color: var(--color-gray-900);
+    background: var(--color-white);
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .field textarea {
+    resize: vertical;
+    min-height: 8rem;
+  }
+
+  .field input:focus,
+  .field select:focus,
+  .field textarea:focus {
+    outline: 2px solid var(--color-blue);
+    outline-offset: 2px;
+    border-color: var(--color-blue);
+  }
+
+  .field input:user-invalid:not(:focus),
+  .field textarea:user-invalid:not(:focus),
+  .field.has-error input,
+  .field.has-error textarea {
+    border-color: var(--color-orange-dark);
+  }
+
+  .field-error {
+    margin: 0;
+    color: var(--color-orange-dark);
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  .hp {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .form-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.85rem 1.25rem;
+    margin-top: 0.35rem;
+  }
+
+  .form-actions .btn {
+    border: 0;
+    min-height: 44px;
+  }
+
+  .form-note {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--color-gray-500);
+  }
+
+  .contact-status {
+    margin-bottom: 1.15rem;
+    padding: 0.95rem 1.1rem;
+    border-radius: 10px;
+    border: 1px solid var(--color-blue);
+    background: var(--color-blue-soft);
+    color: var(--color-blue-deep);
+    font-weight: 600;
+    font-size: 0.98rem;
+  }
+
+  .contact-status.is-success {
+    border-color: var(--color-blue);
+  }
+
+  .contact-aside {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .aside-card {
+    background: var(--color-off-white);
+    border: 1px solid var(--color-gray-200);
+    border-radius: calc(var(--radius) + 2px);
+    padding: 1.35rem 1.4rem 1.5rem;
+    box-shadow: var(--shadow);
+  }
+
+  .aside-card h2 {
+    margin: 0 0 0.65rem;
+    font-size: 1.25rem;
+  }
+
+  .aside-lead {
+    color: var(--color-gray-700);
+    font-size: 0.98rem;
+  }
+
+  .hq-address {
+    font-style: normal;
+    margin: 0 0 1.15rem;
+    line-height: 1.55;
+    color: var(--color-gray-900);
+  }
+
+  .hq-address a {
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .aside-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin: 0;
+  }
+
+  .aside-links .btn {
+    padding: 0.55rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  .aside-media {
+    border-radius: calc(var(--radius) + 2px);
+    overflow: hidden;
+    background: var(--color-blue);
+    min-height: 180px;
+    border: 1px solid var(--color-gray-200);
+  }
+
+  .aside-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 860px) {
+    .contact-layout {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+  const form = document.getElementById('contact-form') as HTMLFormElement | null;
+  const statusEl = document.getElementById('contact-status');
+  const submitBtn = document.getElementById('contact-submit') as HTMLButtonElement | null;
+
+  const emailOk = (value: string) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+
+  function setError(id: string, message: string | null) {
+    const input = document.getElementById(`contact-${id}`);
+    const err = document.getElementById(`error-${id}`);
+    const field = input?.closest('.field');
+    if (!err || !field) return;
+    if (message) {
+      err.textContent = message;
+      err.hidden = false;
+      field.classList.add('has-error');
+      input?.setAttribute('aria-invalid', 'true');
+      input?.setAttribute('aria-describedby', `error-${id}`);
+    } else {
+      err.textContent = '';
+      err.hidden = true;
+      field.classList.remove('has-error');
+      input?.removeAttribute('aria-invalid');
+      input?.removeAttribute('aria-describedby');
+    }
+  }
+
+  function validate() {
+    if (!form) return false;
+    const name = (form.elements.namedItem('name') as HTMLInputElement).value.trim();
+    const email = (form.elements.namedItem('email') as HTMLInputElement).value.trim();
+    const message = (form.elements.namedItem('message') as HTMLTextAreaElement).value.trim();
+
+    let ok = true;
+    if (!name) {
+      setError('name', 'Please enter your name.');
+      ok = false;
+    } else {
+      setError('name', null);
+    }
+    if (!email) {
+      setError('email', 'Please enter your email.');
+      ok = false;
+    } else if (!emailOk(email)) {
+      setError('email', 'Please enter a valid email address.');
+      ok = false;
+    } else {
+      setError('email', null);
+    }
+    if (!message) {
+      setError('message', 'Please enter a message.');
+      ok = false;
+    } else {
+      setError('message', null);
+    }
+    return ok;
+  }
+
+  form?.addEventListener('submit', (event) => {
+    event.preventDefault();
+
+    // Honeypot filled → pretend success, do nothing useful
+    const hp = (form.elements.namedItem('company') as HTMLInputElement)?.value?.trim();
+    if (hp) {
+      return;
+    }
+
+    if (!validate()) {
+      const firstInvalid = form.querySelector('.has-error input, .has-error textarea') as HTMLElement | null;
+      firstInvalid?.focus();
+      return;
+    }
+
+    // UI-only preview: never POST. When PUBLIC_FORM_ENDPOINT / provider attrs
+    // are set later, replace this block with a real fetch/submit.
+    if (statusEl) {
+      statusEl.hidden = false;
+      statusEl.classList.add('is-success');
+      statusEl.textContent =
+        "Thanks — form delivery isn’t connected yet. This preview collects nothing.";
+    }
+    form.reset();
+    setError('name', null);
+    setError('email', null);
+    setError('message', null);
+    submitBtn?.blur();
+    statusEl?.focus?.();
+    statusEl?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+</script>

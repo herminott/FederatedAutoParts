@@ -46,6 +46,20 @@ Requires **Node.js 22.12+**.
 - `/news/[slug]/` — News article
 - `/[slug]/` — Marketing / legal pages from the `pages` collection
 - `/find-a-store/` — Store locator stub (coming soon)
+- `/contact/` — Contact form (UI only; no mail backend yet)
+
+## Contact form
+
+`/contact/` is a static UI form (Name, Email, optional Phone, Subject, Message, honeypot). On submit it validates required fields client-side and shows an inline preview message — it does **not** POST anywhere.
+
+To connect a provider later (Formspree, Web3Forms, etc.):
+
+1. Create an endpoint / form key with your provider.
+2. Set `PUBLIC_FORM_ENDPOINT` in the environment (or `.env`) to the form action URL, **or** fill `data-formspree-id` / `data-web3forms-key` on `#contact-form` in `src/pages/contact.astro`.
+3. Replace the preview-only `preventDefault` success path in the page `<script>` with a real `fetch`/`submit` to that endpoint.
+4. Keep the honeypot (`name="company"`) and map it to the provider’s spam field if supported.
+
+Do not commit real API keys; use env vars (`PUBLIC_*` for client-visible keys only when the provider requires a public access key).
 
 ## Importing WordPress export content
 
